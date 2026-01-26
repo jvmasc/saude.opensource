@@ -1,8 +1,8 @@
 ---
-title: "CASOS CLÍNICOS — 5 Casos Documentados"
+title: "5. CASOS CLÍNICOS DOCUMENTADOS"
 ---
 
-# CASOS CLÍNICOS — 5 Casos Documentados
+# 5. CASOS CLÍNICOS DOCUMENTADOS
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
