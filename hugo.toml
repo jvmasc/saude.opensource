@@ -2,8 +2,6 @@ baseURL = 'https://jvmasc.github.io/saude.opensource/'
 languageCode = 'pt-br'
 title = 'Pharmacopeia.info'
 theme = 'PaperMod'
-relativeURLs = true
-canonifyURLs = true
 
 enableEmoji = true
 enableGitInfo = true
