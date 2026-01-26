@@ -1,8 +1,8 @@
 ---
-title: "😰 PLAYBOOK — ANSIEDADE"
+title: "PLAYBOOK — ANSIEDADE"
 ---
 
-# 😰 PLAYBOOK — ANSIEDADE
+# PLAYBOOK — ANSIEDADE
 
 **Status:** <span class="status stable">✅ Stable</span>
 **Versão:** `v1.0`
@@ -11,7 +11,7 @@ title: "😰 PLAYBOOK — ANSIEDADE"
 
 ---
 
-## ⚠️ CAMADA 0: SCREENING OBRIGATÓRIO
+## CAMADA 0: SCREENING OBRIGATÓRIO
 
 **CRÍTICO: NÃO pule esta seção. Ansiedade pode ter causa ORGÂNICA.**
 
@@ -62,7 +62,7 @@ OPCIONAL:
 
 ---
 
-## 🎯 DESCARTAR HIPERTIREOIDISMO — PRIORIDADE #1
+## DESCARTAR HIPERTIREOIDISMO — PRIORIDADE #1
 
 **Por que hipertireoidismo é crítico na ansiedade?**
 
@@ -118,7 +118,7 @@ Link: Este caso NÃO é Open Source — requer médico especialista
 
 ---
 
-## 📌 TL;DR — EXECUTIVE SUMMARY
+## TL;DR — EXECUTIVE SUMMARY
 
 **O que é:**
 Ativação crônica do sistema simpático (luta/fuga) sem ameaça real. Não é "só mental" — é **desregulação autonômica** com componentes bioquímicos.
@@ -137,7 +137,7 @@ Redução de 40-60% dos sintomas em 2-4 semanas.
 
 ---
 
-## ⚠️ PRINCÍPIO FUNDAMENTAL
+## PRINCÍPIO FUNDAMENTAL
 
 **Ansiedade não é fraqueza. É simpático travado no ON.**
 
@@ -145,7 +145,7 @@ Sistema nervoso desregulado → cortisol alto → inflamação → mais ansiedad
 
 ---
 
-## 🎯 IDENTIFICAÇÃO RÁPIDA — OS 5 TIPOS
+## DENTIFICAÇÃO RÁPIDA — OS 5 TIPOS
 
 | Tipo | Sinais Principais | Causa Raiz | O que Fazer |
 |---|---|---|---|
@@ -288,7 +288,7 @@ Adicione:
 
 ---
 
-## 📊 DEEP DIVE — DIAGNÓSTICO DETALHADO (15 MIN)
+## DEEP DIVE — DIAGNÓSTICO DETALHADO (15 MIN)
 
 ### Tipo 1: Ansiedade Generalizada (TAG)
 
@@ -775,7 +775,7 @@ Intestino permeável (leaky gut) + disbiose → inflamação → citocinas → a
 
 ---
 
-## 📖 REFERÊNCIAS
+## REFERÊNCIAS
 
 1. Dr. Daniel Amen — *Healing Anxiety and Depression*
 2. Dr. Kelly Brogan — *A Mind of Your Own* (Abordagem integrativa)
@@ -787,7 +787,7 @@ Intestino permeável (leaky gut) + disbiose → inflamação → citocinas → a
 
 ---
 
-## 📈 INTEGRAÇÃO COM PROTOCOLOS FUNDACIONAIS
+## INTEGRAÇÃO COM PROTOCOLOS FUNDACIONAIS
 
 ### Hierarquia de Tratamento
 
