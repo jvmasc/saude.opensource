@@ -6,7 +6,7 @@ title: "MONITORAMENTO — Sinais de Progresso"
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/protocolo-mestre)**
+> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
 
 ---
 
@@ -420,7 +420,7 @@ AÇÕES:
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/protocolo-mestre)** | **[FAQ](/protocolo-mestre/faq.md)** | **[Casos Clínicos](/protocolo-mestre/casos-clinicos.md)**
+**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[FAQ](/protocolo-mestre/faq.md)** | **[Casos Clínicos](/protocolo-mestre/casos-clinicos.md)**
 
 ---
 

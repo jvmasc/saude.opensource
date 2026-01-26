@@ -432,7 +432,7 @@ MOVIMENTO + BIOQUÍMICA:
 
 ## NAVEGAÇÃO
 
-**[← Playbooks](/Playbooks)** | **[Pilar Psicológico](/docs/PILAR_PSICOLOGICO.md)** | **[Assessment 4D](/docs/ASSESSMENT_4D.md)** | **[Homepage](/)**
+**[← Playbooks](/docs/playbooks/)** | **[Pilar Psicológico](/docs/ferramentas/pilar_psicologico/)** | **[Assessment 4D](/docs/ferramentas/assessment_4d/)** | **[Homepage](/)**
 
 ---
 

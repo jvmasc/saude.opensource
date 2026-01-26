@@ -689,7 +689,7 @@ DOR LOMBAR + INTESTINO (se inflamatório):
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** auxilia na dor lombar atraves de:
+O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** auxilia na dor lombar atraves de:
 
 | Componente do Shot | Impacto na Dor Lombar |
 |-------------------|----------------------|
@@ -711,7 +711,7 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** auxilia na dor l
 
 ## NAVEGACAO
 
-**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
+**[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
 - **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Magnesio, D3, colageno

@@ -32,7 +32,7 @@ title: "[EMOJI] PLAYBOOK — [CONDIÇÃO]"
 ## ⚠️ PRÉ-REQUISITOS
 
 > **Antes de iniciar este playbook:**
-> - [ ] Screening completo realizado → [Ver Checklist](/docs/SCREENING)
+> - [ ] Screening completo realizado → [Ver Checklist](/docs/ferramentas/screening-v2/)
 > - [ ] Contraindicações verificadas
 > - [ ] Protocolos fundacionais em andamento (se múltiplos sintomas) → [Ver Fundacionais](/fundacionais)
 
@@ -224,7 +224,7 @@ _____________________
 
 ## 🚨 RED FLAGS — PROCURE MÉDICO
 
-> Para lista completa de red flags gerais: [Ver Screening](/docs/SCREENING)
+> Para lista completa de red flags gerais: [Ver Screening](/docs/ferramentas/screening-v2/)
 
 **Sintomas de Alarme Específicos para [Condição]:**
 

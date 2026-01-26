@@ -335,7 +335,7 @@ CUSTO APROXIMADO (particular):
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Screening](/docs/SCREENING-v2.md)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Screening](/docs/ferramentas/screening-v2/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
 
 ---
 

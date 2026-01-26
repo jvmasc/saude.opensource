@@ -356,7 +356,7 @@ LEGENDA:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Módulos](/modulos)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Módulos](/docs/modulos/)** | **[Homepage](/)**
 
 ---
 

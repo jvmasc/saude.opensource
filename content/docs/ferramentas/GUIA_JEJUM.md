@@ -497,7 +497,7 @@ RECOMENDADO: 24-36h ocasional
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Reset Circadiano](/Playbooks/reset-circadiano.md)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Reset Circadiano](/Playbooks/reset-circadiano.md)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
 
 ---
 

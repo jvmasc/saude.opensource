@@ -6,7 +6,7 @@ title: "M9: PROTOCOLO DE BORO (BORAX)"
 
 **Status:** `v4.0` | **Última Atualização:** 26-01-2026
 
-> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Boro
+> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Boro
 
 ---
 
@@ -51,7 +51,7 @@ Confundir **bórax** (seguro em doses corretas) com **ácido bórico** (mais con
 ## ⚠️ PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
-> - [ ] Screening completo realizado → **[Ver Checklist](/docs/SCREENING-v2.md)**
+> - [ ] Screening completo realizado → **[Ver Checklist](/docs/ferramentas/screening-v2/)**
 > - [ ] Função renal normal (boro é excretado pelos rins)
 > - [ ] Não estar grávida ou amamentando
 > - [ ] Verificar interações medicamentosas
@@ -235,7 +235,7 @@ SE REAÇÕES INTENSAS:
 
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
+**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
 
 **Módulos Relacionados:**
 - **[M1: Iodo](/modulos/iodo.md)** — Analogia tireoide/paratireoides

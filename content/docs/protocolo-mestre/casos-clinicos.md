@@ -6,7 +6,7 @@ title: "CASOS CLÍNICOS — 5 Casos Documentados"
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/protocolo-mestre)**
+> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
 
 ---
 
@@ -269,7 +269,7 @@ title: "CASOS CLÍNICOS — 5 Casos Documentados"
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/protocolo-mestre)** | **[FAQ](/protocolo-mestre/faq.md)** | **[Monitoramento](/protocolo-mestre/monitoramento.md)**
+**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[FAQ](/protocolo-mestre/faq.md)** | **[Monitoramento](/protocolo-mestre/monitoramento.md)**
 
 ---
 

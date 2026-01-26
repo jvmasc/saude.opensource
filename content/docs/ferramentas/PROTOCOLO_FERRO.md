@@ -437,7 +437,7 @@ MANUTENÇÃO:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Cronograma Exames](/docs/CRONOGRAMA_EXAMES.md)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Cronograma Exames](/docs/ferramentas/cronograma_exames/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
 
 ---
 

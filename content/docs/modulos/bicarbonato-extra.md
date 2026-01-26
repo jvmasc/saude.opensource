@@ -6,7 +6,7 @@ title: "M8: BICARBONATO EXTRA — Alcalinização Digestiva"
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Bicarbonato de Sódio
+> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Bicarbonato de Sódio
 
 ---
 
@@ -304,7 +304,7 @@ Sal de frutas contém outros componentes (citrato, ácido cítrico). Bicarbonato
 
 ## NAVEGAÇÃO
 
-**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Água Oxigenada](/modulos/agua-oxigenada.md)**
+**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Água Oxigenada](/modulos/agua-oxigenada.md)**
 
 ---
 

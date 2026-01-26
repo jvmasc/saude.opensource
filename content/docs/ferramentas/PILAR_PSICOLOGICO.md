@@ -380,7 +380,7 @@ PROFISSIONAIS:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Assessment 4D](/docs/ASSESSMENT_4D.md)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Assessment 4D](/docs/ferramentas/assessment_4d/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
 
 ---
 

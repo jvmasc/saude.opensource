@@ -439,7 +439,7 @@ IODO:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Matriz Interações](/docs/MATRIZ_INTERACOES.md)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Matriz Interações](/docs/ferramentas/matriz_interacoes/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
 
 ---
 

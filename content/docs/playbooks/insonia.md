@@ -720,7 +720,7 @@ ANTES DE DORMIR:
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** contem componentes que melhoram o sono:
+O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** contem componentes que melhoram o sono:
 
 | Componente do Shot | Impacto no Sono |
 |-------------------|-----------------|
@@ -742,7 +742,7 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** contem component
 
 ## NAVEGACAO
 
-**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
+**[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
 - **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Magnesio, glicina, B6 (cofatores do sono)
