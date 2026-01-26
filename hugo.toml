@@ -1,0 +1,70 @@
+baseURL = 'https://jvmasc.github.io/saude.opensource/'
+languageCode = 'pt-br'
+title = 'Pharmacopeia.info'
+theme = 'PaperMod'
+
+enableEmoji = true
+enableGitInfo = true
+
+[params]
+  description = "The Open Source Health Repository — Protocolos de saúde integrativa, documentados e hackeáveis."
+  author = "Farm. João"
+
+  env = "production"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = true
+
+  homeInfoParams.Title = "🔬 Pharmacopeia.info"
+  homeInfoParams.Content = "The Open Source Health Repository — Autonomia Biológica através de protocolos documentados e hackeáveis."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/jvmasc/saude.opensource"
+
+[params.editPost]
+  URL = "https://github.com/jvmasc/saude.opensource/edit/main/content"
+  Text = "Sugerir edição"
+  appendFilePath = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[menu]
+  [[menu.main]]
+    identifier = "protocolo"
+    name = "Protocolo Mestre"
+    url = "/docs/protocolo-mestre/"
+    weight = 10
+  [[menu.main]]
+    identifier = "modulos"
+    name = "Módulos"
+    url = "/docs/modulos/"
+    weight = 20
+  [[menu.main]]
+    identifier = "playbooks"
+    name = "Playbooks"
+    url = "/docs/playbooks/"
+    weight = 30
+  [[menu.main]]
+    identifier = "ferramentas"
+    name = "Ferramentas"
+    url = "/docs/ferramentas/"
+    weight = 40
+  [[menu.main]]
+    identifier = "search"
+    name = "🔍"
+    url = "/search/"
+    weight = 50
