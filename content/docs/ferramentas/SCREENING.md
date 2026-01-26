@@ -2,8 +2,6 @@
 title: "🔬 SCREENING — Checklist Pré-Protocolo"
 ---
 
-# 🔬 SCREENING — Checklist Pré-Protocolo
-
 **Status:** `v1.0` | **Última Atualização:** 20-01-2026
 
 ---
@@ -216,7 +214,7 @@ PRONTO PARA INICIAR:
 
 ## 🔗 NAVEGAÇÃO
 
-**← [Homepage](/)** | **[Fundacionais](/fundacionais)** | **[Playbooks](/debugging)**
+**← [Homepage](//saude.opensource)** | **[Fundacionais](/saude.opensource/fundacionais)** | **[Playbooks](/saude.opensource/debugging)**
 
 ---
 
