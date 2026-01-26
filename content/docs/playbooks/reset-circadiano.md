@@ -1,3 +1,7 @@
+---
+title: "PLAYBOOK: Reset Circadiano"
+---
+
 # PLAYBOOK: Reset Circadiano
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

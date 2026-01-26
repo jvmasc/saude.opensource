@@ -1,3 +1,7 @@
+---
+title: "Análise da Arquitetura 4D — Recomendações Estratégicas"
+---
+
 # Análise da Arquitetura 4D — Recomendações Estratégicas (v3.1)
 
 **Data:** 25-01-2026  

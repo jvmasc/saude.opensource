@@ -1,3 +1,7 @@
+---
+title: "M1: PROTOCOLO DE IODO (Lugol 5%)"
+---
+
 # M1: PROTOCOLO DE IODO (Lugol 5%)
 
 **Status:** `v4.0` | **Ultima Atualizacao:** 24-01-2026

@@ -1,3 +1,7 @@
+---
+title: "PILAR PSICOLÓGICO — A 5ª Dimensão"
+---
+
 # PILAR PSICOLÓGICO — A 5ª Dimensão
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

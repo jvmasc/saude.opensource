@@ -1,3 +1,7 @@
+---
+title: "MATRIZ DE INTERAÇÕES — Suplementos e Medicamentos"
+---
+
 # MATRIZ DE INTERAÇÕES — Suplementos e Medicamentos
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

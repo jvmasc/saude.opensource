@@ -1,3 +1,7 @@
+---
+title: "VERSÕES DO PROTOCOLO — Escolha a Sua"
+---
+
 # VERSÕES DO PROTOCOLO — Escolha a Sua
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026

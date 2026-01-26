@@ -1,3 +1,7 @@
+---
+title: "PLAYBOOK: Mobilidade e Fáscia"
+---
+
 # PLAYBOOK: Mobilidade e Fáscia
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

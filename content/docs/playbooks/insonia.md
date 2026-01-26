@@ -1,3 +1,7 @@
+---
+title: "💤 PLAYBOOK — INSÔNIA"
+---
+
 # 💤 PLAYBOOK — INSÔNIA
 
 **Status:** <span class="status stable">✅ Stable</span>

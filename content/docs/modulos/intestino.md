@@ -1,3 +1,7 @@
+---
+title: "M4: PROTOCOLO DE INTEGRIDADE INTESTINAL"
+---
+
 # M4: PROTOCOLO DE INTEGRIDADE INTESTINAL
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026

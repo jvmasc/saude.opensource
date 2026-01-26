@@ -1,3 +1,7 @@
+---
+title: "M3: PROTOCOLO DE DETOX DE HALOGÊNIOS"
+---
+
 # M3: PROTOCOLO DE DETOX DE HALOGÊNIOS
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026

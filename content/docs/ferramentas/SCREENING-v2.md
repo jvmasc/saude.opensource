@@ -1,3 +1,7 @@
+---
+title: "SCREENING v2 — Checklist Pré-Protocolo"
+---
+
 # SCREENING v2 — Checklist Pré-Protocolo
 
 **Status:** `v2.0` | **Última Atualização:** 24-01-2026

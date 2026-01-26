@@ -1,3 +1,7 @@
+---
+title: "MONITORAMENTO — Sinais de Progresso"
+---
+
 # MONITORAMENTO — Sinais de Progresso
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026

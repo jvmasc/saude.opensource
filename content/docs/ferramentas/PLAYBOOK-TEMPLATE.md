@@ -1,3 +1,7 @@
+---
+title: "[EMOJI] PLAYBOOK — [CONDIÇÃO]"
+---
+
 # [EMOJI] PLAYBOOK — [CONDIÇÃO]
 
 **Status:** <span class="status [stable/beta/draft]">[STATUS]</span>

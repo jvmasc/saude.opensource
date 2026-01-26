@@ -1,3 +1,7 @@
+---
+title: "GLOSSÁRIO — Termos Técnicos"
+---
+
 # GLOSSÁRIO — Termos Técnicos
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026

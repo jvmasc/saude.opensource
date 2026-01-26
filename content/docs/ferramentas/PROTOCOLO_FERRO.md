@@ -1,3 +1,7 @@
+---
+title: "PROTOCOLO DE FERRO — Otimização e Correção"
+---
+
 # PROTOCOLO DE FERRO — Otimização e Correção
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

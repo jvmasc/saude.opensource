@@ -1,3 +1,7 @@
+---
+title: "CALCULADORA DE DOSAGEM — Guia de Ajustes"
+---
+
 # CALCULADORA DE DOSAGEM — Guia de Ajustes
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

@@ -1,3 +1,7 @@
+---
+title: "FAQ — Perguntas Frequentes"
+---
+
 # FAQ — Perguntas Frequentes
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026

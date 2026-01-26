@@ -1,3 +1,7 @@
+---
+title: "🔬 SCREENING — Checklist Pré-Protocolo"
+---
+
 # 🔬 SCREENING — Checklist Pré-Protocolo
 
 **Status:** `v1.0` | **Última Atualização:** 20-01-2026

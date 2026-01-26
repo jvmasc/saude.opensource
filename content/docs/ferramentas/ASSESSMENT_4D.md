@@ -1,3 +1,7 @@
+---
+title: "ASSESSMENT 4D — Questionário Diagnóstico"
+---
+
 # ASSESSMENT 4D — Questionário Diagnóstico
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

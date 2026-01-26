@@ -1,3 +1,7 @@
+---
+title: "GUIA DE JEJUM — Tipos, Indicações e Protocolos"
+---
+
 # GUIA DE JEJUM — Tipos, Indicações e Protocolos
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

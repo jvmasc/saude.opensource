@@ -1,3 +1,7 @@
+---
+title: "😰 PLAYBOOK — ANSIEDADE"
+---
+
 # 😰 PLAYBOOK — ANSIEDADE
 
 **Status:** <span class="status stable">✅ Stable</span>

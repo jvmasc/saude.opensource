@@ -1,3 +1,7 @@
+---
+title: "PROTOCOLO DE EMERGÊNCIA — Manejo de Crises"
+---
+
 # PROTOCOLO DE EMERGÊNCIA — Manejo de Crises
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

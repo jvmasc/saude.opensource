@@ -1,3 +1,7 @@
+---
+title: "M5: DESPARASITAÇÃO — Protocolo Ivermectina"
+---
+
 # M5: DESPARASITAÇÃO — Protocolo Ivermectina
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026

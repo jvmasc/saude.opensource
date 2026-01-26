@@ -1,3 +1,7 @@
+---
+title: "M8: BICARBONATO EXTRA — Alcalinização Digestiva"
+---
+
 # M8: BICARBONATO EXTRA — Alcalinização Digestiva
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026

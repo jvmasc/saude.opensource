@@ -1,3 +1,7 @@
+---
+title: "CRONOGRAMA DE EXAMES — Guia Laboratorial"
+---
+
 # CRONOGRAMA DE EXAMES — Guia Laboratorial
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

@@ -1,3 +1,7 @@
+---
+title: "M6: DIETA CARNÍVORA — Reset Intestinal"
+---
+
 # M6: DIETA CARNÍVORA — Reset Intestinal
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026

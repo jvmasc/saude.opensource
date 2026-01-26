@@ -1,3 +1,7 @@
+---
+title: "M7: ÁGUA OXIGENADA — Oxigenação e Detox"
+---
+
 # M7: ÁGUA OXIGENADA — Oxigenação e Detox
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
