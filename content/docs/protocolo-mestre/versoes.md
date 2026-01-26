@@ -1,12 +1,12 @@
 ---
-title: "VERSÕES DO PROTOCOLO — Escolha a Sua"
+title: "2. VERSÕES DO PROTOCOLO — Escolha a Sua"
 ---
 
-# VERSÕES DO PROTOCOLO — Escolha a Sua
+# 2. VERSÕES DO PROTOCOLO — Escolha a Sua
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
+> **Deep Dive do [Protocolo Mestre](/saude.opensource/docs/protocolo-mestre/)**
 
 ---
 
