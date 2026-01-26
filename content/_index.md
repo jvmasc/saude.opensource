@@ -3,7 +3,7 @@ title: "Pharmacopeia.info"
 layout: "home"
 ---
 
-# 🔬 Pharmacopeia.info
+# 🔬 HUMAN OS v4.0
 
 > *The Open Source Health Repository*
 
