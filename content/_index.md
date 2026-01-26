@@ -40,7 +40,7 @@ Este não é um blog de saúde.
 
 Você é prático. Quer resultado rápido. **Shot dos Campeões = 2 minutos.**
 
-**[→ Protocolo Mestre](/docs/protocolo-mestre/)**
+**[→ Protocolo Mestre](/saude.opensource/docs/protocolo-mestre/)**
 
 ---
 
