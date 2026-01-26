@@ -6,7 +6,7 @@ title: "5. CASOS CLÍNICOS DOCUMENTADOS"
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
+> **Deep Dive do [Protocolo Mestre](/saude.opensource/docs/protocolo-mestre/)**
 
 ---
 
@@ -269,7 +269,7 @@ title: "5. CASOS CLÍNICOS DOCUMENTADOS"
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[FAQ](/protocolo-mestre/faq.md)** | **[Monitoramento](/protocolo-mestre/monitoramento.md)**
+**[← Protocolo Mestre](/saude.opensource/docs/protocolo-mestre/)** | **[FAQ](/saude.opensource/protocolo-mestre/faq.md)** | **[Monitoramento](/saude.opensource/protocolo-mestre/monitoramento.md)**
 
 ---
 
