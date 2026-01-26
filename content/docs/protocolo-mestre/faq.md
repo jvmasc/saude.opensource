@@ -1,12 +1,12 @@
 ---
-title: "FAQ — Perguntas Frequentes"
+title: "6. FAQ — Perguntas Frequentes"
 ---
 
-# FAQ — Perguntas Frequentes
+# 6. FAQ — Perguntas Frequentes
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
+> **Deep Dive do [Protocolo Mestre](/saude.opensource/docs/protocolo-mestre/)**
 
 ---
 
@@ -329,7 +329,7 @@ ESPAÇAMENTO NECESSÁRIO:
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[Casos Clínicos](/protocolo-mestre/casos-clinicos.md)** | **[Monitoramento](/protocolo-mestre/monitoramento.md)**
+**[← Protocolo Mestre](/saude.opensource/docs/protocolo-mestre/)** | **[Casos Clínicos](/saude.opensource/protocolo-mestre/casos-clinicos.md)** | **[Monitoramento](/saude.opensource/protocolo-mestre/monitoramento.md)**
 
 ---
 
