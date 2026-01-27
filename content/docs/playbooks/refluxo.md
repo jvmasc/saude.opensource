@@ -8,7 +8,7 @@ tags: []
 title: 🔥 PLAYBOOK — REFLUXO GÁSTRICO
 ---
 
-# 🔥 PLAYBOOK — REFLUXO GÁSTRICO
+# PLAYBOOK — REFLUXO GÁSTRICO
 
 **Status:** <span class="status stable">✅ Stable</span>
 **Versão:** `v1.0`

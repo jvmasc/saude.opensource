@@ -8,7 +8,7 @@ tags: []
 title: 💤 PLAYBOOK — INSÔNIA
 ---
 
-# 💤 PLAYBOOK — INSÔNIA
+# PLAYBOOK — INSÔNIA
 
 **Status:** <span class="status stable">✅ Stable</span>
 **Versão:** `v1.0`

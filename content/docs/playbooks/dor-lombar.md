@@ -8,7 +8,7 @@ tags: []
 title: 🦴 PLAYBOOK — DOR LOMBAR
 ---
 
-# 🦴 PLAYBOOK — DOR LOMBAR
+# PLAYBOOK — DOR LOMBAR
 
 **Status:** <span class="status stable">✅ Stable</span>
 **Versão:** `v1.0`

@@ -8,7 +8,7 @@ tags: []
 title: 🦠 PLAYBOOK — IMUNIDADE BAIXA
 ---
 
-# 🦠 PLAYBOOK — IMUNIDADE BAIXA
+# PLAYBOOK — IMUNIDADE BAIXA
 
 **Status:** <span class="status stable">✅ Stable</span>
 **Versão:** `v1.0`

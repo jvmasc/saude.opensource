@@ -8,7 +8,7 @@ tags: []
 title: 🔋 PLAYBOOK — FADIGA CRÔNICA
 ---
 
-# 🔋 PLAYBOOK — FADIGA CRÔNICA
+# PLAYBOOK — FADIGA CRÔNICA
 
 **Status:** <span class="status stable">✅ Stable</span>
 **Versão:** `v1.0`
