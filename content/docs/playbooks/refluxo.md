@@ -1,6 +1,6 @@
 ---
 categories:
-- Playbooks
+- Manual
 date: '2026-01-27'
 description: 🔥 PLAYBOOK — REFLUXO GÁSTRICO
 draft: false

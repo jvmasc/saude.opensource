@@ -1,6 +1,6 @@
 ---
 categories:
-- Playbooks
+- Manual
 date: '2026-01-27'
 description: PLAYBOOK — ANSIEDADE
 draft: false
