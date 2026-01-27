@@ -47,7 +47,7 @@ Tomar **probióticos sem preparar o terreno** — jogar sementes em solo contami
 
 ---
 
-## ⚠️ PRÉ-REQUISITOS
+##  PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
 > - [ ] Screening completo realizado → **[Ver Checklist](/docs/ferramentas/screening-v2/)**
@@ -57,7 +57,7 @@ Tomar **probióticos sem preparar o terreno** — jogar sementes em solo contami
 
 ---
 
-## ⚠️ PRINCÍPIO FUNDAMENTAL
+##  PRINCÍPIO FUNDAMENTAL
 
 **O intestino é o SEGUNDO CÉREBRO e o CENTRO DA IMUNIDADE:**
 
@@ -177,11 +177,11 @@ OPCIONAL (se suspeita de SIBO):
 
 **O que PODE comer:**
 ```
-✅ PROTEÍNAS: Carnes, peixes, ovos, frango
-✅ VEGETAIS: Todos (especialmente folhas verdes)
-✅ GORDURAS: Azeite, abacate, coco, manteiga ghee
-✅ CARBOIDRATOS: Arroz, batata, mandioca, frutas
-✅ TEMPEROS: Ervas, especiarias, sal integral
+ PROTEÍNAS: Carnes, peixes, ovos, frango
+ VEGETAIS: Todos (especialmente folhas verdes)
+ GORDURAS: Azeite, abacate, coco, manteiga ghee
+ CARBOIDRATOS: Arroz, batata, mandioca, frutas
+ TEMPEROS: Ervas, especiarias, sal integral
 ```
 
 ---
@@ -312,7 +312,7 @@ FASE 3 — REINTRODUÇÃO (gradual):
 ### Protocolo para SIBO
 
 ```
-⚠️ SIBO requer abordagem específica — considere acompanhamento profissional
+ SIBO requer abordagem específica — considere acompanhamento profissional
 
 FASE 1 — ANTIMICROBIANOS (4-6 semanas):
 □ Óleo de orégano 200mg 2x/dia
@@ -372,7 +372,7 @@ CAUSA RAIZ:
 
 ---
 
-## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO
+##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO
 
 ### 1. BIOQUÍMICA (O que entra)
 

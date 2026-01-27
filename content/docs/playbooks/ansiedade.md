@@ -10,7 +10,7 @@ title: PLAYBOOK — ANSIEDADE
 
 # PLAYBOOK — ANSIEDADE
 
-**Status:** <span class="status stable">✅ Stable</span>
+**Status:** <span class="status stable"> Stable</span>
 **Versão:** `v1.0`
 **Última Atualização:** 21-01-2026
 **Tipo:** `Playbook de Debugging`
@@ -667,7 +667,7 @@ Intestino permeável (leaky gut) + disbiose → inflamação → citocinas → a
 
 ---
 
-## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (Neuroquímica & Hormônios)
 

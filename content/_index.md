@@ -7,7 +7,7 @@ tags: []
 title: Pharmacopeia.info
 ---
 
-# 🔬 HUMAN OS v4.0
+#  HUMAN OS v4.0
 
 > *The Open Source Health Repository*
 
@@ -40,7 +40,7 @@ Este não é um blog de saúde.
 
 ## Escolha seu Caminho
 
-### 🚀 "Só quero o script."
+### "Só quero o script."
 
 Você é prático. Quer resultado rápido. **Shot dos Campeões = 2 minutos.**
 
@@ -48,7 +48,7 @@ Você é prático. Quer resultado rápido. **Shot dos Campeões = 2 minutos.**
 
 ---
 
-### 🔬 "Quero entender TUDO."
+### "Quero entender TUDO."
 
 Você é investigador. Quer dominar a máquina. **9 Módulos de aprofundamento.**
 
@@ -56,7 +56,7 @@ Você é investigador. Quer dominar a máquina. **9 Módulos de aprofundamento.*
 
 ---
 
-### 🩺 "Tenho um sintoma específico."
+### "Tenho um sintoma específico."
 
 Você tem um problema pontual. **Playbooks de debugging.**
 
@@ -72,13 +72,13 @@ Você tem um problema pontual. **Playbooks de debugging.**
 | **1** | Protocolo Mestre | [Shot dos Campeões](/docs/protocolo-mestre/) |
 | **2** | Módulos | [9 Deep Dives](/docs/modulos/) |
 | **3** | Playbooks | [8 Sintomas](/docs/playbooks/) |
-| **⚠️** | Emergência | [Protocolo de Crise](/docs/ferramentas/protocolo_emergencia/) |
+| **** | Emergência | [Protocolo de Crise](/docs/ferramentas/protocolo_emergencia/) |
 
 ---
 
 ## Importante
 
-**🚨 RED FLAGS (VÁ AO HOSPITAL):**
+**RED FLAGS (VÁ AO HOSPITAL):**
 Dor no peito • Desmaio • Vômito com sangue • Febre alta persistente
 
 **ANTES de iniciar protocolos:**

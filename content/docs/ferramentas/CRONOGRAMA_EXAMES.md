@@ -134,12 +134,12 @@ Ferritina > 200 = investigar inflamação/hemocromatose
 ### Notas Importantes
 
 ```
-⚠️ TSH PODE SUBIR com iodo — isso é ESPERADO
+ TSH PODE SUBIR com iodo — isso é ESPERADO
    O iodo estimula os simporters NIS
    Não significa hipotireoidismo
    Avaliar pelos SINTOMAS + T3/T4, não só TSH
 
-⚠️ T3 REVERSO aumentado = stress, inflamação, dieta restrita
+ T3 REVERSO aumentado = stress, inflamação, dieta restrita
    Não é falta de iodo
    Tratar causa base
 ```

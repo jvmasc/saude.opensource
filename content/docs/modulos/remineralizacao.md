@@ -44,7 +44,7 @@ Suplementar **doses baixas** ou **formas erradas** (ex: óxido de magnésio tem 
 
 ---
 
-## ⚠️ PRÉ-REQUISITOS
+##  PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
 > - [ ] Screening completo realizado → **[Ver Checklist](/docs/ferramentas/screening-v2/)**
@@ -53,7 +53,7 @@ Suplementar **doses baixas** ou **formas erradas** (ex: óxido de magnésio tem 
 
 ---
 
-## ⚠️ PRINCÍPIO FUNDAMENTAL
+##  PRINCÍPIO FUNDAMENTAL
 
 **Minerais são os COFATORES que fazem o corpo funcionar:**
 
@@ -468,7 +468,7 @@ JEJUM PROLONGADO (>24h):
 
 ---
 
-## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO
+##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO
 
 ### 1. BIOQUÍMICA (O que entra)
 

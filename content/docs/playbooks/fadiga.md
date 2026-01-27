@@ -2,22 +2,22 @@
 categories:
 - Manual
 date: '2026-01-27'
-description: 🔋 PLAYBOOK — FADIGA CRÔNICA
+description:  PLAYBOOK — FADIGA CRÔNICA
 draft: false
 tags: []
-title: 🔋 PLAYBOOK — FADIGA CRÔNICA
+title:  PLAYBOOK — FADIGA CRÔNICA
 ---
 
 # PLAYBOOK — FADIGA CRÔNICA
 
-**Status:** <span class="status stable">✅ Stable</span>
+**Status:** <span class="status stable"> Stable</span>
 **Versão:** `v1.0`
 **Última Atualização:** 21-01-2026
 **Tipo:** `Playbook de Debugging`
 
 ---
 
-## ⚠️ CAMADA 0: SCREENING OBRIGATÓRIO
+##  CAMADA 0: SCREENING OBRIGATÓRIO
 
 **CRÍTICO: NÃO pule esta seção. Fadiga pode esconder condições sérias.**
 
@@ -150,7 +150,7 @@ Melhora de 30-50% da energia em 2-4 semanas.
 
 ---
 
-## ⚠️ PRINCÍPIO FUNDAMENTAL
+##  PRINCÍPIO FUNDAMENTAL
 
 **Fadiga crônica = falha crônica de ATP.**
 
@@ -624,7 +624,7 @@ Inflamação crônica → citocinas inflamatórias (IL-6, TNF-α) → fadiga sis
 
 ---
 
-## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (Suporte Energético)
 

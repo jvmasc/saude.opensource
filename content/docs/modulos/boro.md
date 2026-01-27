@@ -44,7 +44,7 @@ Confundir **bórax** (seguro em doses corretas) com **ácido bórico** (mais con
 
 ---
 
-## ⚠️ AVISOS IMPORTANTES
+##  AVISOS IMPORTANTES
 
 > **ATENÇÃO:**
 > - Bórax é **classificado como veneno reprodutivo na União Europeia** desde 2010
@@ -54,7 +54,7 @@ Confundir **bórax** (seguro em doses corretas) com **ácido bórico** (mais con
 
 ---
 
-## ⚠️ PRÉ-REQUISITOS
+##  PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
 > - [ ] Screening completo realizado → **[Ver Checklist](/docs/ferramentas/screening-v2/)**
@@ -64,7 +64,7 @@ Confundir **bórax** (seguro em doses corretas) com **ácido bórico** (mais con
 
 ---
 
-## 🔬 MECANISMO DE AÇÃO
+##  MECANISMO DE AÇÃO
 
 ### Distribuição no Corpo
 

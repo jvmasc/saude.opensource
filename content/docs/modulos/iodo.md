@@ -40,7 +40,7 @@ Suplementar iodo SEM fazer **SCREENING** antes — pode piorar Hashimoto, Graves
 
 ---
 
-## ⚠️ CAMADA 0: SCREENING OBRIGATÓRIO
+##  CAMADA 0: SCREENING OBRIGATÓRIO
 
 **CRÍTICO: NÃO pule esta seção. Iodo pode piorar certas condições.**
 
@@ -301,7 +301,7 @@ O iodo desloca bromo dos tecidos → bromo entra na corrente sanguínea → sint
 
 ---
 
-## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (O que entra)
 
@@ -393,7 +393,7 @@ Pintar área de 5x5cm com Lugol no antebraço
 
 ---
 
-## 🔧 PROTOCOLOS ESPECIAIS
+##  PROTOCOLOS ESPECIAIS
 
 ### Protocolo Hashimoto (1-12 meses de preparação)
 

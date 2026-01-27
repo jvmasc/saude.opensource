@@ -20,8 +20,8 @@ title: MATRIZ DE INTERAÇÕES — Suplementos e Medicamentos
 
 ```
 LEGENDA:
-✅ = Sinergia (tomar junto potencializa)
-⚠️ = Separar (tomar com intervalo de 2-4h)
+ = Sinergia (tomar junto potencializa)
+ = Separar (tomar com intervalo de 2-4h)
 ❌ = Evitar combinação
 🕐 = Timing específico (ver notas)
 ```
@@ -34,14 +34,14 @@ LEGENDA:
 
 |  | Iodo | Selênio | Magnésio | Zinco | Ferro | Vit D3 | Vit C | Vit K2 |
 |--|------|---------|----------|-------|-------|--------|-------|--------|
-| **Iodo** | — | ✅ | ✅ | ✅ | ⚠️ | ✅ | ✅ | ✅ |
-| **Selênio** | ✅ | — | ✅ | ⚠️ | ✅ | ✅ | ✅ | ✅ |
-| **Magnésio** | ✅ | ✅ | — | ⚠️ | ⚠️ | ✅ | ✅ | ✅ |
-| **Zinco** | ✅ | ⚠️ | ⚠️ | — | ⚠️ | ✅ | ⚠️ | ✅ |
-| **Ferro** | ⚠️ | ✅ | ⚠️ | ⚠️ | — | ✅ | ✅ | ✅ |
-| **Vit D3** | ✅ | ✅ | ✅ | ✅ | ✅ | — | ✅ | ✅ |
-| **Vit C** | ✅ | ✅ | ✅ | ⚠️ | ✅ | ✅ | — | ✅ |
-| **Vit K2** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | — |
+| **Iodo** | — |  |  |  |  |  |  |  |
+| **Selênio** |  | — |  |  |  |  |  |  |
+| **Magnésio** |  |  | — |  |  |  |  |  |
+| **Zinco** |  |  |  | — |  |  |  |  |
+| **Ferro** |  |  |  |  | — |  |  |  |
+| **Vit D3** |  |  |  |  |  | — |  |  |
+| **Vit C** |  |  |  |  |  |  | — |  |
+| **Vit K2** |  |  |  |  |  |  |  | — |
 
 ---
 
@@ -261,18 +261,18 @@ LEGENDA:
 | Suplemento | Interação |
 |------------|-----------|
 | **Vitamina K2** | ❌ Reduz efeito — EVITAR ou ajustar dose com médico |
-| **Vitamina E** | ⚠️ Pode aumentar sangramento |
-| **Ômega-3** | ⚠️ Pode aumentar sangramento |
-| **Ginkgo** | ⚠️ Aumenta sangramento |
+| **Vitamina E** |  Pode aumentar sangramento |
+| **Ômega-3** |  Pode aumentar sangramento |
+| **Ginkgo** |  Aumenta sangramento |
 
 ### Hormônio Tireoidiano (Levotiroxina)
 
 | Suplemento | Interação |
 |------------|-----------|
-| **Ferro** | ⚠️ Separar 4h — reduz absorção |
-| **Cálcio** | ⚠️ Separar 4h — reduz absorção |
-| **Magnésio** | ⚠️ Separar 2-4h |
-| **Café** | ⚠️ Separar 1h |
+| **Ferro** |  Separar 4h — reduz absorção |
+| **Cálcio** |  Separar 4h — reduz absorção |
+| **Magnésio** |  Separar 2-4h |
+| **Café** |  Separar 1h |
 | **Iodo** | 🕐 Tomar 30-40min DEPOIS do hormônio |
 
 ### Antibióticos
@@ -286,17 +286,17 @@ LEGENDA:
 
 | Suplemento | Interação |
 |------------|-----------|
-| **5-HTP** | ⚠️ Risco de síndrome serotoninérgica com ISRS |
-| **SAMe** | ⚠️ Risco de síndrome serotoninérgica |
+| **5-HTP** |  Risco de síndrome serotoninérgica com ISRS |
+| **SAMe** |  Risco de síndrome serotoninérgica |
 | **St. John's Wort** | ❌ Múltiplas interações — EVITAR |
 
 ### Medicamentos para Pressão
 
 | Suplemento | Interação |
 |------------|-----------|
-| **Potássio** | ⚠️ Cuidado com IECA/BRA — risco de hipercalemia |
-| **Magnésio** | ⚠️ Pode potencializar hipotensão |
-| **CoQ10** | ⚠️ Pode reduzir pressão adicionalmente |
+| **Potássio** |  Cuidado com IECA/BRA — risco de hipercalemia |
+| **Magnésio** |  Pode potencializar hipotensão |
+| **CoQ10** |  Pode reduzir pressão adicionalmente |
 
 ---
 

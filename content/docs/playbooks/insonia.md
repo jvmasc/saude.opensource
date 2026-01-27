@@ -2,22 +2,22 @@
 categories:
 - Manual
 date: '2026-01-27'
-description: 💤 PLAYBOOK — INSÔNIA
+description:  PLAYBOOK — INSÔNIA
 draft: false
 tags: []
-title: 💤 PLAYBOOK — INSÔNIA
+title:  PLAYBOOK — INSÔNIA
 ---
 
 # PLAYBOOK — INSÔNIA
 
-**Status:** <span class="status stable">✅ Stable</span>
+**Status:** <span class="status stable"> Stable</span>
 **Versão:** `v1.0`
 **Última Atualização:** 21-01-2026
 **Tipo:** `Playbook de Debugging`
 
 ---
 
-## ⚠️ CAMADA 0: SCREENING OBRIGATÓRIO
+##  CAMADA 0: SCREENING OBRIGATÓRIO
 
 **CRÍTICO: NÃO pule esta seção. Insônia pode ter causa ORGÂNICA.**
 
@@ -165,7 +165,7 @@ Melhora de 50-70% da qualidade do sono em 7-14 dias.
 
 ---
 
-## ⚠️ PRINCÍPIO FUNDAMENTAL
+##  PRINCÍPIO FUNDAMENTAL
 
 **Sono não é "desligar". É processo ativo regulado por ritmo circadiano + drive homeostático.**
 
@@ -480,7 +480,7 @@ Sono fragmentado ou superficial → sem N3 (profundo) ou REM suficiente → não
 
 ---
 
-## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (Neuroquímica do Sono)
 

@@ -2,22 +2,22 @@
 categories:
 - Manual
 date: '2026-01-27'
-description: 🦠 PLAYBOOK — IMUNIDADE BAIXA
+description:  PLAYBOOK — IMUNIDADE BAIXA
 draft: false
 tags: []
-title: 🦠 PLAYBOOK — IMUNIDADE BAIXA
+title:  PLAYBOOK — IMUNIDADE BAIXA
 ---
 
 # PLAYBOOK — IMUNIDADE BAIXA
 
-**Status:** <span class="status stable">✅ Stable</span>
+**Status:** <span class="status stable"> Stable</span>
 **Versão:** `v1.0`
 **Última Atualização:** 21-01-2026
 **Tipo:** `Playbook de Debugging`
 
 ---
 
-## ⚠️ CAMADA 0: SCREENING OBRIGATÓRIO
+##  CAMADA 0: SCREENING OBRIGATÓRIO
 
 **CRÍTICO: NÃO pule esta seção. Imunidade baixa pode indicar condições GRAVES.**
 
@@ -83,7 +83,7 @@ Redução de 50-70% de infecções em 2-3 meses.
 
 ---
 
-## ⚠️ PRINCÍPIO FUNDAMENTAL
+##  PRINCÍPIO FUNDAMENTAL
 
 **Imunidade "forte" é mito. O correto é imunidade EQUILIBRADA.**
 
@@ -656,7 +656,7 @@ Defeito genético em células ou proteínas imunes → imunodeficiência desde i
 
 ---
 
-## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (Suporte Imune)
 

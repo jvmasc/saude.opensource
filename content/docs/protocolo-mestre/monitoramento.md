@@ -165,12 +165,12 @@ Observações: _______________________
 ### CONSULTE MÉDICO se:
 
 ```
-⚠️ Sintomas não melhoram após 30 dias
-⚠️ Piora de condições pré-existentes
-⚠️ Dúvidas sobre interações medicamentosas
-⚠️ Novos sintomas preocupantes
-⚠️ Resultados de exames alterados
-⚠️ Temperatura basal subindo muito rápido (>0.5°C em 1 semana)
+ Sintomas não melhoram após 30 dias
+ Piora de condições pré-existentes
+ Dúvidas sobre interações medicamentosas
+ Novos sintomas preocupantes
+ Resultados de exames alterados
+ Temperatura basal subindo muito rápido (>0.5°C em 1 semana)
 ```
 
 ---

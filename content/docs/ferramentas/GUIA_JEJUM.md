@@ -341,7 +341,7 @@ QUEBRA GRADUAL (IMPORTANTE):
 ├─ HORA 8-12: Refeição normal pequena
 ├─ DIA 2: Voltar ao normal gradualmente
 │
-⚠️ CUIDADO: Síndrome de realimentação
+ CUIDADO: Síndrome de realimentação
    Se > 5 dias: supervisão médica
 ```
 

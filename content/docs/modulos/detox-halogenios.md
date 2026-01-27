@@ -46,7 +46,7 @@ Suplementar iodo **SEM fazer detox de halógenos** — o iodo desloca bromo/flú
 
 ---
 
-## ⚠️ PRÉ-REQUISITOS
+##  PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
 > - [ ] Screening completo realizado → **[Ver Checklist](/docs/ferramentas/screening-v2/)**
@@ -56,7 +56,7 @@ Suplementar iodo **SEM fazer detox de halógenos** — o iodo desloca bromo/flú
 
 ---
 
-## ⚠️ PRINCÍPIO FUNDAMENTAL
+##  PRINCÍPIO FUNDAMENTAL
 
 **Halógenos tóxicos BLOQUEIAM os receptores de iodo:**
 
@@ -191,7 +191,7 @@ Salt Flux (ou "Salt Loading") é a técnica de usar **sal não refinado** para a
 ### Passo 1: Escolha o Sal Correto
 
 ```
-✅ SAL APROVADO:
+ SAL APROVADO:
 □ Sal marinho integral (cinza/rosa)
 □ Sal do Himalaia (rosa)
 □ Sal celta (cinza úmido)
@@ -267,12 +267,12 @@ MAGNÉSIO (suporta enzimas):
 
 | Método | Remove Cloro | Remove Flúor | Custo |
 |--------|--------------|--------------|-------|
-| Deixar descansar 24h | ✅ (evapora) | ❌ | Grátis |
-| Ferver 15min | ✅ | ❌ | Baixo |
-| Filtro de carvão | ✅ | ❌ | R$ 50-200 |
-| Filtro de osmose reversa | ✅ | ✅ | R$ 500-2000 |
-| Filtro de alumina ativada | ❌ | ✅ | R$ 300-800 |
-| Destilação | ✅ | ✅ | R$ 300-1000 |
+| Deixar descansar 24h |  (evapora) | ❌ | Grátis |
+| Ferver 15min |  | ❌ | Baixo |
+| Filtro de carvão |  | ❌ | R$ 50-200 |
+| Filtro de osmose reversa |  |  | R$ 500-2000 |
+| Filtro de alumina ativada | ❌ |  | R$ 300-800 |
+| Destilação |  |  | R$ 300-1000 |
 
 **Recomendação prática:**
 ```
@@ -340,7 +340,7 @@ LIMPEZA:
 
 ---
 
-## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO
+##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO
 
 ### 1. BIOQUÍMICA (O que entra)
 
@@ -540,7 +540,7 @@ PAINEL TIREOIDIANO:
 □ Edema significativo
 □ Restrição médica de sódio
 
-⚠️ CUIDADO EXTRA SE:
+ CUIDADO EXTRA SE:
 □ Pressão arterial limítrofe
 □ Uso de diuréticos
 □ Doença renal leve

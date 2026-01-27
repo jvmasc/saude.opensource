@@ -2,15 +2,15 @@
 categories:
 - Manual
 date: '2026-01-27'
-description: 🔥 PLAYBOOK — REFLUXO GÁSTRICO
+description:  PLAYBOOK — REFLUXO GÁSTRICO
 draft: false
 tags: []
-title: 🔥 PLAYBOOK — REFLUXO GÁSTRICO
+title:  PLAYBOOK — REFLUXO GÁSTRICO
 ---
 
 # PLAYBOOK — REFLUXO GÁSTRICO
 
-**Status:** <span class="status stable">✅ Stable</span>
+**Status:** <span class="status stable"> Stable</span>
 **Versão:** `v1.0`
 **Última Atualização:** 16-01-2026
 
@@ -34,7 +34,7 @@ Redução de 50-70% dos sintomas em 7-14 dias.
 
 ---
 
-## ⚠️ PRINCÍPIO FUNDAMENTAL
+##  PRINCÍPIO FUNDAMENTAL
 
 **Refluxo não é uma coisa só. Tratar tudo com antiácido é debugging errado.**
 
@@ -337,7 +337,7 @@ Mucosa gástrica ou esofágica cronicamente inflamada → cicatrizes → disfun�
 
 ---
 
-## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (O que entra)
 
@@ -449,7 +449,7 @@ Mucosa gástrica ou esofágica cronicamente inflamada → cicatrizes → disfun�
 
 ## 🍽️ DIETA ANTI-REFLUXO
 
-### ✅ Permitidos e Recomendados:
+###  Permitidos e Recomendados:
 
 **Proteínas:**
 - Carnes magras (frango, peru, peixe)

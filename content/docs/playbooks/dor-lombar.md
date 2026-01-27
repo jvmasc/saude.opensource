@@ -2,22 +2,22 @@
 categories:
 - Manual
 date: '2026-01-27'
-description: 🦴 PLAYBOOK — DOR LOMBAR
+description:  PLAYBOOK — DOR LOMBAR
 draft: false
 tags: []
-title: 🦴 PLAYBOOK — DOR LOMBAR
+title:  PLAYBOOK — DOR LOMBAR
 ---
 
 # PLAYBOOK — DOR LOMBAR
 
-**Status:** <span class="status stable">✅ Stable</span>
+**Status:** <span class="status stable"> Stable</span>
 **Versão:** `v1.0`
 **Última Atualização:** 21-01-2026
 **Tipo:** `Playbook de Debugging`
 
 ---
 
-## ⚠️ CAMADA 0: SCREENING OBRIGATÓRIO
+##  CAMADA 0: SCREENING OBRIGATÓRIO
 
 **CRÍTICO: NÃO pule esta seção. Dor lombar pode esconder condições GRAVES.**
 
@@ -80,7 +80,7 @@ Redução de 40-60% da dor em 7-14 dias.
 
 ---
 
-## ⚠️ PRINCÍPIO FUNDAMENTAL
+##  PRINCÍPIO FUNDAMENTAL
 
 **Dor não significa que o problema está na lombar.**
 
@@ -475,7 +475,7 @@ Autoimunidade → inflamação articulações sacroilíacas e coluna → fusão 
 
 ---
 
-## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (Nutrição Estrutural)
 
