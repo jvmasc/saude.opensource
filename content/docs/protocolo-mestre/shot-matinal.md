@@ -12,7 +12,7 @@ title: 1. SHOT MATINAL — Ordenação Bioquímica
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/pt/docs/protocolo-mestre/)**
+> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
 
 ---
 
@@ -256,7 +256,7 @@ PREPARAÇÃO DO SHOT (2 minutos):
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Timeline 90 Dias →](protocolo-mestre/timeline-90-dias/)** | **[Versões](protocolo-mestre/versoes/)**
+**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[Timeline 90 Dias →](protocolo-mestre/timeline-90-dias/)** | **[Versões](protocolo-mestre/versoes/)**
 
 ---
 

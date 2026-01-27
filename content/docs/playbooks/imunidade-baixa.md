@@ -883,7 +883,7 @@ OS 6 NUTRIENTES CRÍTICOS PARA IMUNIDADE:
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/pt/docs/protocolo-mestre/)** fortalece a imunidade atraves de:
+O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** fortalece a imunidade atraves de:
 
 | Componente do Shot | Impacto na Imunidade |
 |-------------------|---------------------|
@@ -907,7 +907,7 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/pt/docs/protocolo-mestre/)** fortale
 
 ## NAVEGACAO
 
-**[← Playbooks](/pt/docs/playbooks/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Modulos](/pt/docs/modulos/)** | **[Homepage](/)**
+**[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
 - **[M2: Remineralizacao](modulos/remineralizacao/)** — Big 6 da imunidade (D, Zn, C, Se, Fe, A)

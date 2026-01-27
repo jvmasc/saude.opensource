@@ -12,7 +12,7 @@ title: 6. FAQ — Perguntas Frequentes
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/pt/docs/protocolo-mestre/)**
+> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
 
 ---
 
@@ -335,7 +335,7 @@ ESPAÇAMENTO NECESSÁRIO:
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Casos Clínicos](protocolo-mestre/casos-clinicos/)** | **[Monitoramento](protocolo-mestre/monitoramento/)**
+**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[Casos Clínicos](protocolo-mestre/casos-clinicos/)** | **[Monitoramento](protocolo-mestre/monitoramento/)**
 
 ---
 

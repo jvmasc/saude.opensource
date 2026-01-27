@@ -590,7 +590,7 @@ _____________________
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/pt/docs/protocolo-mestre/)** e o **[Modulo M8 (Bicarbonato Extra)](modulos/bicarbonato-extra/)** atuam diretamente no refluxo:
+O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** e o **[Modulo M8 (Bicarbonato Extra)](modulos/bicarbonato-extra/)** atuam diretamente no refluxo:
 
 | Componente | Impacto no Refluxo |
 |-----------|-------------------|
@@ -619,7 +619,7 @@ SE TIPO 4 (Inflamacao):
 
 ## NAVEGACAO
 
-**[← Playbooks](/pt/docs/playbooks/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Modulos](/pt/docs/modulos/)** | **[Homepage](/)**
+**[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
 - **[M8: Bicarbonato Extra](modulos/bicarbonato-extra/)** — Alcalinizacao pre-refeicao

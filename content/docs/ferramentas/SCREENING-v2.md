@@ -322,7 +322,7 @@ M7 (ÁGUA OXIGENADA):
 
 ## NAVEGAÇÃO
 
-**[← Homepage](/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Módulos](/pt/docs/modulos/)** | **[Playbooks](/pt/docs/playbooks/)**
+**[← Homepage](/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Módulos](/docs/modulos/)** | **[Playbooks](/docs/playbooks/)**
 
 ---
 

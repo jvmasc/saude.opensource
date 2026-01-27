@@ -12,7 +12,7 @@ title: 'M7: ÁGUA OXIGENADA — Oxigenação e Detox'
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/pt/docs/protocolo-mestre/)** — Deep Dive em Água Oxigenada
+> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Água Oxigenada
 
 ---
 
@@ -292,7 +292,7 @@ Pare imediatamente. Tome bastante água. Se persistir, consulte médico.
 
 ## NAVEGAÇÃO
 
-**[← Módulos](/pt/docs/modulos/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Bicarbonato Extra](modulos/bicarbonato-extra/)**
+**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Bicarbonato Extra](modulos/bicarbonato-extra/)**
 
 ---
 

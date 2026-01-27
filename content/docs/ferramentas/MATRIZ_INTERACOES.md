@@ -362,7 +362,7 @@ LEGENDA:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Módulos](/pt/docs/modulos/)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Módulos](/docs/modulos/)** | **[Homepage](/)**
 
 ---
 

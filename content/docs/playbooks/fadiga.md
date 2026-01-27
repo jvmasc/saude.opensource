@@ -796,7 +796,7 @@ FADIGA + REMINERALIZAÇÃO:
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/pt/docs/protocolo-mestre/)** aborda diretamente as causas raiz da fadiga:
+O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** aborda diretamente as causas raiz da fadiga:
 
 | Componente do Shot | Impacto na Fadiga |
 |-------------------|-------------------|
@@ -820,7 +820,7 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/pt/docs/protocolo-mestre/)** aborda 
 
 ## NAVEGACAO
 
-**[← Playbooks](/pt/docs/playbooks/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Modulos](/pt/docs/modulos/)** | **[Homepage](/)**
+**[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
 - **[M2: Remineralizacao](modulos/remineralizacao/)** — Base para todos tipos de fadiga

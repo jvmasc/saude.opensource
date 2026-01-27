@@ -12,7 +12,7 @@ title: 'M4: PROTOCOLO DE INTEGRIDADE INTESTINAL'
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/pt/docs/protocolo-mestre/)** — Deep Dive em Integridade Intestinal
+> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Integridade Intestinal
 
 ---
 
@@ -50,7 +50,7 @@ Tomar **probióticos sem preparar o terreno** — jogar sementes em solo contami
 ##  PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
-> - [ ] Screening completo realizado → **[Ver Checklist](/pt/docs/ferramentas/screening-v2/)**
+> - [ ] Screening completo realizado → **[Ver Checklist](/docs/ferramentas/screening-v2/)**
 > - [ ] Descartar condições graves (sangue nas fezes, perda de peso inexplicada)
 > - [ ] Idealmente: exame de fezes completo (parasitológico + cultura)
 > - [ ] Protocolos F1-F3 em andamento ou concluídos
@@ -588,7 +588,7 @@ META: Tipo 3-4, 1-3x ao dia, sem esforço
 
 ## 🚨 RED FLAGS — PROCURE MÉDICO
 
-> Para lista completa de red flags gerais: **[Ver Screening](/pt/docs/ferramentas/screening-v2/)**
+> Para lista completa de red flags gerais: **[Ver Screening](/docs/ferramentas/screening-v2/)**
 
 **Sintomas de Alarme — Gastroenterologista URGENTE:**
 
@@ -703,7 +703,7 @@ COM PROTOCOLO DE IODO:
 
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/pt/docs/modulos/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Homepage](/)**
+**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
 
 **Módulos Relacionados:**
 - **[M2: Remineralização](modulos/remineralizacao/)** — Cofatores para intestino
