@@ -9,6 +9,6 @@ title: Playbooks
 weight: 3
 ---
 
-# Playbooks de Debugging
+# Playbooks
 
 Problema específico? Vá direto ao ponto.
