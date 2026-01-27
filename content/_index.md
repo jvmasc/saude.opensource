@@ -68,11 +68,11 @@ Você tem um problema pontual. **Playbooks de debugging.**
 
 | Nível | O que é | Link |
 |-------|---------|------|
-| **0** | Screening + Assessment 4D | [Fazer Screening](/docs/ferramentas/screening/) |
+| **0** | Screening + Assessment 4D | [Fazer Screening](/docs/ferramentas/screening-v2/) |
 | **1** | Protocolo Mestre | [Shot dos Campeões](/docs/protocolo-mestre/) |
 | **2** | Módulos | [9 Deep Dives](/docs/modulos/) |
 | **3** | Playbooks | [8 Sintomas](/docs/playbooks/) |
-| **** | Emergência | [Protocolo de Crise](/docs/ferramentas/protocolo_emergencia/) |
+| **⚠️** | Emergência | [Protocolo de Crise](/docs/ferramentas/protocolo_emergencia/) |
 
 ---
 

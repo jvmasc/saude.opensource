@@ -31,7 +31,7 @@
 - id: prevPage
   translation: "Previous"
 
-- nextPage
+- id: nextPage
   translation: "Next"
 
 - id: notFound
