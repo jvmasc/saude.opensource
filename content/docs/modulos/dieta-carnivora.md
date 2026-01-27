@@ -12,7 +12,7 @@ title: 'M6: DIETA CARNÍVORA — Reset Intestinal'
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Dieta Carnívora
+> **Módulo do [Protocolo Mestre](/pt/docs/protocolo-mestre/)** — Deep Dive em Dieta Carnívora
 
 ---
 
@@ -366,7 +366,7 @@ Algumas pessoas fazem vitaliciamente. Mínimo recomendado: 4-8 semanas para ver 
 
 ## NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Desparasitação](modulos/desparasitacao/)**
+**[← Módulos](/pt/docs/modulos/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Desparasitação](modulos/desparasitacao/)**
 
 ---
 

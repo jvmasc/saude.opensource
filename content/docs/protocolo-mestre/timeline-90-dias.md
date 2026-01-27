@@ -12,7 +12,7 @@ title: 4. TIMELINE 90 DIAS — Roteiro Prático
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
+> **Deep Dive do [Protocolo Mestre](/pt/docs/protocolo-mestre/)**
 
 ---
 
@@ -315,7 +315,7 @@ PARAR IMEDIATAMENTE:
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[Shot Matinal](protocolo-mestre/shot-matinal/)** | **[Monitoramento →](protocolo-mestre/monitoramento/)**
+**[← Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Shot Matinal](protocolo-mestre/shot-matinal/)** | **[Monitoramento →](protocolo-mestre/monitoramento/)**
 
 ---
 

@@ -12,7 +12,7 @@ title: 'M3: PROTOCOLO DE DETOX DE HALOGÊNIOS'
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Detox de Halogênios
+> **Módulo do [Protocolo Mestre](/pt/docs/protocolo-mestre/)** — Deep Dive em Detox de Halogênios
 
 ---
 
@@ -49,7 +49,7 @@ Suplementar iodo **SEM fazer detox de halógenos** — o iodo desloca bromo/flú
 ##  PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
-> - [ ] Screening completo realizado → **[Ver Checklist](/docs/ferramentas/screening-v2/)**
+> - [ ] Screening completo realizado → **[Ver Checklist](/pt/docs/ferramentas/screening-v2/)**
 > - [ ] Função renal normal (creatinina, ureia)
 > - [ ] Pressão arterial controlada (sal aumenta temporariamente)
 > - [ ] Idealmente: iniciar junto com Protocolo de Iodo
@@ -517,7 +517,7 @@ PAINEL TIREOIDIANO:
 
 ## 🚨 RED FLAGS — PROCURE MÉDICO
 
-> Para lista completa de red flags gerais: **[Ver Screening](/docs/ferramentas/screening-v2/)**
+> Para lista completa de red flags gerais: **[Ver Screening](/pt/docs/ferramentas/screening-v2/)**
 
 **Sintomas de Alarme Específicos:**
 
@@ -604,7 +604,7 @@ ORDEM CORRETA:
 
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Iodo](modulos/iodo/)** | **[Homepage](/)**
+**[← Módulos](/pt/docs/modulos/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Iodo](modulos/iodo/)** | **[Homepage](/)**
 
 **Módulos Relacionados:**
 - **[M1: Iodo](modulos/iodo/)** — Usar JUNTO com detox

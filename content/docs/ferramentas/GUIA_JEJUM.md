@@ -503,7 +503,7 @@ RECOMENDADO: 24-36h ocasional
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Reset Circadiano](Playbooks/reset-circadiano/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Reset Circadiano](Playbooks/reset-circadiano/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Homepage](/)**
 
 ---
 

@@ -215,7 +215,7 @@ Mineral essencial para imunidade, pele, hormônios. Cofator de 300+ enzimas.
 
 ## NAVEGAÇÃO
 
-**[← Homepage](/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Módulos](/docs/modulos/)** | **[Screening](/docs/ferramentas/screening-v2/)**
+**[← Homepage](/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Módulos](/pt/docs/modulos/)** | **[Screening](/pt/docs/ferramentas/screening-v2/)**
 
 ---
 

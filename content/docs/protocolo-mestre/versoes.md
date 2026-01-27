@@ -12,7 +12,7 @@ title: 2. VERSÕES DO PROTOCOLO — Escolha a Sua
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
+> **Deep Dive do [Protocolo Mestre](/pt/docs/protocolo-mestre/)**
 
 ---
 
@@ -260,7 +260,7 @@ AVANÇADA (vitalício)
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[Shot Matinal](protocolo-mestre/shot-matinal/)** | **[Timeline 90 Dias](protocolo-mestre/timeline-90-dias/)**
+**[← Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Shot Matinal](protocolo-mestre/shot-matinal/)** | **[Timeline 90 Dias](protocolo-mestre/timeline-90-dias/)**
 
 ---
 

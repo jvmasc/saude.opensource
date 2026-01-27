@@ -12,7 +12,7 @@ title: 'M1: PROTOCOLO DE IODO (Lugol 5%)'
 
 **Status:** `v4.0` | **Ultima Atualizacao:** 24-01-2026
 
-> **Modulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Suplementacao de Iodo
+> **Modulo do [Protocolo Mestre](/pt/docs/protocolo-mestre/)** — Deep Dive em Suplementacao de Iodo
 
 ---
 
@@ -663,7 +663,7 @@ _________________________________
 
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Playbooks](/docs/playbooks/)** | **[Homepage](/)**
+**[← Módulos](/pt/docs/modulos/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Playbooks](/pt/docs/playbooks/)** | **[Homepage](/)**
 
 ---
 

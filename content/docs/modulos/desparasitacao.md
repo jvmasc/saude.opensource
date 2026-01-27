@@ -12,7 +12,7 @@ title: 'M5: DESPARASITAÇÃO — Protocolo Ivermectina'
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Desparasitação
+> **Módulo do [Protocolo Mestre](/pt/docs/protocolo-mestre/)** — Deep Dive em Desparasitação
 
 ---
 
@@ -299,7 +299,7 @@ Geralmente 2-4 semanas após iniciar os ciclos.
 
 ## NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Timeline 90 Dias](protocolo-mestre/timeline-90-dias/)**
+**[← Módulos](/pt/docs/modulos/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Timeline 90 Dias](protocolo-mestre/timeline-90-dias/)**
 
 ---
 

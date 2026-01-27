@@ -12,7 +12,7 @@ title: 'M2: PROTOCOLO DE REMINERALIZAÇÃO ESSENCIAL'
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Remineralização
+> **Módulo do [Protocolo Mestre](/pt/docs/protocolo-mestre/)** — Deep Dive em Remineralização
 
 ---
 
@@ -47,7 +47,7 @@ Suplementar **doses baixas** ou **formas erradas** (ex: óxido de magnésio tem 
 ##  PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
-> - [ ] Screening completo realizado → **[Ver Checklist](/docs/ferramentas/screening-v2/)**
+> - [ ] Screening completo realizado → **[Ver Checklist](/pt/docs/ferramentas/screening-v2/)**
 > - [ ] Exames de minerais (opcional mas recomendado)
 > - [ ] Verificar interações medicamentosas
 
@@ -650,7 +650,7 @@ _________________________________
 
 ## 🚨 RED FLAGS — PROCURE MÉDICO
 
-> Para lista completa: **[Ver Screening](/docs/ferramentas/screening-v2/)**
+> Para lista completa: **[Ver Screening](/pt/docs/ferramentas/screening-v2/)**
 
 **Sintomas de Alarme:**
 
@@ -704,7 +704,7 @@ _________________________________
 
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Iodo](modulos/iodo/)** | **[Homepage](/)**
+**[← Módulos](/pt/docs/modulos/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Iodo](modulos/iodo/)** | **[Homepage](/)**
 
 ---
 

@@ -273,7 +273,7 @@ Antes de iniciar qualquer protocolo, verifique:
 | 6 | Uso de anticoagulantes | ☐ | ☐ |
 | 7 | Quimioterapia/radioterapia ativa | ☐ | ☐ |
 
-**Se marcou SIM em qualquer item:** Consulte o [Screening Detalhado](/docs/ferramentas/screening-v2/) antes de prosseguir.
+**Se marcou SIM em qualquer item:** Consulte o [Screening Detalhado](/pt/docs/ferramentas/screening-v2/) antes de prosseguir.
 
 ---
 
@@ -322,7 +322,7 @@ Após completar o Assessment:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Screening](/docs/ferramentas/screening-v2/)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Screening](/pt/docs/ferramentas/screening-v2/)** | **[Homepage](/)**
 
 ---
 

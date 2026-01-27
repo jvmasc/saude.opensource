@@ -44,7 +44,7 @@ Este não é um blog de saúde.
 
 Você é prático. Quer resultado rápido. **Shot dos Campeões = 2 minutos.**
 
-**[→ Protocolo Mestre](/docs/protocolo-mestre/)**
+**[→ Protocolo Mestre](/pt/docs/protocolo-mestre/)**
 
 ---
 
@@ -52,7 +52,7 @@ Você é prático. Quer resultado rápido. **Shot dos Campeões = 2 minutos.**
 
 Você é investigador. Quer dominar a máquina. **9 Módulos de aprofundamento.**
 
-**[→ Módulos](/docs/modulos/)**
+**[→ Módulos](/pt/docs/modulos/)**
 
 ---
 
@@ -60,7 +60,7 @@ Você é investigador. Quer dominar a máquina. **9 Módulos de aprofundamento.*
 
 Você tem um problema pontual. **Playbooks de debugging.**
 
-**[→ Playbooks](/docs/playbooks/)**
+**[→ Playbooks](/pt/docs/playbooks/)**
 
 ---
 
@@ -68,11 +68,11 @@ Você tem um problema pontual. **Playbooks de debugging.**
 
 | Nível | O que é | Link |
 |-------|---------|------|
-| **0** | Screening + Assessment 4D | [Fazer Screening](/docs/ferramentas/screening-v2/) |
-| **1** | Protocolo Mestre | [Shot dos Campeões](/docs/protocolo-mestre/) |
-| **2** | Módulos | [9 Deep Dives](/docs/modulos/) |
-| **3** | Playbooks | [8 Sintomas](/docs/playbooks/) |
-| **⚠️** | Emergência | [Protocolo de Crise](/docs/ferramentas/protocolo_emergencia/) |
+| **0** | Screening + Assessment 4D | [Fazer Screening](/pt/docs/ferramentas/screening-v2/) |
+| **1** | Protocolo Mestre | [Shot dos Campeões](/pt/docs/protocolo-mestre/) |
+| **2** | Módulos | [9 Deep Dives](/pt/docs/modulos/) |
+| **3** | Playbooks | [8 Sintomas](/pt/docs/playbooks/) |
+| **⚠️** | Emergência | [Protocolo de Crise](/pt/docs/ferramentas/protocolo_emergencia/) |
 
 ---
 
@@ -82,7 +82,7 @@ Você tem um problema pontual. **Playbooks de debugging.**
 Dor no peito • Desmaio • Vômito com sangue • Febre alta persistente
 
 **ANTES de iniciar protocolos:**
-Faça o [Screening Obrigatório →](/docs/ferramentas/screening-v2/)
+Faça o [Screening Obrigatório →](/pt/docs/ferramentas/screening-v2/)
 
 ---
 

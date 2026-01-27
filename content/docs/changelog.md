@@ -35,4 +35,4 @@ title: Changelog
 
 ---
 
-[← Homepage](/) | [Protocolo Mestre](/docs/protocolo-mestre/) | [Módulos](/docs/modulos/)
+[← Homepage](/) | [Protocolo Mestre](/pt/docs/protocolo-mestre/) | [Módulos](/pt/docs/modulos/)

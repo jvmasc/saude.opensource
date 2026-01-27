@@ -865,7 +865,7 @@ ANSIEDADE + TIREOIDE:
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** contem componentes que atuam diretamente na ansiedade:
+O **[Protocolo Mestre (Shot dos Campeoes)](/pt/docs/protocolo-mestre/)** contem componentes que atuam diretamente na ansiedade:
 
 | Componente do Shot | Impacto na Ansiedade |
 |-------------------|----------------------|
@@ -888,7 +888,7 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** contem com
 
 ## NAVEGACAO
 
-**[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
+**[← Playbooks](/pt/docs/playbooks/)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Modulos](/pt/docs/modulos/)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
 - **[M2: Remineralizacao](modulos/remineralizacao/)** — Magnesio (cofator GABA), B-vitaminas, D3

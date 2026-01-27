@@ -5,21 +5,74 @@ theme = 'PaperMod'
 defaultContentLanguage = 'pt'
 defaultContentLanguageInSubdir = true
 
+enableEmoji = true
+enableGitInfo = true
+
 [languages]
   [languages.pt]
     languageName = 'Português'
     weight = 1
+    [languages.pt.params]
+      description = "The Open Source Health Repository — Protocolos de saúde integrativa, documentados e hackeáveis."
+    [[languages.pt.menu.main]]
+      identifier = "protocolo"
+      name = "Protocolo Mestre"
+      url = "/pt/docs/protocolo-mestre/"
+      weight = 10
+    [[languages.pt.menu.main]]
+      identifier = "modulos"
+      name = "Módulos"
+      url = "/pt/docs/modulos/"
+      weight = 20
+    [[languages.pt.menu.main]]
+      identifier = "playbooks"
+      name = "Playbooks"
+      url = "/pt/docs/playbooks/"
+      weight = 30
+    [[languages.pt.menu.main]]
+      identifier = "ferramentas"
+      name = "Ferramentas"
+      url = "/pt/docs/ferramentas/"
+      weight = 40
+    [[languages.pt.menu.main]]
+      identifier = "search"
+      name = "🔍"
+      url = "/pt/search/"
+      weight = 50
+
   [languages.en]
     languageName = 'English'
     weight = 2
-
-enableEmoji = true
-enableGitInfo = true
+    [languages.en.params]
+      description = "The Open Source Health Repository — Integrative health protocols, documented and hackable."
+    [[languages.en.menu.main]]
+      identifier = "protocolo"
+      name = "Master Protocol"
+      url = "/en/docs/protocolo-mestre/"
+      weight = 10
+    [[languages.en.menu.main]]
+      identifier = "modulos"
+      name = "Modules"
+      url = "/en/docs/modulos/"
+      weight = 20
+    [[languages.en.menu.main]]
+      identifier = "playbooks"
+      name = "Playbooks"
+      url = "/en/docs/playbooks/"
+      weight = 30
+    [[languages.en.menu.main]]
+      identifier = "ferramentas"
+      name = "Tools"
+      url = "/en/docs/ferramentas/"
+      weight = 40
+    [[languages.en.menu.main]]
+      identifier = "search"
+      name = "🔍"
+      url = "/en/search/"
+      weight = 50
 
 [params]
-  description = "The Open Source Health Repository — Protocolos de saúde integrativa, documentados e hackeáveis."
   author = "Farm. João"
-
   env = "production"
   ShowReadingTime = true
   ShowShareButtons = false
@@ -51,30 +104,3 @@ enableGitInfo = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-[menu]
-  [[menu.main]]
-    identifier = "protocolo"
-    name = "Protocolo Mestre"
-    url = "/docs/protocolo-mestre/"
-    weight = 10
-  [[menu.main]]
-    identifier = "modulos"
-    name = "Módulos"
-    url = "/docs/modulos/"
-    weight = 20
-  [[menu.main]]
-    identifier = "playbooks"
-    name = "Playbooks"
-    url = "/docs/playbooks/"
-    weight = 30
-  [[menu.main]]
-    identifier = "ferramentas"
-    name = "Ferramentas"
-    url = "/docs/ferramentas/"
-    weight = 40
-  [[menu.main]]
-    identifier = "search"
-    name = "🔍"
-    url = "/search/"
-    weight = 50

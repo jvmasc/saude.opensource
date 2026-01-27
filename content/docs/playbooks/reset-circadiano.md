@@ -376,7 +376,7 @@ NOITE:
 
 ## NAVEGAÇÃO
 
-**[← Playbooks](/docs/playbooks/)** | **[Pilar Psicológico](/docs/ferramentas/pilar_psicologico/)** | **[Assessment 4D](/docs/ferramentas/assessment_4d/)** | **[Homepage](/)**
+**[← Playbooks](/pt/docs/playbooks/)** | **[Pilar Psicológico](/pt/docs/ferramentas/pilar_psicologico/)** | **[Assessment 4D](/pt/docs/ferramentas/assessment_4d/)** | **[Homepage](/)**
 
 ---
 

@@ -46,7 +46,7 @@ It's the **source code** of your body — open, documented, hackeable.
 
 You are practical. You want quick results. **Champion's Shot = 2 minutes. Start today.**
 
-**[→ Master Protocol](/docs/protocolo-mestre/)**
+**[→ Master Protocol](/en/docs/protocolo-mestre/)**
 
 ---
 
@@ -54,7 +54,7 @@ You are practical. You want quick results. **Champion's Shot = 2 minutes. Start 
 
 You are an investigator. You want to master the machine. **8 Deep Dive Modules + 50 pages of physiology.**
 
-**[→ Modules](/docs/modulos/)**
+**[→ Modules](/en/docs/modulos/)**
 
 ---
 
@@ -62,7 +62,7 @@ You are an investigator. You want to master the machine. **8 Deep Dive Modules +
 
 You have a specific problem. **Debugging playbooks for each symptom.**
 
-**[→ Playbooks](/docs/playbooks/)**
+**[→ Playbooks](/en/docs/playbooks/)**
 
 ---
 
@@ -72,7 +72,7 @@ You have a specific problem. **Debugging playbooks for each symptom.**
 Chest pain • Fainting • Vomiting blood • Persistent high fever
 
 **BEFORE starting protocols:**  
-Do the [Mandatory Screening →](/docs/ferramentas/screening-v2/)
+Do the [Mandatory Screening →](/en/docs/ferramentas/screening-v2/)
 
 ---
 

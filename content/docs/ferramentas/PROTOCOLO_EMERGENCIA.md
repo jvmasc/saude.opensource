@@ -327,7 +327,7 @@ AVALIAÇÃO OBRIGATÓRIA:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Screening](/docs/ferramentas/screening-v2/)** | **[Assessment 4D](/docs/ferramentas/assessment_4d/)**
+**[← Docs](/docs)** | **[Protocolo Mestre](/pt/docs/protocolo-mestre/)** | **[Screening](/pt/docs/ferramentas/screening-v2/)** | **[Assessment 4D](/pt/docs/ferramentas/assessment_4d/)**
 
 ---
 
