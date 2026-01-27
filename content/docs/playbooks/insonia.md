@@ -1,5 +1,11 @@
 ---
-title: "💤 PLAYBOOK — INSÔNIA"
+categories:
+- Playbooks
+date: '2026-01-27'
+description: 💤 PLAYBOOK — INSÔNIA
+draft: false
+tags: []
+title: 💤 PLAYBOOK — INSÔNIA
 ---
 
 # 💤 PLAYBOOK — INSÔNIA
@@ -745,12 +751,12 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** contem com
 **[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Magnesio, glicina, B6 (cofatores do sono)
-- **[M1: Iodo](/modulos/iodo.md)** — Se tireoide alterada afeta sono
-- **[M4: Intestino](/modulos/intestino.md)** — Producao de serotonina → melatonina
+- **[M2: Remineralizacao](modulos/remineralizacao/)** — Magnesio, glicina, B6 (cofatores do sono)
+- **[M1: Iodo](modulos/iodo/)** — Se tireoide alterada afeta sono
+- **[M4: Intestino](modulos/intestino/)** — Producao de serotonina → melatonina
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/

@@ -1,5 +1,11 @@
 ---
-title: "🦴 PLAYBOOK — DOR LOMBAR"
+categories:
+- Playbooks
+date: '2026-01-27'
+description: 🦴 PLAYBOOK — DOR LOMBAR
+draft: false
+tags: []
+title: 🦴 PLAYBOOK — DOR LOMBAR
 ---
 
 # 🦴 PLAYBOOK — DOR LOMBAR
@@ -714,11 +720,11 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** auxilia na
 **[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Magnesio, D3, colageno
-- **[M4: Intestino](/modulos/intestino.md)** — Se dor inflamatoria/autoimune
+- **[M2: Remineralizacao](modulos/remineralizacao/)** — Magnesio, D3, colageno
+- **[M4: Intestino](modulos/intestino/)** — Se dor inflamatoria/autoimune
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/

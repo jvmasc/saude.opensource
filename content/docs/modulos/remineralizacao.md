@@ -1,5 +1,11 @@
 ---
-title: "M2: PROTOCOLO DE REMINERALIZAÇÃO ESSENCIAL"
+categories:
+- Módulos
+date: '2026-01-27'
+description: 'M2: PROTOCOLO DE REMINERALIZAÇÃO ESSENCIAL'
+draft: false
+tags: []
+title: 'M2: PROTOCOLO DE REMINERALIZAÇÃO ESSENCIAL'
 ---
 
 # M2: PROTOCOLO DE REMINERALIZAÇÃO ESSENCIAL
@@ -698,10 +704,10 @@ _________________________________
 
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Iodo](/modulos/iodo.md)** | **[Homepage](/)**
+**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Iodo](modulos/iodo/)** | **[Homepage](/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

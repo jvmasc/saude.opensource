@@ -1,5 +1,11 @@
 ---
-title: "M1: PROTOCOLO DE IODO (Lugol 5%)"
+categories:
+- Módulos
+date: '2026-01-27'
+description: 'M1: PROTOCOLO DE IODO (Lugol 5%)'
+draft: false
+tags: []
+title: 'M1: PROTOCOLO DE IODO (Lugol 5%)'
 ---
 
 # M1: PROTOCOLO DE IODO (Lugol 5%)
@@ -663,4 +669,4 @@ _________________________________
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

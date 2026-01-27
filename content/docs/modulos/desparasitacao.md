@@ -1,5 +1,11 @@
 ---
-title: "M5: DESPARASITAÇÃO — Protocolo Ivermectina"
+categories:
+- Módulos
+date: '2026-01-27'
+description: 'M5: DESPARASITAÇÃO — Protocolo Ivermectina'
+draft: false
+tags: []
+title: 'M5: DESPARASITAÇÃO — Protocolo Ivermectina'
 ---
 
 # M5: DESPARASITAÇÃO — Protocolo Ivermectina
@@ -293,10 +299,10 @@ Geralmente 2-4 semanas após iniciar os ciclos.
 
 ## NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Timeline 90 Dias](/protocolo-mestre/timeline-90-dias.md)**
+**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Timeline 90 Dias](protocolo-mestre/timeline-90-dias/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

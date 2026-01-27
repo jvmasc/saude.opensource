@@ -1,5 +1,11 @@
 ---
-title: "MATRIZ DE INTERAÇÕES — Suplementos e Medicamentos"
+categories:
+- Ferramentas
+date: '2026-01-27'
+description: MATRIZ DE INTERAÇÕES — Suplementos e Medicamentos
+draft: false
+tags: []
+title: MATRIZ DE INTERAÇÕES — Suplementos e Medicamentos
 ---
 
 # MATRIZ DE INTERAÇÕES — Suplementos e Medicamentos
@@ -362,4 +368,4 @@ LEGENDA:
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

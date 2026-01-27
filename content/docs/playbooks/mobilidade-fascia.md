@@ -1,5 +1,11 @@
 ---
-title: "PLAYBOOK: Mobilidade e Fáscia"
+categories:
+- Playbooks
+date: '2026-01-27'
+description: 'PLAYBOOK: Mobilidade e Fáscia'
+draft: false
+tags: []
+title: 'PLAYBOOK: Mobilidade e Fáscia'
 ---
 
 # PLAYBOOK: Mobilidade e Fáscia
@@ -438,4 +444,4 @@ MOVIMENTO + BIOQUÍMICA:
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

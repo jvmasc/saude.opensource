@@ -1,5 +1,11 @@
 ---
-title: "M3: PROTOCOLO DE DETOX DE HALOGÊNIOS"
+categories:
+- Módulos
+date: '2026-01-27'
+description: 'M3: PROTOCOLO DE DETOX DE HALOGÊNIOS'
+draft: false
+tags: []
+title: 'M3: PROTOCOLO DE DETOX DE HALOGÊNIOS'
 ---
 
 # M3: PROTOCOLO DE DETOX DE HALOGÊNIOS
@@ -598,15 +604,15 @@ ORDEM CORRETA:
 
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Iodo](/modulos/iodo.md)** | **[Homepage](/)**
+**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Iodo](modulos/iodo/)** | **[Homepage](/)**
 
 **Módulos Relacionados:**
-- **[M1: Iodo](/modulos/iodo.md)** — Usar JUNTO com detox
-- **[M2: Remineralização](/modulos/remineralizacao.md)** — Cofatores compartilhados
-- **[M4: Intestino](/modulos/intestino.md)** — Integridade intestinal
+- **[M1: Iodo](modulos/iodo/)** — Usar JUNTO com detox
+- **[M2: Remineralização](modulos/remineralizacao/)** — Cofatores compartilhados
+- **[M4: Intestino](modulos/intestino/)** — Integridade intestinal
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

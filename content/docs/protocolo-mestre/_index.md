@@ -1,5 +1,11 @@
 ---
-title: "Protocolo Mestre"
+categories:
+- Protocolo Mestre
+date: '2026-01-27'
+description: Protocolo Mestre
+draft: false
+tags: []
+title: Protocolo Mestre
 weight: 1
 ---
 

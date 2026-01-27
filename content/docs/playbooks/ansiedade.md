@@ -1,5 +1,11 @@
 ---
-title: "PLAYBOOK — ANSIEDADE"
+categories:
+- Playbooks
+date: '2026-01-27'
+description: PLAYBOOK — ANSIEDADE
+draft: false
+tags: []
+title: PLAYBOOK — ANSIEDADE
 ---
 
 # PLAYBOOK — ANSIEDADE
@@ -885,12 +891,12 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** contem com
 **[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Magnesio (cofator GABA), B-vitaminas, D3
-- **[M4: Intestino](/modulos/intestino.md)** — Se ansiedade intestinal (eixo gut-brain)
-- **[M3: Detox Halogenios](/modulos/detox-halogenios.md)** — Se exposicao a bromo/fluor (afetam tireoide)
+- **[M2: Remineralizacao](modulos/remineralizacao/)** — Magnesio (cofator GABA), B-vitaminas, D3
+- **[M4: Intestino](modulos/intestino/)** — Se ansiedade intestinal (eixo gut-brain)
+- **[M3: Detox Halogenios](modulos/detox-halogenios/)** — Se exposicao a bromo/fluor (afetam tireoide)
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/

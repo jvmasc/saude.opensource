@@ -1,5 +1,11 @@
 ---
-title: "GLOSSÁRIO — Termos Técnicos"
+categories:
+- Ferramentas
+date: '2026-01-27'
+description: GLOSSÁRIO — Termos Técnicos
+draft: false
+tags: []
+title: GLOSSÁRIO — Termos Técnicos
 ---
 
 # GLOSSÁRIO — Termos Técnicos
@@ -193,7 +199,7 @@ Temperatura corporal ao acordar, ANTES de qualquer movimento. Marcador caseiro d
 | **36.5-36.8°C** | **Ótimo** |
 | > 37.0°C | Possível hipertireoidismo ou infecção |
 
-Ver: [Monitoramento](/protocolo-mestre/monitoramento.md)
+Ver: [Monitoramento](protocolo-mestre/monitoramento/)
 
 ---
 
@@ -215,4 +221,4 @@ Mineral essencial para imunidade, pele, hormônios. Cofator de 300+ enzimas.
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

@@ -1,5 +1,11 @@
 ---
-title: "M4: PROTOCOLO DE INTEGRIDADE INTESTINAL"
+categories:
+- Módulos
+date: '2026-01-27'
+description: 'M4: PROTOCOLO DE INTEGRIDADE INTESTINAL'
+draft: false
+tags: []
+title: 'M4: PROTOCOLO DE INTEGRIDADE INTESTINAL'
 ---
 
 # M4: PROTOCOLO DE INTEGRIDADE INTESTINAL
@@ -700,9 +706,9 @@ COM PROTOCOLO DE IODO:
 **[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
 
 **Módulos Relacionados:**
-- **[M2: Remineralização](/modulos/remineralizacao.md)** — Cofatores para intestino
-- **[M3: Detox de Halogênios](/modulos/detox-halogenios.md)** — Excreção de toxinas
-- **[Playbook Refluxo](/Playbooks/refluxo.md)** — Se refluxo for sintoma principal
+- **[M2: Remineralização](modulos/remineralizacao/)** — Cofatores para intestino
+- **[M3: Detox de Halogênios](modulos/detox-halogenios/)** — Excreção de toxinas
+- **[Playbook Refluxo](Playbooks/refluxo/)** — Se refluxo for sintoma principal
 
 ---
 
@@ -737,4 +743,4 @@ SEMANA 4+: REEQUILIBRAR
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

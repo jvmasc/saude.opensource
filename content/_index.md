@@ -1,6 +1,10 @@
 ---
-title: "Pharmacopeia.info"
-layout: "home"
+date: '2026-01-27'
+description: Pharmacopeia.info
+draft: false
+layout: home
+tags: []
+title: Pharmacopeia.info
 ---
 
 # 🔬 HUMAN OS v4.0
@@ -40,7 +44,7 @@ Este não é um blog de saúde.
 
 Você é prático. Quer resultado rápido. **Shot dos Campeões = 2 minutos.**
 
-**[→ Protocolo Mestre](/saude.opensource/docs/protocolo-mestre/)**
+**[→ Protocolo Mestre](/docs/protocolo-mestre/)**
 
 ---
 
@@ -48,7 +52,7 @@ Você é prático. Quer resultado rápido. **Shot dos Campeões = 2 minutos.**
 
 Você é investigador. Quer dominar a máquina. **9 Módulos de aprofundamento.**
 
-**[→ Módulos](/saude.opensource/docs/modulos/)**
+**[→ Módulos](/docs/modulos/)**
 
 ---
 
@@ -56,7 +60,7 @@ Você é investigador. Quer dominar a máquina. **9 Módulos de aprofundamento.*
 
 Você tem um problema pontual. **Playbooks de debugging.**
 
-**[→ Playbooks](/saude.opensource/docs/playbooks/)**
+**[→ Playbooks](/docs/playbooks/)**
 
 ---
 
@@ -64,11 +68,11 @@ Você tem um problema pontual. **Playbooks de debugging.**
 
 | Nível | O que é | Link |
 |-------|---------|------|
-| **0** | Screening + Assessment 4D | [Fazer Screening](/saude.opensource/docs/ferramentas/screening/) |
-| **1** | Protocolo Mestre | [Shot dos Campeões](/saude.opensource/docs/protocolo-mestre/) |
-| **2** | Módulos | [9 Deep Dives](/saude.opensource/docs/modulos/) |
-| **3** | Playbooks | [8 Sintomas](/saude.opensource/docs/playbooks/) |
-| **⚠️** | Emergência | [Protocolo de Crise](/saude.opensource/docs/ferramentas/protocolo_emergencia/) |
+| **0** | Screening + Assessment 4D | [Fazer Screening](/docs/ferramentas/screening/) |
+| **1** | Protocolo Mestre | [Shot dos Campeões](/docs/protocolo-mestre/) |
+| **2** | Módulos | [9 Deep Dives](/docs/modulos/) |
+| **3** | Playbooks | [8 Sintomas](/docs/playbooks/) |
+| **⚠️** | Emergência | [Protocolo de Crise](/docs/ferramentas/protocolo_emergencia/) |
 
 ---
 
@@ -78,7 +82,7 @@ Você tem um problema pontual. **Playbooks de debugging.**
 Dor no peito • Desmaio • Vômito com sangue • Febre alta persistente
 
 **ANTES de iniciar protocolos:**
-Faça o [Screening Obrigatório →](/saude.opensource/docs/ferramentas/screening-v2/)
+Faça o [Screening Obrigatório →](/docs/ferramentas/screening-v2/)
 
 ---
 

@@ -1,5 +1,11 @@
 ---
-title: "ASSESSMENT 4D — Questionário Diagnóstico"
+categories:
+- Ferramentas
+date: '2026-01-27'
+description: ASSESSMENT 4D — Questionário Diagnóstico
+draft: false
+tags: []
+title: ASSESSMENT 4D — Questionário Diagnóstico
 ---
 
 # ASSESSMENT 4D — Questionário Diagnóstico
@@ -322,4 +328,4 @@ Após completar o Assessment:
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

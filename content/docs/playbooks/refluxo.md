@@ -1,5 +1,11 @@
 ---
-title: "🔥 PLAYBOOK — REFLUXO GÁSTRICO"
+categories:
+- Playbooks
+date: '2026-01-27'
+description: 🔥 PLAYBOOK — REFLUXO GÁSTRICO
+draft: false
+tags: []
+title: 🔥 PLAYBOOK — REFLUXO GÁSTRICO
 ---
 
 # 🔥 PLAYBOOK — REFLUXO GÁSTRICO
@@ -584,7 +590,7 @@ _____________________
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** e o **[Modulo M8 (Bicarbonato Extra)](/modulos/bicarbonato-extra.md)** atuam diretamente no refluxo:
+O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** e o **[Modulo M8 (Bicarbonato Extra)](modulos/bicarbonato-extra/)** atuam diretamente no refluxo:
 
 | Componente | Impacto no Refluxo |
 |-----------|-------------------|
@@ -616,11 +622,11 @@ SE TIPO 4 (Inflamacao):
 **[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
-- **[M8: Bicarbonato Extra](/modulos/bicarbonato-extra.md)** — Alcalinizacao pre-refeicao
-- **[M4: Intestino](/modulos/intestino.md)** — Se inflamacao cronica
+- **[M8: Bicarbonato Extra](modulos/bicarbonato-extra/)** — Alcalinizacao pre-refeicao
+- **[M4: Intestino](modulos/intestino/)** — Se inflamacao cronica
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. Joao | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. Joao | [Changelog](changelog/)

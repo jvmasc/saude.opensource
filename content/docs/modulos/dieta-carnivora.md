@@ -1,5 +1,11 @@
 ---
-title: "M6: DIETA CARNÍVORA — Reset Intestinal"
+categories:
+- Módulos
+date: '2026-01-27'
+description: 'M6: DIETA CARNÍVORA — Reset Intestinal'
+draft: false
+tags: []
+title: 'M6: DIETA CARNÍVORA — Reset Intestinal'
 ---
 
 # M6: DIETA CARNÍVORA — Reset Intestinal
@@ -360,10 +366,10 @@ Algumas pessoas fazem vitaliciamente. Mínimo recomendado: 4-8 semanas para ver 
 
 ## NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Desparasitação](/modulos/desparasitacao.md)**
+**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Desparasitação](modulos/desparasitacao/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

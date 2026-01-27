@@ -1,5 +1,11 @@
 ---
-title: "SCREENING v2 — Checklist Pré-Protocolo"
+categories:
+- Ferramentas
+date: '2026-01-27'
+description: SCREENING v2 — Checklist Pré Protocolo
+draft: false
+tags: []
+title: SCREENING v2 — Checklist Pré-Protocolo
 ---
 
 # SCREENING v2 — Checklist Pré-Protocolo

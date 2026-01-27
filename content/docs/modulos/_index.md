@@ -1,5 +1,11 @@
 ---
-title: "Módulos"
+categories:
+- Módulos
+date: '2026-01-27'
+description: Módulos
+draft: false
+tags: []
+title: Módulos
 weight: 2
 ---
 

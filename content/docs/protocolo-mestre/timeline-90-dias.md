@@ -1,5 +1,11 @@
 ---
-title: "4. TIMELINE 90 DIAS — Roteiro Prático"
+categories:
+- Protocolo Mestre
+date: '2026-01-27'
+description: 4. TIMELINE 90 DIAS — Roteiro Prático
+draft: false
+tags: []
+title: 4. TIMELINE 90 DIAS — Roteiro Prático
 ---
 
 # 4. TIMELINE 90 DIAS — Roteiro Prático
@@ -309,10 +315,10 @@ PARAR IMEDIATAMENTE:
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[Shot Matinal](/protocolo-mestre/shot-matinal.md)** | **[Monitoramento →](/protocolo-mestre/monitoramento.md)**
+**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[Shot Matinal](protocolo-mestre/shot-matinal/)** | **[Monitoramento →](protocolo-mestre/monitoramento/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

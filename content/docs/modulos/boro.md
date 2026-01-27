@@ -1,5 +1,11 @@
 ---
-title: "M9: PROTOCOLO DE BORO (BORAX)"
+categories:
+- Módulos
+date: '2026-01-27'
+description: 'M9: PROTOCOLO DE BORO (BORAX)'
+draft: false
+tags: []
+title: 'M9: PROTOCOLO DE BORO (BORAX)'
 ---
 
 # M9: PROTOCOLO DE BORO (BORAX)
@@ -207,10 +213,10 @@ SE REAÇÕES INTENSAS:
 
 | Módulo | Conexão com Boro |
 |--------|------------------|
-| **[M1: Iodo](/modulos/iodo.md)** | Boro → paratireoides como Iodo → tireoide |
-| **[M2: Remineralização](/modulos/remineralizacao.md)** | Boro regula absorção de Ca, Mg, P |
-| **[M3: Detox Halogênios](/modulos/detox-halogenios.md)** | Boro não compete com halogênios |
-| **[M4: Intestino](/modulos/intestino.md)** | Efeito antifúngico contra Candida |
+| **[M1: Iodo](modulos/iodo/)** | Boro → paratireoides como Iodo → tireoide |
+| **[M2: Remineralização](modulos/remineralizacao/)** | Boro regula absorção de Ca, Mg, P |
+| **[M3: Detox Halogênios](modulos/detox-halogenios/)** | Boro não compete com halogênios |
+| **[M4: Intestino](modulos/intestino/)** | Efeito antifúngico contra Candida |
 
 ---
 
@@ -238,12 +244,12 @@ SE REAÇÕES INTENSAS:
 **[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
 
 **Módulos Relacionados:**
-- **[M1: Iodo](/modulos/iodo.md)** — Analogia tireoide/paratireoides
-- **[M2: Remineralização](/modulos/remineralizacao.md)** — Cofatores essenciais
-- **[M4: Intestino](/modulos/intestino.md)** — Candida e saúde intestinal
+- **[M1: Iodo](modulos/iodo/)** — Analogia tireoide/paratireoides
+- **[M2: Remineralização](modulos/remineralizacao/)** — Cofatores essenciais
+- **[M4: Intestino](modulos/intestino/)** — Candida e saúde intestinal
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

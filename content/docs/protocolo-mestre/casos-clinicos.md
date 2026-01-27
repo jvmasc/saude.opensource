@@ -1,12 +1,18 @@
 ---
-title: "5. CASOS CLÍNICOS DOCUMENTADOS"
+categories:
+- Protocolo Mestre
+date: '2026-01-27'
+description: 5. CASOS CLÍNICOS DOCUMENTADOS
+draft: false
+tags: []
+title: 5. CASOS CLÍNICOS DOCUMENTADOS
 ---
 
 # 5. CASOS CLÍNICOS DOCUMENTADOS
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/saude.opensource/docs/protocolo-mestre/)**
+> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
 
 ---
 
@@ -269,10 +275,10 @@ title: "5. CASOS CLÍNICOS DOCUMENTADOS"
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/saude.opensource/docs/protocolo-mestre/)** | **[FAQ](/saude.opensource/protocolo-mestre/faq.md)** | **[Monitoramento](/saude.opensource/protocolo-mestre/monitoramento.md)**
+**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[FAQ](protocolo-mestre/faq/)** | **[Monitoramento](protocolo-mestre/monitoramento/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

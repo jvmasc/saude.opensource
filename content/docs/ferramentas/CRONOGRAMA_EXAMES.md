@@ -1,5 +1,11 @@
 ---
-title: "CRONOGRAMA DE EXAMES — Guia Laboratorial"
+categories:
+- Ferramentas
+date: '2026-01-27'
+description: CRONOGRAMA DE EXAMES — Guia Laboratorial
+draft: false
+tags: []
+title: CRONOGRAMA DE EXAMES — Guia Laboratorial
 ---
 
 # CRONOGRAMA DE EXAMES — Guia Laboratorial
@@ -341,4 +347,4 @@ CUSTO APROXIMADO (particular):
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

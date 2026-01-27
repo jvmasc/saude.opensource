@@ -1,5 +1,11 @@
 ---
-title: "M7: ÁGUA OXIGENADA — Oxigenação e Detox"
+categories:
+- Módulos
+date: '2026-01-27'
+description: 'M7: ÁGUA OXIGENADA — Oxigenação e Detox'
+draft: false
+tags: []
+title: 'M7: ÁGUA OXIGENADA — Oxigenação e Detox'
 ---
 
 # M7: ÁGUA OXIGENADA — Oxigenação e Detox
@@ -286,13 +292,13 @@ Pare imediatamente. Tome bastante água. Se persistir, consulte médico.
 
 ## NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Bicarbonato Extra](/modulos/bicarbonato-extra.md)**
+**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Bicarbonato Extra](modulos/bicarbonato-extra/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
 
 ---
 

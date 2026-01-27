@@ -1,5 +1,11 @@
 ---
-title: "M8: BICARBONATO EXTRA — Alcalinização Digestiva"
+categories:
+- Módulos
+date: '2026-01-27'
+description: 'M8: BICARBONATO EXTRA — Alcalinização Digestiva'
+draft: false
+tags: []
+title: 'M8: BICARBONATO EXTRA — Alcalinização Digestiva'
 ---
 
 # M8: BICARBONATO EXTRA — Alcalinização Digestiva
@@ -304,10 +310,10 @@ Sal de frutas contém outros componentes (citrato, ácido cítrico). Bicarbonato
 
 ## NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Água Oxigenada](/modulos/agua-oxigenada.md)**
+**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Água Oxigenada](modulos/agua-oxigenada/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

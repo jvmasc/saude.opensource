@@ -1,5 +1,11 @@
 ---
-title: "PILAR PSICOLÓGICO — A 5ª Dimensão"
+categories:
+- Ferramentas
+date: '2026-01-27'
+description: PILAR PSICOLÓGICO — A 5ª Dimensão
+draft: false
+tags: []
+title: PILAR PSICOLÓGICO — A 5ª Dimensão
 ---
 
 # PILAR PSICOLÓGICO — A 5ª Dimensão
@@ -386,4 +392,4 @@ PROFISSIONAIS:
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

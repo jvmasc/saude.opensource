@@ -1,5 +1,11 @@
 ---
-title: "GUIA DE JEJUM — Tipos, Indicações e Protocolos"
+categories:
+- Ferramentas
+date: '2026-01-27'
+description: GUIA DE JEJUM — Tipos, Indicações e Protocolos
+draft: false
+tags: []
+title: GUIA DE JEJUM — Tipos, Indicações e Protocolos
 ---
 
 # GUIA DE JEJUM — Tipos, Indicações e Protocolos
@@ -497,10 +503,10 @@ RECOMENDADO: 24-36h ocasional
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Reset Circadiano](/Playbooks/reset-circadiano.md)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Reset Circadiano](Playbooks/reset-circadiano/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

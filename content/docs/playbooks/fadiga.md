@@ -1,5 +1,11 @@
 ---
-title: "🔋 PLAYBOOK — FADIGA CRÔNICA"
+categories:
+- Playbooks
+date: '2026-01-27'
+description: 🔋 PLAYBOOK — FADIGA CRÔNICA
+draft: false
+tags: []
+title: 🔋 PLAYBOOK — FADIGA CRÔNICA
 ---
 
 # 🔋 PLAYBOOK — FADIGA CRÔNICA
@@ -808,7 +814,7 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** aborda dir
 4. Se fadiga toxica: Modulo M3 (Detox Halogenios)
 ```
 
-**Caso Clinico Relacionado:** Ver [Caso #1 - Fadiga Cronica](/protocolo-mestre/casos-clinicos.md#caso-1-fadiga-cronica-e-hipotireoidismo-subclinico)
+**Caso Clinico Relacionado:** Ver [Caso #1 - Fadiga Cronica](protocolo-mestre/casos-clinicos/#caso-1-fadiga-cronica-e-hipotireoidismo-subclinico)
 
 ---
 
@@ -817,13 +823,13 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** aborda dir
 **[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Base para todos tipos de fadiga
-- **[M1: Iodo](/modulos/iodo.md)** — Se fadiga tireoidiana
-- **[M4: Intestino](/modulos/intestino.md)** — Se fadiga inflamatoria ou intestinal
-- **[M3: Detox Halogenios](/modulos/detox-halogenios.md)** — Se fadiga toxica
+- **[M2: Remineralizacao](modulos/remineralizacao/)** — Base para todos tipos de fadiga
+- **[M1: Iodo](modulos/iodo/)** — Se fadiga tireoidiana
+- **[M4: Intestino](modulos/intestino/)** — Se fadiga inflamatoria ou intestinal
+- **[M3: Detox Halogenios](modulos/detox-halogenios/)** — Se fadiga toxica
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/

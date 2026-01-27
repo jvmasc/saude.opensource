@@ -1,5 +1,11 @@
 ---
-title: "3. MONITORAMENTO — Sinais de Progresso"
+categories:
+- Protocolo Mestre
+date: '2026-01-27'
+description: 3. MONITORAMENTO — Sinais de Progresso
+draft: false
+tags: []
+title: 3. MONITORAMENTO — Sinais de Progresso
 ---
 
 # 3. MONITORAMENTO — Sinais de Progresso
@@ -420,10 +426,10 @@ AÇÕES:
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[FAQ](/protocolo-mestre/faq.md)** | **[Casos Clínicos](/protocolo-mestre/casos-clinicos.md)**
+**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[FAQ](protocolo-mestre/faq/)** | **[Casos Clínicos](protocolo-mestre/casos-clinicos/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog.md)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)

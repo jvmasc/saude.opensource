@@ -1,5 +1,11 @@
 ---
-title: "Ferramentas"
+categories:
+- Ferramentas
+date: '2026-01-27'
+description: Ferramentas
+draft: false
+tags: []
+title: Ferramentas
 weight: 4
 ---
 

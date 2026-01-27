@@ -1,5 +1,11 @@
 ---
-title: "🦠 PLAYBOOK — IMUNIDADE BAIXA"
+categories:
+- Playbooks
+date: '2026-01-27'
+description: 🦠 PLAYBOOK — IMUNIDADE BAIXA
+draft: false
+tags: []
+title: 🦠 PLAYBOOK — IMUNIDADE BAIXA
 ---
 
 # 🦠 PLAYBOOK — IMUNIDADE BAIXA
@@ -904,14 +910,14 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** fortalece 
 **[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Big 6 da imunidade (D, Zn, C, Se, Fe, A)
-- **[M4: Intestino](/modulos/intestino.md)** — 70-80% imunidade esta no intestino
-- **[M1: Iodo](/modulos/iodo.md)** — Se tireoide afeta imunidade + acao antimicrobiana
-- **[M3: Detox Halogenios](/modulos/detox-halogenios.md)** — Se sobrecarga toxica
-- **[M5: Desparasitacao](/modulos/desparasitacao.md)** — Parasitas deprimem imunidade
+- **[M2: Remineralizacao](modulos/remineralizacao/)** — Big 6 da imunidade (D, Zn, C, Se, Fe, A)
+- **[M4: Intestino](modulos/intestino/)** — 70-80% imunidade esta no intestino
+- **[M1: Iodo](modulos/iodo/)** — Se tireoide afeta imunidade + acao antimicrobiana
+- **[M3: Detox Halogenios](modulos/detox-halogenios/)** — Se sobrecarga toxica
+- **[M5: Desparasitacao](modulos/desparasitacao/)** — Parasitas deprimem imunidade
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/
