@@ -1,0 +1,92 @@
+- id: home
+  translation: "Home"
+
+- id: search
+  translation: "Search"
+
+- id: about
+  translation: "About"
+
+- id: tags
+  translation: "Tags"
+
+- id: categories
+  translation: "Categories"
+
+- id: archive
+  translation: "Archive"
+
+- id: readingTime
+  translation: "Reading time"
+
+- id: words
+  translation: "words"
+
+- id: editPost
+  translation: "Edit this page"
+
+- id: tableOfContents
+  translation: "Table of Contents"
+
+- id: prevPage
+  translation: "Previous"
+
+- nextPage
+  translation: "Next"
+
+- id: notFound
+  translation: "Page not found"
+
+- id: notFoundTitle
+  translation: "404 - Page Not Found"
+
+- id: notFoundMessage
+  translation: "The page you are looking for does not exist or has been moved."
+
+- id: lightMode
+  translation: "Light"
+
+- id: darkMode
+  translation: "Dark"
+
+- id: readMore
+  translation: "Read more"
+
+- id: contents
+  translation: "Contents"
+
+- id: author
+  translation: "Author"
+
+- id: date
+  translation: "Date"
+
+- id: lastMod
+  translation: "Last modified"
+
+- id: nav
+  translation: "Navigation"
+
+- id: newerPosts
+  translation: "Newer posts"
+
+- id: olderPosts
+  translation: "Older posts"
+
+- id: shareOnTwitter
+  translation: "Share on Twitter"
+
+- id: shareOnFacebook
+  translation: "Share on Facebook"
+
+- id: shareOnLinkedIn
+  translation: "Share on LinkedIn"
+
+- id: copyLink
+  translation: "Copy link"
+
+- id: copied
+  translation: "Copied!"
+
+- id: relatedPosts
+  translation: "Related posts"

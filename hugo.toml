@@ -2,6 +2,16 @@ baseURL = 'https://jvmasc.github.io/saude.opensource/'
 languageCode = 'pt-br'
 title = 'Pharmacopeia.info'
 theme = 'PaperMod'
+defaultContentLanguage = 'pt'
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.pt]
+    languageName = 'Português'
+    weight = 1
+  [languages.en]
+    languageName = 'English'
+    weight = 2
 
 enableEmoji = true
 enableGitInfo = true
