@@ -1,6 +1,6 @@
 ---
 categories:
-- Ferramentas
+- Recurso
 date: '2026-01-27'
 description: PILAR PSICOLÓGICO — A 5ª Dimensão
 draft: false

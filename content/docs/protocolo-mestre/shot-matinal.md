@@ -1,6 +1,6 @@
 ---
 categories:
-- Protocolo Mestre
+- Base
 date: '2026-01-27'
 description: 1. SHOT MATINAL — Ordenação Bioquímica
 draft: false

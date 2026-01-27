@@ -1,6 +1,6 @@
 ---
 categories:
-- Módulos
+- Protocolo
 date: '2026-01-27'
 description: 'M7: ÁGUA OXIGENADA — Oxigenação e Detox'
 draft: false

@@ -1,6 +1,6 @@
 ---
 categories:
-- Ferramentas
+- Recurso
 date: '2026-01-27'
 description: CALCULADORA DE DOSAGEM — Guia de Ajustes
 draft: false

@@ -1,6 +1,6 @@
 ---
 categories:
-- Ferramentas
+- Recurso
 date: '2026-01-27'
 description: GUIA DE JEJUM — Tipos, Indicações e Protocolos
 draft: false

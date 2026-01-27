@@ -1,6 +1,6 @@
 ---
 categories:
-- Ferramentas
+- Recurso
 date: '2026-01-27'
 description: ASSESSMENT 4D — Questionário Diagnóstico
 draft: false

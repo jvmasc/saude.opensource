@@ -1,6 +1,6 @@
 ---
 categories:
-- Módulos
+- Protocolo
 date: '2026-01-27'
 description: 'M8: BICARBONATO EXTRA — Alcalinização Digestiva'
 draft: false

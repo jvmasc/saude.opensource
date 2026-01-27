@@ -1,6 +1,6 @@
 ---
 categories:
-- Módulos
+- Protocolo
 date: '2026-01-27'
 description: 'M9: PROTOCOLO DE BORO (BORAX)'
 draft: false

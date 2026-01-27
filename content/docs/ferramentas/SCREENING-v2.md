@@ -1,6 +1,6 @@
 ---
 categories:
-- Ferramentas
+- Recurso
 date: '2026-01-27'
 description: SCREENING v2 — Checklist Pré Protocolo
 draft: false

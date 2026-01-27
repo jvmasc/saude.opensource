@@ -1,6 +1,6 @@
 ---
 categories:
-- Protocolo Mestre
+- Base
 date: '2026-01-27'
 description: 3. MONITORAMENTO — Sinais de Progresso
 draft: false

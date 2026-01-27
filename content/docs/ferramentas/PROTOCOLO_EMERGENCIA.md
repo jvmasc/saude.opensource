@@ -1,6 +1,6 @@
 ---
 categories:
-- Ferramentas
+- Recurso
 date: '2026-01-27'
 description: PROTOCOLO DE EMERGÊNCIA — Manejo de Crises
 draft: false

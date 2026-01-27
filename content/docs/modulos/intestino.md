@@ -1,6 +1,6 @@
 ---
 categories:
-- Módulos
+- Protocolo
 date: '2026-01-27'
 description: 'M4: PROTOCOLO DE INTEGRIDADE INTESTINAL'
 draft: false

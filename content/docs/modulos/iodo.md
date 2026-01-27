@@ -1,6 +1,6 @@
 ---
 categories:
-- Módulos
+- Protocolo
 date: '2026-01-27'
 description: 'M1: PROTOCOLO DE IODO (Lugol 5%)'
 draft: false
