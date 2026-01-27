@@ -17,27 +17,27 @@ enableGitInfo = true
     [[languages.pt.menu.main]]
       identifier = "protocolo"
       name = "Protocolo Mestre"
-      url = "/pt/docs/protocolo-mestre/"
+      url = "docs/protocolo-mestre/"
       weight = 10
     [[languages.pt.menu.main]]
       identifier = "modulos"
       name = "Módulos"
-      url = "/pt/docs/modulos/"
+      url = "docs/modulos/"
       weight = 20
     [[languages.pt.menu.main]]
       identifier = "playbooks"
       name = "Playbooks"
-      url = "/pt/docs/playbooks/"
+      url = "docs/playbooks/"
       weight = 30
     [[languages.pt.menu.main]]
       identifier = "ferramentas"
       name = "Ferramentas"
-      url = "/pt/docs/ferramentas/"
+      url = "docs/ferramentas/"
       weight = 40
     [[languages.pt.menu.main]]
       identifier = "search"
       name = "🔍"
-      url = "/pt/search/"
+      url = "search/"
       weight = 50
 
   [languages.en]
@@ -48,27 +48,27 @@ enableGitInfo = true
     [[languages.en.menu.main]]
       identifier = "protocolo"
       name = "Master Protocol"
-      url = "/en/docs/protocolo-mestre/"
+      url = "docs/protocolo-mestre/"
       weight = 10
     [[languages.en.menu.main]]
       identifier = "modulos"
       name = "Modules"
-      url = "/en/docs/modulos/"
+      url = "docs/modulos/"
       weight = 20
     [[languages.en.menu.main]]
       identifier = "playbooks"
       name = "Playbooks"
-      url = "/en/docs/playbooks/"
+      url = "docs/playbooks/"
       weight = 30
     [[languages.en.menu.main]]
       identifier = "ferramentas"
       name = "Tools"
-      url = "/en/docs/ferramentas/"
+      url = "docs/ferramentas/"
       weight = 40
     [[languages.en.menu.main]]
       identifier = "search"
       name = "🔍"
-      url = "/en/search/"
+      url = "search/"
       weight = 50
 
 [params]
