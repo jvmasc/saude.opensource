@@ -17,11 +17,11 @@ outputs:
 
 ## You are tired.
 
-Tired of being **passive**.  
-Of trusting someone you don't know — with **your body**.  
+Tired of being **passive**.
+Of trusting someone you don't know — with **your body**.
 Of paying for generic advice that doesn't work.
 
-You know something is wrong.  
+You know something is wrong.
 You feel like **there should** be another way.
 
 **There is.**
@@ -30,10 +30,10 @@ You feel like **there should** be another way.
 
 ## Welcome to Biological Autonomy.
 
-This is not a health blog.  
+This is not a health blog.
 It's the **source code** of your body — open, documented, hackeable.
 
-> *Disease arises when Energy, Information, and Meaning conflict.*  
+> *Disease arises when Energy, Information, and Meaning conflict.*
 > *Cure is not fixing. Cure is updating.*
 
 **Here you learn to debug your own biology.**
@@ -46,15 +46,15 @@ It's the **source code** of your body — open, documented, hackeable.
 
 You are practical. You want quick results. **Champion's Shot = 2 minutes. Start today.**
 
-**[→ Master Protocol](/en/docs/protocolo-mestre/)**
+**[→ Master Protocol](docs/protocolo-mestre/)**
 
 ---
 
 ### "I want to understand EVERYTHING."
 
-You are an investigator. You want to master the machine. **8 Deep Dive Modules + 50 pages of physiology.**
+You are an investigator. You want to master the machine. **9 Deep Dive Modules + 50 pages of physiology.**
 
-**[→ Modules](/en/docs/modulos/)**
+**[→ Modules](docs/modulos/)**
 
 ---
 
@@ -62,17 +62,29 @@ You are an investigator. You want to master the machine. **8 Deep Dive Modules +
 
 You have a specific problem. **Debugging playbooks for each symptom.**
 
-**[→ Playbooks](/en/docs/playbooks/)**
+**[→ Playbooks](docs/playbooks/)**
+
+---
+
+## Hierarchy v4.1
+
+| Level | What it is | Link |
+|-------|------------|------|
+| **0** | Screening + 4D Assessment | [Do Screening](docs/ferramentas/screening-v2/) |
+| **1** | Master Protocol | [Champion's Shot](docs/protocolo-mestre/) |
+| **2** | Modules | [9 Deep Dives](docs/modulos/) |
+| **3** | Playbooks | [8 Symptoms](docs/playbooks/) |
+| **⚠️** | Emergency | [Crisis Protocol](docs/ferramentas/protocolo_emergencia/) |
 
 ---
 
 ## Important
 
-**RED FLAGS (GO TO HOSPITAL):**  
+**RED FLAGS (GO TO HOSPITAL):**
 Chest pain • Fainting • Vomiting blood • Persistent high fever
 
-**BEFORE starting protocols:**  
-Do the [Mandatory Screening →](/en/docs/ferramentas/screening-v2/)
+**BEFORE starting protocols:**
+Do the [Mandatory Screening →](docs/ferramentas/screening-v2/)
 
 ---
 
