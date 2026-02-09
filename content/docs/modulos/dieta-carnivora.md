@@ -1,18 +1,8 @@
----
-categories:
-- Protocolo
-date: '2026-01-27'
-description: 'M6: DIETA CARNÍVORA — Reset Intestinal'
-draft: false
-tags: []
-title: 'M6: DIETA CARNÍVORA — Reset Intestinal'
----
-
 # M6: DIETA CARNÍVORA — Reset Intestinal
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Dieta Carnívora
+> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Dieta Carnívora
 
 ---
 
@@ -364,12 +354,21 @@ Algumas pessoas fazem vitaliciamente. Mínimo recomendado: 4-8 semanas para ver 
 
 ---
 
+## 📖 Fundamentos Teóricos
+
+Para compreender o contexto científico deste módulo:
+- [Sistemas Dissipativos](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS) — Por que otimizar inputs energéticos
+- [Medicina Biológica](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA) — Como restaurar Matriz Extracelular
+- [Psicologia Evolutiva](/ferramentas/PSICOLOGIA_EVOLUTIVA) — Mismatches modernos e adaptações ancestrais
+
+---
+
 ## NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Desparasitação](modulos/desparasitacao/)**
+**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Desparasitação](/modulos/desparasitacao.md)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

@@ -1,13 +1,3 @@
----
-categories:
-- Recurso
-date: '2026-01-27'
-description: MATRIZ DE INTERAÇÕES — Suplementos e Medicamentos
-draft: false
-tags: []
-title: MATRIZ DE INTERAÇÕES — Suplementos e Medicamentos
----
-
 # MATRIZ DE INTERAÇÕES — Suplementos e Medicamentos
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026
@@ -20,8 +10,8 @@ title: MATRIZ DE INTERAÇÕES — Suplementos e Medicamentos
 
 ```
 LEGENDA:
- = Sinergia (tomar junto potencializa)
- = Separar (tomar com intervalo de 2-4h)
+✅ = Sinergia (tomar junto potencializa)
+⚠️ = Separar (tomar com intervalo de 2-4h)
 ❌ = Evitar combinação
 🕐 = Timing específico (ver notas)
 ```
@@ -34,14 +24,14 @@ LEGENDA:
 
 |  | Iodo | Selênio | Magnésio | Zinco | Ferro | Vit D3 | Vit C | Vit K2 |
 |--|------|---------|----------|-------|-------|--------|-------|--------|
-| **Iodo** | — |  |  |  |  |  |  |  |
-| **Selênio** |  | — |  |  |  |  |  |  |
-| **Magnésio** |  |  | — |  |  |  |  |  |
-| **Zinco** |  |  |  | — |  |  |  |  |
-| **Ferro** |  |  |  |  | — |  |  |  |
-| **Vit D3** |  |  |  |  |  | — |  |  |
-| **Vit C** |  |  |  |  |  |  | — |  |
-| **Vit K2** |  |  |  |  |  |  |  | — |
+| **Iodo** | — | ✅ | ✅ | ✅ | ⚠️ | ✅ | ✅ | ✅ |
+| **Selênio** | ✅ | — | ✅ | ⚠️ | ✅ | ✅ | ✅ | ✅ |
+| **Magnésio** | ✅ | ✅ | — | ⚠️ | ⚠️ | ✅ | ✅ | ✅ |
+| **Zinco** | ✅ | ⚠️ | ⚠️ | — | ⚠️ | ✅ | ⚠️ | ✅ |
+| **Ferro** | ⚠️ | ✅ | ⚠️ | ⚠️ | — | ✅ | ✅ | ✅ |
+| **Vit D3** | ✅ | ✅ | ✅ | ✅ | ✅ | — | ✅ | ✅ |
+| **Vit C** | ✅ | ✅ | ✅ | ⚠️ | ✅ | ✅ | — | ✅ |
+| **Vit K2** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | — |
 
 ---
 
@@ -261,18 +251,18 @@ LEGENDA:
 | Suplemento | Interação |
 |------------|-----------|
 | **Vitamina K2** | ❌ Reduz efeito — EVITAR ou ajustar dose com médico |
-| **Vitamina E** |  Pode aumentar sangramento |
-| **Ômega-3** |  Pode aumentar sangramento |
-| **Ginkgo** |  Aumenta sangramento |
+| **Vitamina E** | ⚠️ Pode aumentar sangramento |
+| **Ômega-3** | ⚠️ Pode aumentar sangramento |
+| **Ginkgo** | ⚠️ Aumenta sangramento |
 
 ### Hormônio Tireoidiano (Levotiroxina)
 
 | Suplemento | Interação |
 |------------|-----------|
-| **Ferro** |  Separar 4h — reduz absorção |
-| **Cálcio** |  Separar 4h — reduz absorção |
-| **Magnésio** |  Separar 2-4h |
-| **Café** |  Separar 1h |
+| **Ferro** | ⚠️ Separar 4h — reduz absorção |
+| **Cálcio** | ⚠️ Separar 4h — reduz absorção |
+| **Magnésio** | ⚠️ Separar 2-4h |
+| **Café** | ⚠️ Separar 1h |
 | **Iodo** | 🕐 Tomar 30-40min DEPOIS do hormônio |
 
 ### Antibióticos
@@ -286,17 +276,74 @@ LEGENDA:
 
 | Suplemento | Interação |
 |------------|-----------|
-| **5-HTP** |  Risco de síndrome serotoninérgica com ISRS |
-| **SAMe** |  Risco de síndrome serotoninérgica |
+| **5-HTP** | ⚠️ Risco de síndrome serotoninérgica com ISRS |
+| **SAMe** | ⚠️ Risco de síndrome serotoninérgica |
 | **St. John's Wort** | ❌ Múltiplas interações — EVITAR |
 
 ### Medicamentos para Pressão
 
 | Suplemento | Interação |
 |------------|-----------|
-| **Potássio** |  Cuidado com IECA/BRA — risco de hipercalemia |
-| **Magnésio** |  Pode potencializar hipotensão |
-| **CoQ10** |  Pode reduzir pressão adicionalmente |
+| **Potássio** | ⚠️ Cuidado com IECA/BRA — risco de hipercalemia |
+| **Magnésio** | ⚠️ Pode potencializar hipotensão |
+| **CoQ10** | ⚠️ Pode reduzir pressão adicionalmente |
+
+---
+
+### Azul de Metileno (Methylene Blue)
+
+| Medicamento | Interação | Risco |
+|-------------|-----------|-------|
+| **ISRS** (Fluoxetina, Sertralina, Escitalopram) | ❌ **CONTRAINDICADO** | **Síndrome serotoninérgica** (potencialmente fatal) — Azul de Metileno inibe MAO-A → ↑ serotonina |
+| **Inibidores MAO** | ❌ **CONTRAINDICADO** | Síndrome serotoninérgica |
+| **Clomipramina** | ❌ **CONTRAINDICADO** | Síndrome serotoninérgica |
+
+**Deficiência G6PD:** ❌ **CONTRAINDICADO** — risco hemólise aguda (destruição maciça de hemácias).
+
+**Ver:** [PROTOCOLO_AZUL_METILENO](/ferramentas/PROTOCOLO_AZUL_METILENO)
+
+---
+
+### Fitoterapia: Xarope Alho + Cravo
+
+| Medicamento | Interação | Risco |
+|-------------|-----------|-------|
+| **Anticoagulantes** (Varfarina, AAS, Clopidogrel, Rivaroxabana) | ❌ **RISCO ALTO** | ↑ Risco sangramento — alho (ajoeno) + cravo (eugenol) possuem atividade antiagregante plaquetária. Pode ↑ INR. |
+| **Dabigatrana** (Pradaxa®) | ❌ **RISCO ALTO** | **Mecanismo:** Eugenol (cravo) + alicina (alho) inibem agregação plaquetária → potencializa anticoagulação oral direta. **Ação:** MONITORAR sinais sangramento (hematomas, epistaxe, sangramento gengival). Considerar ajuste dose com médico. Evitar uso concomitante prolongado. |
+| **Hipoglicemiantes** (Metformina, Glibenclamida, Insulina) | ⚠️ **ATENÇÃO** | Alho reduz glicemia → risco hipoglicemia. Monitorar glicemia capilar com maior frequência. |
+| **Glicazida** (Diamicron®) | ⚠️ **ATENÇÃO** | **Mecanismo:** Alicina (alho) ↑ sensibilidade à insulina → potencializa efeito hipoglicemiante de sulfoniluréias. **Ação:** MONITORAR glicemia capilar 2-3×/dia nas primeiras 2 semanas. Reduzir dose glicazida se glicemia <70 mg/dL recorrente. |
+| **Inibidores de Protease HIV** (Ritonavir, Atazanavir, Darunavir) | ❌ **CONTRAINDICADO** | Alho induz CYP3A4 → ↓ biodisponibilidade antirretrovirais → falha terapêutica + resistência viral. |
+
+**Pré-operatório:** Suspender 7-10 dias antes de cirurgia (risco sangramento).
+
+**Ver:** [MONOGRAFIA_XAROPE_CRAVO_ALHO](/ferramentas/MONOGRAFIA_XAROPE_CRAVO_ALHO)
+
+---
+
+### Disruptores Endócrinos Estrogênicos + Iodo
+
+| Substância | Interação | Risco |
+|------------|-----------|-------|
+| **Fitoestrogênios** (soja, linhaça) | ⚠️ **COMPETIÇÃO** | Isoflavonas competem com iodo pelos receptores tireoidianos → bloqueio absorção iodo → hipotireoidismo subclínico |
+| **Triclosan** (sabonetes antibacterianos) | ⚠️ **DESREGULAÇÃO** | Bloqueia TPO (enzima produção hormônios tireoidianos) + agonista estrogênico fraco |
+| **Red 3** (eritrosina, corantes) | ⚠️ **COMPETIÇÃO** | Molécula contém iodo ligado → compete com iodo livre pelos receptores |
+| **BPA/BPS** (plásticos) | ⚠️ **DESREGULAÇÃO** | Agonista estrogênico moderado + interferência receptores tireoidianos |
+
+**Recomendação geral:**
+
+> Minimizar exposição a disruptores endócrinos estrogênicos **ANTES** ou **durante** protocolo iodo. Fontes principais: soja, plásticos aquecidos, sabonetes antibacterianos, alimentos processados (corantes). Protocolo Bronze mínimo: eliminar BPA, ftalatos, água filtrada.
+
+**Protocolo integrado:**
+
+```
+1. ELIMINAR estrogenicos (PROTOCOLO_ESTROGENICOS — Bronze mínimo)
+2. ESPERAR 2-4 semanas (clearance parcial)
+3. INICIAR protocolo iodo (M1)
+
+NÃO fazer iodo sem eliminar fontes estrogênicas = desperdício de esforço.
+```
+
+**Ver:** [PROTOCOLO_ESTROGENICOS](/ferramentas/PROTOCOLO_ESTROGENICOS), [M3: Detox Halogenados](/modulos/detox-halogenios), [M1: Iodo](/modulos/iodo)
 
 ---
 
@@ -362,10 +409,10 @@ LEGENDA:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Módulos](/docs/modulos/)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Módulos](/modulos)** | **[Homepage](/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.2` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

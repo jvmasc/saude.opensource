@@ -1,18 +1,8 @@
----
-categories:
-- Base
-date: '2026-01-27'
-description: 1. SHOT MATINAL — Ordenação Bioquímica
-draft: false
-tags: []
-title: 1. SHOT MATINAL — Ordenação Bioquímica
----
-
-# 1. SHOT MATINAL — Ordenação Bioquímica
+# SHOT MATINAL — Ordenação Bioquímica
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
+> **Deep Dive do [Protocolo Mestre](/protocolo-mestre)**
 
 ---
 
@@ -256,10 +246,10 @@ PREPARAÇÃO DO SHOT (2 minutos):
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[Timeline 90 Dias →](protocolo-mestre/timeline-90-dias/)** | **[Versões](protocolo-mestre/versoes/)**
+**[← Protocolo Mestre](/protocolo-mestre)** | **[Timeline 90 Dias →](/protocolo-mestre/timeline-90-dias.md)** | **[Versões](/protocolo-mestre/versoes.md)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

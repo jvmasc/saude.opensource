@@ -1,23 +1,13 @@
----
-categories:
-- Manual
-date: '2026-01-27'
-description:  PLAYBOOK — IMUNIDADE BAIXA
-draft: false
-tags: []
-title:  PLAYBOOK — IMUNIDADE BAIXA
----
+# 🦠 PLAYBOOK — IMUNIDADE BAIXA
 
-# PLAYBOOK — IMUNIDADE BAIXA
-
-**Status:** <span class="status stable"> Stable</span>
+**Status:** <span class="status stable">✅ Stable</span>
 **Versão:** `v1.0`
 **Última Atualização:** 21-01-2026
 **Tipo:** `Playbook de Debugging`
 
 ---
 
-##  CAMADA 0: SCREENING OBRIGATÓRIO
+## ⚠️ CAMADA 0: SCREENING OBRIGATÓRIO
 
 **CRÍTICO: NÃO pule esta seção. Imunidade baixa pode indicar condições GRAVES.**
 
@@ -83,7 +73,7 @@ Redução de 50-70% de infecções em 2-3 meses.
 
 ---
 
-##  PRINCÍPIO FUNDAMENTAL
+## ⚠️ PRINCÍPIO FUNDAMENTAL
 
 **Imunidade "forte" é mito. O correto é imunidade EQUILIBRADA.**
 
@@ -656,7 +646,7 @@ Defeito genético em células ou proteínas imunes → imunodeficiência desde i
 
 ---
 
-##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (Suporte Imune)
 
@@ -883,7 +873,7 @@ OS 6 NUTRIENTES CRÍTICOS PARA IMUNIDADE:
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** fortalece a imunidade atraves de:
+O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** fortalece a imunidade atraves de:
 
 | Componente do Shot | Impacto na Imunidade |
 |-------------------|---------------------|
@@ -907,17 +897,17 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** fortalece 
 
 ## NAVEGACAO
 
-**[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
+**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](modulos/remineralizacao/)** — Big 6 da imunidade (D, Zn, C, Se, Fe, A)
-- **[M4: Intestino](modulos/intestino/)** — 70-80% imunidade esta no intestino
-- **[M1: Iodo](modulos/iodo/)** — Se tireoide afeta imunidade + acao antimicrobiana
-- **[M3: Detox Halogenios](modulos/detox-halogenios/)** — Se sobrecarga toxica
-- **[M5: Desparasitacao](modulos/desparasitacao/)** — Parasitas deprimem imunidade
+- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Big 6 da imunidade (D, Zn, C, Se, Fe, A)
+- **[M4: Intestino](/modulos/intestino.md)** — 70-80% imunidade esta no intestino
+- **[M1: Iodo](/modulos/iodo.md)** — Se tireoide afeta imunidade + acao antimicrobiana
+- **[M3: Detox Halogenios](/modulos/detox-halogenios.md)** — Se sobrecarga toxica
+- **[M5: Desparasitacao](/modulos/desparasitacao.md)** — Parasitas deprimem imunidade
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)

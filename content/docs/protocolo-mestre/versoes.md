@@ -1,18 +1,8 @@
----
-categories:
-- Base
-date: '2026-01-27'
-description: 2. VERSÕES DO PROTOCOLO — Escolha a Sua
-draft: false
-tags: []
-title: 2. VERSÕES DO PROTOCOLO — Escolha a Sua
----
-
-# 2. VERSÕES DO PROTOCOLO — Escolha a Sua
+# VERSÕES DO PROTOCOLO — Escolha a Sua
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
+> **Deep Dive do [Protocolo Mestre](/protocolo-mestre)**
 
 ---
 
@@ -260,10 +250,10 @@ AVANÇADA (vitalício)
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[Shot Matinal](protocolo-mestre/shot-matinal/)** | **[Timeline 90 Dias](protocolo-mestre/timeline-90-dias/)**
+**[← Protocolo Mestre](/protocolo-mestre)** | **[Shot Matinal](/protocolo-mestre/shot-matinal.md)** | **[Timeline 90 Dias](/protocolo-mestre/timeline-90-dias.md)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

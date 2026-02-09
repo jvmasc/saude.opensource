@@ -1,23 +1,13 @@
----
-categories:
-- Manual
-date: '2026-01-27'
-description: PLAYBOOK — ANSIEDADE
-draft: false
-tags: []
-title: PLAYBOOK — ANSIEDADE
----
+# 😰 PLAYBOOK — ANSIEDADE
 
-# PLAYBOOK — ANSIEDADE
-
-**Status:** <span class="status stable"> Stable</span>
+**Status:** <span class="status stable">✅ Stable</span>
 **Versão:** `v1.0`
 **Última Atualização:** 21-01-2026
 **Tipo:** `Playbook de Debugging`
 
 ---
 
-## CAMADA 0: SCREENING OBRIGATÓRIO
+## ⚠️ CAMADA 0: SCREENING OBRIGATÓRIO
 
 **CRÍTICO: NÃO pule esta seção. Ansiedade pode ter causa ORGÂNICA.**
 
@@ -68,7 +58,7 @@ OPCIONAL:
 
 ---
 
-## DESCARTAR HIPERTIREOIDISMO — PRIORIDADE #1
+## 🎯 DESCARTAR HIPERTIREOIDISMO — PRIORIDADE #1
 
 **Por que hipertireoidismo é crítico na ansiedade?**
 
@@ -124,7 +114,7 @@ Link: Este caso NÃO é Open Source — requer médico especialista
 
 ---
 
-## TL;DR — EXECUTIVE SUMMARY
+## 📌 TL;DR — EXECUTIVE SUMMARY
 
 **O que é:**
 Ativação crônica do sistema simpático (luta/fuga) sem ameaça real. Não é "só mental" — é **desregulação autonômica** com componentes bioquímicos.
@@ -143,7 +133,7 @@ Redução de 40-60% dos sintomas em 2-4 semanas.
 
 ---
 
-## PRINCÍPIO FUNDAMENTAL
+## ⚠️ PRINCÍPIO FUNDAMENTAL
 
 **Ansiedade não é fraqueza. É simpático travado no ON.**
 
@@ -151,7 +141,7 @@ Sistema nervoso desregulado → cortisol alto → inflamação → mais ansiedad
 
 ---
 
-## DENTIFICAÇÃO RÁPIDA — OS 5 TIPOS
+## 🎯 IDENTIFICAÇÃO RÁPIDA — OS 5 TIPOS
 
 | Tipo | Sinais Principais | Causa Raiz | O que Fazer |
 |---|---|---|---|
@@ -294,7 +284,7 @@ Adicione:
 
 ---
 
-## DEEP DIVE — DIAGNÓSTICO DETALHADO (15 MIN)
+## 📊 DEEP DIVE — DIAGNÓSTICO DETALHADO (15 MIN)
 
 ### Tipo 1: Ansiedade Generalizada (TAG)
 
@@ -667,7 +657,7 @@ Intestino permeável (leaky gut) + disbiose → inflamação → citocinas → a
 
 ---
 
-##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (Neuroquímica & Hormônios)
 
@@ -781,7 +771,7 @@ Intestino permeável (leaky gut) + disbiose → inflamação → citocinas → a
 
 ---
 
-## REFERÊNCIAS
+## 📖 REFERÊNCIAS
 
 1. Dr. Daniel Amen — *Healing Anxiety and Depression*
 2. Dr. Kelly Brogan — *A Mind of Your Own* (Abordagem integrativa)
@@ -793,7 +783,7 @@ Intestino permeável (leaky gut) + disbiose → inflamação → citocinas → a
 
 ---
 
-## INTEGRAÇÃO COM PROTOCOLOS FUNDACIONAIS
+## 📈 INTEGRAÇÃO COM PROTOCOLOS FUNDACIONAIS
 
 ### Hierarquia de Tratamento
 
@@ -865,7 +855,7 @@ ANSIEDADE + TIREOIDE:
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** contem componentes que atuam diretamente na ansiedade:
+O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** contem componentes que atuam diretamente na ansiedade:
 
 | Componente do Shot | Impacto na Ansiedade |
 |-------------------|----------------------|
@@ -888,15 +878,15 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** contem com
 
 ## NAVEGACAO
 
-**[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
+**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](modulos/remineralizacao/)** — Magnesio (cofator GABA), B-vitaminas, D3
-- **[M4: Intestino](modulos/intestino/)** — Se ansiedade intestinal (eixo gut-brain)
-- **[M3: Detox Halogenios](modulos/detox-halogenios/)** — Se exposicao a bromo/fluor (afetam tireoide)
+- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Magnesio (cofator GABA), B-vitaminas, D3
+- **[M4: Intestino](/modulos/intestino.md)** — Se ansiedade intestinal (eixo gut-brain)
+- **[M3: Detox Halogenios](/modulos/detox-halogenios.md)** — Se exposicao a bromo/fluor (afetam tireoide)
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)

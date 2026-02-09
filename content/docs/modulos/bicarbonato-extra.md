@@ -1,18 +1,8 @@
----
-categories:
-- Protocolo
-date: '2026-01-27'
-description: 'M8: BICARBONATO EXTRA — Alcalinização Digestiva'
-draft: false
-tags: []
-title: 'M8: BICARBONATO EXTRA — Alcalinização Digestiva'
----
-
 # M8: BICARBONATO EXTRA — Alcalinização Digestiva
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Bicarbonato de Sódio
+> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Bicarbonato de Sódio
 
 ---
 
@@ -308,12 +298,21 @@ Sal de frutas contém outros componentes (citrato, ácido cítrico). Bicarbonato
 
 ---
 
+## 📖 Fundamentos Teóricos
+
+Para compreender o contexto científico deste módulo:
+- [Sistemas Dissipativos](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS) — Por que otimizar inputs energéticos
+- [Medicina Biológica](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA) — Como restaurar Matriz Extracelular
+- [Psicologia Evolutiva](/ferramentas/PSICOLOGIA_EVOLUTIVA) — Mismatches modernos e adaptações ancestrais
+
+---
+
 ## NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Água Oxigenada](modulos/agua-oxigenada/)**
+**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Água Oxigenada](/modulos/agua-oxigenada.md)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

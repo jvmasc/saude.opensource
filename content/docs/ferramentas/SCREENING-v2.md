@@ -1,13 +1,3 @@
----
-categories:
-- Recurso
-date: '2026-01-27'
-description: SCREENING v2 — Checklist Pré Protocolo
-draft: false
-tags: []
-title: SCREENING v2 — Checklist Pré-Protocolo
----
-
 # SCREENING v2 — Checklist Pré-Protocolo
 
 **Status:** `v2.0` | **Última Atualização:** 24-01-2026
@@ -322,7 +312,7 @@ M7 (ÁGUA OXIGENADA):
 
 ## NAVEGAÇÃO
 
-**[← Homepage](/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Módulos](/docs/modulos/)** | **[Playbooks](/docs/playbooks/)**
+**[← Homepage](/)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Módulos](/modulos)** | **[Playbooks](/Playbooks)**
 
 ---
 

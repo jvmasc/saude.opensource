@@ -1,13 +1,3 @@
----
-categories:
-- Manual
-date: '2026-01-27'
-description: 'PLAYBOOK: Mobilidade e Fáscia'
-draft: false
-tags: []
-title: 'PLAYBOOK: Mobilidade e Fáscia'
----
-
 # PLAYBOOK: Mobilidade e Fáscia
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026
@@ -436,12 +426,20 @@ MOVIMENTO + BIOQUÍMICA:
 
 ---
 
+## INTEGRAÇÃO
+
+**Ver também:**
+- **[M10: Higienista Moderno](/modulos/higienista-moderno)** — Pilar MOVIMENTO (piezoeletricidade fascial — movimento como geração elétrica celular) integra este playbook em rotina diária
+- **[M11: Fáscia](/modulos/fascia)** — Deep dive completo em sistema fascial (quando disponível)
+
+---
+
 ## NAVEGAÇÃO
 
-**[← Playbooks](/docs/playbooks/)** | **[Pilar Psicológico](/docs/ferramentas/pilar_psicologico/)** | **[Assessment 4D](/docs/ferramentas/assessment_4d/)** | **[Homepage](/)**
+**[← Playbooks](/Playbooks)** | **[Pilar Psicológico](/ferramentas/PSICOLOGIA_EVOLUTIVA)** | **[Assessment 4D](/docs/ASSESSMENT_4D.md)** | **[Homepage](/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

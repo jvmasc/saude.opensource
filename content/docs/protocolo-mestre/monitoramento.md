@@ -1,18 +1,8 @@
----
-categories:
-- Base
-date: '2026-01-27'
-description: 3. MONITORAMENTO — Sinais de Progresso
-draft: false
-tags: []
-title: 3. MONITORAMENTO — Sinais de Progresso
----
-
-# 3. MONITORAMENTO — Sinais de Progresso
+# MONITORAMENTO — Sinais de Progresso
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
+> **Deep Dive do [Protocolo Mestre](/protocolo-mestre)**
 
 ---
 
@@ -165,12 +155,12 @@ Observações: _______________________
 ### CONSULTE MÉDICO se:
 
 ```
- Sintomas não melhoram após 30 dias
- Piora de condições pré-existentes
- Dúvidas sobre interações medicamentosas
- Novos sintomas preocupantes
- Resultados de exames alterados
- Temperatura basal subindo muito rápido (>0.5°C em 1 semana)
+⚠️ Sintomas não melhoram após 30 dias
+⚠️ Piora de condições pré-existentes
+⚠️ Dúvidas sobre interações medicamentosas
+⚠️ Novos sintomas preocupantes
+⚠️ Resultados de exames alterados
+⚠️ Temperatura basal subindo muito rápido (>0.5°C em 1 semana)
 ```
 
 ---
@@ -426,10 +416,10 @@ AÇÕES:
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[FAQ](protocolo-mestre/faq/)** | **[Casos Clínicos](protocolo-mestre/casos-clinicos/)**
+**[← Protocolo Mestre](/protocolo-mestre)** | **[FAQ](/protocolo-mestre/faq.md)** | **[Casos Clínicos](/protocolo-mestre/casos-clinicos.md)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

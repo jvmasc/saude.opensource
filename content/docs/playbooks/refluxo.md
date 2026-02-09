@@ -1,16 +1,6 @@
----
-categories:
-- Manual
-date: '2026-01-27'
-description:  PLAYBOOK — REFLUXO GÁSTRICO
-draft: false
-tags: []
-title:  PLAYBOOK — REFLUXO GÁSTRICO
----
+# 🔥 PLAYBOOK — REFLUXO GÁSTRICO
 
-# PLAYBOOK — REFLUXO GÁSTRICO
-
-**Status:** <span class="status stable"> Stable</span>
+**Status:** <span class="status stable">✅ Stable</span>
 **Versão:** `v1.0`
 **Última Atualização:** 16-01-2026
 
@@ -34,7 +24,7 @@ Redução de 50-70% dos sintomas em 7-14 dias.
 
 ---
 
-##  PRINCÍPIO FUNDAMENTAL
+## ⚠️ PRINCÍPIO FUNDAMENTAL
 
 **Refluxo não é uma coisa só. Tratar tudo com antiácido é debugging errado.**
 
@@ -337,7 +327,7 @@ Mucosa gástrica ou esofágica cronicamente inflamada → cicatrizes → disfun�
 
 ---
 
-##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (O que entra)
 
@@ -449,7 +439,7 @@ Mucosa gástrica ou esofágica cronicamente inflamada → cicatrizes → disfun�
 
 ## 🍽️ DIETA ANTI-REFLUXO
 
-###  Permitidos e Recomendados:
+### ✅ Permitidos e Recomendados:
 
 **Proteínas:**
 - Carnes magras (frango, peru, peixe)
@@ -590,7 +580,7 @@ _____________________
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** e o **[Modulo M8 (Bicarbonato Extra)](modulos/bicarbonato-extra/)** atuam diretamente no refluxo:
+O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** e o **[Modulo M8 (Bicarbonato Extra)](/modulos/bicarbonato-extra.md)** atuam diretamente no refluxo:
 
 | Componente | Impacto no Refluxo |
 |-----------|-------------------|
@@ -619,14 +609,14 @@ SE TIPO 4 (Inflamacao):
 
 ## NAVEGACAO
 
-**[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
+**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
-- **[M8: Bicarbonato Extra](modulos/bicarbonato-extra/)** — Alcalinizacao pre-refeicao
-- **[M4: Intestino](modulos/intestino/)** — Se inflamacao cronica
+- **[M8: Bicarbonato Extra](/modulos/bicarbonato-extra.md)** — Alcalinizacao pre-refeicao
+- **[M4: Intestino](/modulos/intestino.md)** — Se inflamacao cronica
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. Joao | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. Joao | [Changelog](/00-meta/changelog)

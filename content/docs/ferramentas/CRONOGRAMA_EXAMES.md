@@ -1,13 +1,3 @@
----
-categories:
-- Recurso
-date: '2026-01-27'
-description: CRONOGRAMA DE EXAMES — Guia Laboratorial
-draft: false
-tags: []
-title: CRONOGRAMA DE EXAMES — Guia Laboratorial
----
-
 # CRONOGRAMA DE EXAMES — Guia Laboratorial
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026
@@ -134,12 +124,12 @@ Ferritina > 200 = investigar inflamação/hemocromatose
 ### Notas Importantes
 
 ```
- TSH PODE SUBIR com iodo — isso é ESPERADO
+⚠️ TSH PODE SUBIR com iodo — isso é ESPERADO
    O iodo estimula os simporters NIS
    Não significa hipotireoidismo
    Avaliar pelos SINTOMAS + T3/T4, não só TSH
 
- T3 REVERSO aumentado = stress, inflamação, dieta restrita
+⚠️ T3 REVERSO aumentado = stress, inflamação, dieta restrita
    Não é falta de iodo
    Tratar causa base
 ```
@@ -341,10 +331,10 @@ CUSTO APROXIMADO (particular):
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Screening](/docs/ferramentas/screening-v2/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Screening](/ferramentas/SCREENING-v2.md)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

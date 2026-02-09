@@ -1,23 +1,13 @@
----
-categories:
-- Manual
-date: '2026-01-27'
-description:  PLAYBOOK — FADIGA CRÔNICA
-draft: false
-tags: []
-title:  PLAYBOOK — FADIGA CRÔNICA
----
+# 🔋 PLAYBOOK — FADIGA CRÔNICA
 
-# PLAYBOOK — FADIGA CRÔNICA
-
-**Status:** <span class="status stable"> Stable</span>
+**Status:** <span class="status stable">✅ Stable</span>
 **Versão:** `v1.0`
 **Última Atualização:** 21-01-2026
 **Tipo:** `Playbook de Debugging`
 
 ---
 
-##  CAMADA 0: SCREENING OBRIGATÓRIO
+## ⚠️ CAMADA 0: SCREENING OBRIGATÓRIO
 
 **CRÍTICO: NÃO pule esta seção. Fadiga pode esconder condições sérias.**
 
@@ -150,7 +140,7 @@ Melhora de 30-50% da energia em 2-4 semanas.
 
 ---
 
-##  PRINCÍPIO FUNDAMENTAL
+## ⚠️ PRINCÍPIO FUNDAMENTAL
 
 **Fadiga crônica = falha crônica de ATP.**
 
@@ -624,7 +614,7 @@ Inflamação crônica → citocinas inflamatórias (IL-6, TNF-α) → fadiga sis
 
 ---
 
-##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (Suporte Energético)
 
@@ -796,7 +786,7 @@ FADIGA + REMINERALIZAÇÃO:
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** aborda diretamente as causas raiz da fadiga:
+O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** aborda diretamente as causas raiz da fadiga:
 
 | Componente do Shot | Impacto na Fadiga |
 |-------------------|-------------------|
@@ -814,22 +804,22 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** aborda dir
 4. Se fadiga toxica: Modulo M3 (Detox Halogenios)
 ```
 
-**Caso Clinico Relacionado:** Ver [Caso #1 - Fadiga Cronica](protocolo-mestre/casos-clinicos/#caso-1-fadiga-cronica-e-hipotireoidismo-subclinico)
+**Caso Clinico Relacionado:** Ver [Caso #1 - Fadiga Cronica](/protocolo-mestre/casos-clinicos.md#caso-1-fadiga-cronica-e-hipotireoidismo-subclinico)
 
 ---
 
 ## NAVEGACAO
 
-**[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
+**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](modulos/remineralizacao/)** — Base para todos tipos de fadiga
-- **[M1: Iodo](modulos/iodo/)** — Se fadiga tireoidiana
-- **[M4: Intestino](modulos/intestino/)** — Se fadiga inflamatoria ou intestinal
-- **[M3: Detox Halogenios](modulos/detox-halogenios/)** — Se fadiga toxica
+- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Base para todos tipos de fadiga
+- **[M1: Iodo](/modulos/iodo.md)** — Se fadiga tireoidiana
+- **[M4: Intestino](/modulos/intestino.md)** — Se fadiga inflamatoria ou intestinal
+- **[M3: Detox Halogenios](/modulos/detox-halogenios.md)** — Se fadiga toxica
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)

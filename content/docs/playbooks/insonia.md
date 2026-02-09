@@ -1,23 +1,13 @@
----
-categories:
-- Manual
-date: '2026-01-27'
-description:  PLAYBOOK — INSÔNIA
-draft: false
-tags: []
-title:  PLAYBOOK — INSÔNIA
----
+# 💤 PLAYBOOK — INSÔNIA
 
-# PLAYBOOK — INSÔNIA
-
-**Status:** <span class="status stable"> Stable</span>
+**Status:** <span class="status stable">✅ Stable</span>
 **Versão:** `v1.0`
 **Última Atualização:** 21-01-2026
 **Tipo:** `Playbook de Debugging`
 
 ---
 
-##  CAMADA 0: SCREENING OBRIGATÓRIO
+## ⚠️ CAMADA 0: SCREENING OBRIGATÓRIO
 
 **CRÍTICO: NÃO pule esta seção. Insônia pode ter causa ORGÂNICA.**
 
@@ -165,7 +155,7 @@ Melhora de 50-70% da qualidade do sono em 7-14 dias.
 
 ---
 
-##  PRINCÍPIO FUNDAMENTAL
+## ⚠️ PRINCÍPIO FUNDAMENTAL
 
 **Sono não é "desligar". É processo ativo regulado por ritmo circadiano + drive homeostático.**
 
@@ -480,7 +470,7 @@ Sono fragmentado ou superficial → sem N3 (profundo) ou REM suficiente → não
 
 ---
 
-##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (Neuroquímica do Sono)
 
@@ -726,7 +716,7 @@ ANTES DE DORMIR:
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** contem componentes que melhoram o sono:
+O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** contem componentes que melhoram o sono:
 
 | Componente do Shot | Impacto no Sono |
 |-------------------|-----------------|
@@ -748,15 +738,15 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** contem com
 
 ## NAVEGACAO
 
-**[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
+**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](modulos/remineralizacao/)** — Magnesio, glicina, B6 (cofatores do sono)
-- **[M1: Iodo](modulos/iodo/)** — Se tireoide alterada afeta sono
-- **[M4: Intestino](modulos/intestino/)** — Producao de serotonina → melatonina
+- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Magnesio, glicina, B6 (cofatores do sono)
+- **[M1: Iodo](/modulos/iodo.md)** — Se tireoide alterada afeta sono
+- **[M4: Intestino](/modulos/intestino.md)** — Producao de serotonina → melatonina
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)

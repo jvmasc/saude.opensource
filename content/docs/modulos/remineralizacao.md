@@ -1,18 +1,8 @@
----
-categories:
-- Protocolo
-date: '2026-01-27'
-description: 'M2: PROTOCOLO DE REMINERALIZAÇÃO ESSENCIAL'
-draft: false
-tags: []
-title: 'M2: PROTOCOLO DE REMINERALIZAÇÃO ESSENCIAL'
----
-
 # M2: PROTOCOLO DE REMINERALIZAÇÃO ESSENCIAL
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Remineralização
+> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Remineralização
 
 ---
 
@@ -44,16 +34,16 @@ Suplementar **doses baixas** ou **formas erradas** (ex: óxido de magnésio tem 
 
 ---
 
-##  PRÉ-REQUISITOS
+## ⚠️ PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
-> - [ ] Screening completo realizado → **[Ver Checklist](/docs/ferramentas/screening-v2/)**
+> - [ ] Screening completo realizado → **[Ver Checklist](/ferramentas/SCREENING-v2)**
 > - [ ] Exames de minerais (opcional mas recomendado)
 > - [ ] Verificar interações medicamentosas
 
 ---
 
-##  PRINCÍPIO FUNDAMENTAL
+## ⚠️ PRINCÍPIO FUNDAMENTAL
 
 **Minerais são os COFATORES que fazem o corpo funcionar:**
 
@@ -468,7 +458,7 @@ JEJUM PROLONGADO (>24h):
 
 ---
 
-##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO
+## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO
 
 ### 1. BIOQUÍMICA (O que entra)
 
@@ -650,7 +640,7 @@ _________________________________
 
 ## 🚨 RED FLAGS — PROCURE MÉDICO
 
-> Para lista completa: **[Ver Screening](/docs/ferramentas/screening-v2/)**
+> Para lista completa: **[Ver Screening](/ferramentas/SCREENING-v2)**
 
 **Sintomas de Alarme:**
 
@@ -702,12 +692,21 @@ _________________________________
 
 ---
 
+## 📖 Fundamentos Teóricos
+
+Para compreender o contexto científico deste módulo:
+- [Sistemas Dissipativos](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS) — Por que otimizar inputs energéticos
+- [Medicina Biológica](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA) — Como restaurar Matriz Extracelular
+- [Psicologia Evolutiva](/ferramentas/PSICOLOGIA_EVOLUTIVA) — Mismatches modernos e adaptações ancestrais
+
+---
+
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Iodo](modulos/iodo/)** | **[Homepage](/)**
+**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Iodo](/modulos/iodo.md)** | **[Homepage](/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

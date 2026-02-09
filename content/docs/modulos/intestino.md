@@ -1,18 +1,8 @@
----
-categories:
-- Protocolo
-date: '2026-01-27'
-description: 'M4: PROTOCOLO DE INTEGRIDADE INTESTINAL'
-draft: false
-tags: []
-title: 'M4: PROTOCOLO DE INTEGRIDADE INTESTINAL'
----
-
 # M4: PROTOCOLO DE INTEGRIDADE INTESTINAL
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Integridade Intestinal
+> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Integridade Intestinal
 
 ---
 
@@ -47,17 +37,17 @@ Tomar **probióticos sem preparar o terreno** — jogar sementes em solo contami
 
 ---
 
-##  PRÉ-REQUISITOS
+## ⚠️ PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
-> - [ ] Screening completo realizado → **[Ver Checklist](/docs/ferramentas/screening-v2/)**
+> - [ ] Screening completo realizado → **[Ver Checklist](/ferramentas/SCREENING-v2)**
 > - [ ] Descartar condições graves (sangue nas fezes, perda de peso inexplicada)
 > - [ ] Idealmente: exame de fezes completo (parasitológico + cultura)
 > - [ ] Protocolos F1-F3 em andamento ou concluídos
 
 ---
 
-##  PRINCÍPIO FUNDAMENTAL
+## ⚠️ PRINCÍPIO FUNDAMENTAL
 
 **O intestino é o SEGUNDO CÉREBRO e o CENTRO DA IMUNIDADE:**
 
@@ -177,11 +167,11 @@ OPCIONAL (se suspeita de SIBO):
 
 **O que PODE comer:**
 ```
- PROTEÍNAS: Carnes, peixes, ovos, frango
- VEGETAIS: Todos (especialmente folhas verdes)
- GORDURAS: Azeite, abacate, coco, manteiga ghee
- CARBOIDRATOS: Arroz, batata, mandioca, frutas
- TEMPEROS: Ervas, especiarias, sal integral
+✅ PROTEÍNAS: Carnes, peixes, ovos, frango
+✅ VEGETAIS: Todos (especialmente folhas verdes)
+✅ GORDURAS: Azeite, abacate, coco, manteiga ghee
+✅ CARBOIDRATOS: Arroz, batata, mandioca, frutas
+✅ TEMPEROS: Ervas, especiarias, sal integral
 ```
 
 ---
@@ -312,7 +302,7 @@ FASE 3 — REINTRODUÇÃO (gradual):
 ### Protocolo para SIBO
 
 ```
- SIBO requer abordagem específica — considere acompanhamento profissional
+⚠️ SIBO requer abordagem específica — considere acompanhamento profissional
 
 FASE 1 — ANTIMICROBIANOS (4-6 semanas):
 □ Óleo de orégano 200mg 2x/dia
@@ -372,7 +362,7 @@ CAUSA RAIZ:
 
 ---
 
-##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO
+## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO
 
 ### 1. BIOQUÍMICA (O que entra)
 
@@ -588,7 +578,7 @@ META: Tipo 3-4, 1-3x ao dia, sem esforço
 
 ## 🚨 RED FLAGS — PROCURE MÉDICO
 
-> Para lista completa de red flags gerais: **[Ver Screening](/docs/ferramentas/screening-v2/)**
+> Para lista completa de red flags gerais: **[Ver Screening](/ferramentas/SCREENING-v2)**
 
 **Sintomas de Alarme — Gastroenterologista URGENTE:**
 
@@ -703,12 +693,12 @@ COM PROTOCOLO DE IODO:
 
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
+**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
 
 **Módulos Relacionados:**
-- **[M2: Remineralização](modulos/remineralizacao/)** — Cofatores para intestino
-- **[M3: Detox de Halogênios](modulos/detox-halogenios/)** — Excreção de toxinas
-- **[Playbook Refluxo](Playbooks/refluxo/)** — Se refluxo for sintoma principal
+- **[M2: Remineralização](/modulos/remineralizacao.md)** — Cofatores para intestino
+- **[M3: Detox de Halogênios](/modulos/detox-halogenios.md)** — Excreção de toxinas
+- **[Playbook Refluxo](/Playbooks/refluxo.md)** — Se refluxo for sintoma principal
 
 ---
 
@@ -741,6 +731,15 @@ SEMANA 4+: REEQUILIBRAR
 
 ---
 
+## 📖 Fundamentos Teóricos
+
+Para compreender o contexto científico deste módulo:
+- [Sistemas Dissipativos](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS) — Por que otimizar inputs energéticos
+- [Medicina Biológica](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA) — Como restaurar Matriz Extracelular
+- [Psicologia Evolutiva](/ferramentas/PSICOLOGIA_EVOLUTIVA) — Mismatches modernos e adaptações ancestrais
+
+---
+
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

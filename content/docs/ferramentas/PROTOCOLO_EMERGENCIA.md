@@ -1,13 +1,3 @@
----
-categories:
-- Recurso
-date: '2026-01-27'
-description: PROTOCOLO DE EMERGÊNCIA — Manejo de Crises
-draft: false
-tags: []
-title: PROTOCOLO DE EMERGÊNCIA — Manejo de Crises
----
-
 # PROTOCOLO DE EMERGÊNCIA — Manejo de Crises
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026
@@ -327,10 +317,10 @@ AVALIAÇÃO OBRIGATÓRIA:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Screening](/docs/ferramentas/screening-v2/)** | **[Assessment 4D](/docs/ferramentas/assessment_4d/)**
+**[← Docs](/docs)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Screening](/ferramentas/SCREENING-v2.md)** | **[Assessment 4D](/docs/ASSESSMENT_4D.md)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

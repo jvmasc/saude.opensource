@@ -1,13 +1,3 @@
----
-categories:
-- Recurso
-date: '2026-01-27'
-description: ASSESSMENT 4D — Questionário Diagnóstico
-draft: false
-tags: []
-title: ASSESSMENT 4D — Questionário Diagnóstico
----
-
 # ASSESSMENT 4D — Questionário Diagnóstico
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026
@@ -273,7 +263,7 @@ Antes de iniciar qualquer protocolo, verifique:
 | 6 | Uso de anticoagulantes | ☐ | ☐ |
 | 7 | Quimioterapia/radioterapia ativa | ☐ | ☐ |
 
-**Se marcou SIM em qualquer item:** Consulte o [Screening Detalhado](/docs/ferramentas/screening-v2/) antes de prosseguir.
+**Se marcou SIM em qualquer item:** Consulte o [Screening Detalhado](/ferramentas/SCREENING-v2.md) antes de prosseguir.
 
 ---
 
@@ -322,10 +312,10 @@ Após completar o Assessment:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Screening](/docs/ferramentas/screening-v2/)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Screening](/ferramentas/SCREENING-v2.md)** | **[Homepage](/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

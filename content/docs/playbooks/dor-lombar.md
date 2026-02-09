@@ -1,23 +1,13 @@
----
-categories:
-- Manual
-date: '2026-01-27'
-description:  PLAYBOOK — DOR LOMBAR
-draft: false
-tags: []
-title:  PLAYBOOK — DOR LOMBAR
----
+# 🦴 PLAYBOOK — DOR LOMBAR
 
-# PLAYBOOK — DOR LOMBAR
-
-**Status:** <span class="status stable"> Stable</span>
+**Status:** <span class="status stable">✅ Stable</span>
 **Versão:** `v1.0`
 **Última Atualização:** 21-01-2026
 **Tipo:** `Playbook de Debugging`
 
 ---
 
-##  CAMADA 0: SCREENING OBRIGATÓRIO
+## ⚠️ CAMADA 0: SCREENING OBRIGATÓRIO
 
 **CRÍTICO: NÃO pule esta seção. Dor lombar pode esconder condições GRAVES.**
 
@@ -80,7 +70,7 @@ Redução de 40-60% da dor em 7-14 dias.
 
 ---
 
-##  PRINCÍPIO FUNDAMENTAL
+## ⚠️ PRINCÍPIO FUNDAMENTAL
 
 **Dor não significa que o problema está na lombar.**
 
@@ -475,7 +465,7 @@ Autoimunidade → inflamação articulações sacroilíacas e coluna → fusão 
 
 ---
 
-##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (Nutrição Estrutural)
 
@@ -695,7 +685,7 @@ DOR LOMBAR + INTESTINO (se inflamatório):
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** auxilia na dor lombar atraves de:
+O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** auxilia na dor lombar atraves de:
 
 | Componente do Shot | Impacto na Dor Lombar |
 |-------------------|----------------------|
@@ -717,14 +707,14 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/docs/protocolo-mestre/)** auxilia na
 
 ## NAVEGACAO
 
-**[← Playbooks](/docs/playbooks/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Modulos](/docs/modulos/)** | **[Homepage](/)**
+**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](modulos/remineralizacao/)** — Magnesio, D3, colageno
-- **[M4: Intestino](modulos/intestino/)** — Se dor inflamatoria/autoimune
+- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Magnesio, D3, colageno
+- **[M4: Intestino](/modulos/intestino.md)** — Se dor inflamatoria/autoimune
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)

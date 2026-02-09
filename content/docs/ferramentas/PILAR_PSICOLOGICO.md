@@ -1,13 +1,3 @@
----
-categories:
-- Recurso
-date: '2026-01-27'
-description: PILAR PSICOLÓGICO — A 5ª Dimensão
-draft: false
-tags: []
-title: PILAR PSICOLÓGICO — A 5ª Dimensão
----
-
 # PILAR PSICOLÓGICO — A 5ª Dimensão
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026
@@ -386,10 +376,10 @@ PROFISSIONAIS:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Assessment 4D](/docs/ferramentas/assessment_4d/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Assessment 4D](/docs/ASSESSMENT_4D.md)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

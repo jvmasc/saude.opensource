@@ -1,13 +1,3 @@
----
-categories:
-- Recurso
-date: '2026-01-27'
-description: CALCULADORA DE DOSAGEM — Guia de Ajustes
-draft: false
-tags: []
-title: CALCULADORA DE DOSAGEM — Guia de Ajustes
----
-
 # CALCULADORA DE DOSAGEM — Guia de Ajustes
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026
@@ -445,10 +435,10 @@ IODO:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Matriz Interações](/docs/ferramentas/matriz_interacoes/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Matriz Interações](/docs/MATRIZ_INTERACOES.md)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

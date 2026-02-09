@@ -1,13 +1,3 @@
----
-categories:
-- Recurso
-date: '2026-01-27'
-description: PROTOCOLO DE FERRO — Otimização e Correção
-draft: false
-tags: []
-title: PROTOCOLO DE FERRO — Otimização e Correção
----
-
 # PROTOCOLO DE FERRO — Otimização e Correção
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026
@@ -443,10 +433,10 @@ MANUTENÇÃO:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Cronograma Exames](/docs/ferramentas/cronograma_exames/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
+**[← Docs](/docs)** | **[Cronograma Exames](/docs/CRONOGRAMA_EXAMES.md)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

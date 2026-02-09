@@ -1,18 +1,8 @@
----
-categories:
-- Base
-date: '2026-01-27'
-description: 6. FAQ — Perguntas Frequentes
-draft: false
-tags: []
-title: 6. FAQ — Perguntas Frequentes
----
-
-# 6. FAQ — Perguntas Frequentes
+# FAQ — Perguntas Frequentes
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/docs/protocolo-mestre/)**
+> **Deep Dive do [Protocolo Mestre](/protocolo-mestre)**
 
 ---
 
@@ -335,10 +325,10 @@ ESPAÇAMENTO NECESSÁRIO:
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/docs/protocolo-mestre/)** | **[Casos Clínicos](protocolo-mestre/casos-clinicos/)** | **[Monitoramento](protocolo-mestre/monitoramento/)**
+**[← Protocolo Mestre](/protocolo-mestre)** | **[Casos Clínicos](/protocolo-mestre/casos-clinicos.md)** | **[Monitoramento](/protocolo-mestre/monitoramento.md)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

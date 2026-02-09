@@ -1,18 +1,12 @@
----
-categories:
-- Protocolo
-date: '2026-01-27'
-description: 'M1: PROTOCOLO DE IODO (Lugol 5%)'
-draft: false
-tags: []
-title: 'M1: PROTOCOLO DE IODO (Lugol 5%)'
----
-
 # M1: PROTOCOLO DE IODO (Lugol 5%)
 
 **Status:** `v4.0` | **Ultima Atualizacao:** 24-01-2026
 
-> **Modulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Suplementacao de Iodo
+> **Modulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Suplementacao de Iodo
+
+---
+
+> 💡 **Novo na suplementação de iodo?** Veja o [Guia Básico de Iodo](/ferramentas/GUIA_BASICO_IODO) para uma introdução simplificada antes de ler este módulo completo.
 
 ---
 
@@ -40,7 +34,7 @@ Suplementar iodo SEM fazer **SCREENING** antes — pode piorar Hashimoto, Graves
 
 ---
 
-##  CAMADA 0: SCREENING OBRIGATÓRIO
+## ⚠️ CAMADA 0: SCREENING OBRIGATÓRIO
 
 **CRÍTICO: NÃO pule esta seção. Iodo pode piorar certas condições.**
 
@@ -301,7 +295,7 @@ O iodo desloca bromo dos tecidos → bromo entra na corrente sanguínea → sint
 
 ---
 
-##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
+## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
 ### 1. BIOQUÍMICA (O que entra)
 
@@ -393,7 +387,7 @@ Pintar área de 5x5cm com Lugol no antebraço
 
 ---
 
-##  PROTOCOLOS ESPECIAIS
+## 🔧 PROTOCOLOS ESPECIAIS
 
 ### Protocolo Hashimoto (1-12 meses de preparação)
 
@@ -661,12 +655,21 @@ _________________________________
 
 ---
 
+## 📖 Fundamentos Teóricos
+
+Para compreender o contexto científico deste módulo:
+- [Sistemas Dissipativos](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS) — Por que otimizar inputs energéticos
+- [Medicina Biológica](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA) — Como restaurar Matriz Extracelular
+- [Psicologia Evolutiva](/ferramentas/PSICOLOGIA_EVOLUTIVA) — Mismatches modernos e adaptações ancestrais
+
+---
+
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Playbooks](/docs/playbooks/)** | **[Homepage](/)**
+**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Playbooks](/Playbooks)** | **[Homepage](/)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

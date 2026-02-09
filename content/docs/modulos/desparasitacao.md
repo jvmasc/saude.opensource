@@ -1,18 +1,8 @@
----
-categories:
-- Protocolo
-date: '2026-01-27'
-description: 'M5: DESPARASITAÇÃO — Protocolo Ivermectina'
-draft: false
-tags: []
-title: 'M5: DESPARASITAÇÃO — Protocolo Ivermectina'
----
-
 # M5: DESPARASITAÇÃO — Protocolo Ivermectina
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Desparasitação
+> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Desparasitação
 
 ---
 
@@ -297,12 +287,21 @@ Geralmente 2-4 semanas após iniciar os ciclos.
 
 ---
 
+## 📖 Fundamentos Teóricos
+
+Para compreender o contexto científico deste módulo:
+- [Sistemas Dissipativos](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS) — Por que otimizar inputs energéticos
+- [Medicina Biológica](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA) — Como restaurar Matriz Extracelular
+- [Psicologia Evolutiva](/ferramentas/PSICOLOGIA_EVOLUTIVA) — Mismatches modernos e adaptações ancestrais
+
+---
+
 ## NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Timeline 90 Dias](protocolo-mestre/timeline-90-dias/)**
+**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Timeline 90 Dias](/protocolo-mestre/timeline-90-dias.md)**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

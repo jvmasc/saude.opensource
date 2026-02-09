@@ -273,7 +273,7 @@ Protocolo matinal de 2 minutos que combina 4 componentes sinérgicos:
 - **Tireóide**: Lugol 5% (iodo + iodeto)
 - **Relaxamento**: Cloreto de magnésio (ativação parassimpática)
 
-**Protocolo completo:** [shot-matinal.md](content/docs/protocolo-mestre/shot-matinal.md)
+**Protocolo completo:** [shot-matinal.md](02.%20Projetos/3.%20Saúde%20Open%20Source/03-site-hugo/saude.opensource/content/docs/protocolo-mestre/shot-matinal.md)
 
 ---
 
@@ -570,8 +570,8 @@ Se você quer se aprofundar na ciência por trás dos protocolos, comece por aqu
 - **Tireóide**: [Módulo Iodo](content/docs/modulos/01-iodo.md)
 - **Intestino**: [Módulo Intestino](content/docs/modulos/02-intestino.md)
 - **Energia**: [Playbook Fadiga](content/docs/playbooks/fadiga-cronica.md)
-- **Sono**: [Playbook Insônia](content/docs/playbooks/insonia.md)
-- **Stress**: [Playbook Ansiedade](content/docs/playbooks/ansiedade.md)
+- **Sono**: [Playbook Insônia](02.%20Projetos/3.%20Saúde%20Open%20Source/03-site-hugo/saude.opensource/content/docs/playbooks/insonia.md)
+- **Stress**: [Playbook Ansiedade](02.%20Projetos/3.%20Saúde%20Open%20Source/03-site-hugo/saude.opensource/content/docs/playbooks/ansiedade.md)
 
 ### Para Desenvolvedores
 

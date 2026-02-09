@@ -1,18 +1,8 @@
----
-categories:
-- Protocolo
-date: '2026-01-27'
-description: 'M9: PROTOCOLO DE BORO (BORAX)'
-draft: false
-tags: []
-title: 'M9: PROTOCOLO DE BORO (BORAX)'
----
-
 # M9: PROTOCOLO DE BORO (BORAX)
 
 **Status:** `v4.0` | **Última Atualização:** 26-01-2026
 
-> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Boro
+> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Boro
 
 ---
 
@@ -44,7 +34,7 @@ Confundir **bórax** (seguro em doses corretas) com **ácido bórico** (mais con
 
 ---
 
-##  AVISOS IMPORTANTES
+## ⚠️ AVISOS IMPORTANTES
 
 > **ATENÇÃO:**
 > - Bórax é **classificado como veneno reprodutivo na União Europeia** desde 2010
@@ -54,17 +44,17 @@ Confundir **bórax** (seguro em doses corretas) com **ácido bórico** (mais con
 
 ---
 
-##  PRÉ-REQUISITOS
+## ⚠️ PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
-> - [ ] Screening completo realizado → **[Ver Checklist](/docs/ferramentas/screening-v2/)**
+> - [ ] Screening completo realizado → **[Ver Checklist](/ferramentas/SCREENING-v2.md)**
 > - [ ] Função renal normal (boro é excretado pelos rins)
 > - [ ] Não estar grávida ou amamentando
 > - [ ] Verificar interações medicamentosas
 
 ---
 
-##  MECANISMO DE AÇÃO
+## 🔬 MECANISMO DE AÇÃO
 
 ### Distribuição no Corpo
 
@@ -213,10 +203,10 @@ SE REAÇÕES INTENSAS:
 
 | Módulo | Conexão com Boro |
 |--------|------------------|
-| **[M1: Iodo](modulos/iodo/)** | Boro → paratireoides como Iodo → tireoide |
-| **[M2: Remineralização](modulos/remineralizacao/)** | Boro regula absorção de Ca, Mg, P |
-| **[M3: Detox Halogênios](modulos/detox-halogenios/)** | Boro não compete com halogênios |
-| **[M4: Intestino](modulos/intestino/)** | Efeito antifúngico contra Candida |
+| **[M1: Iodo](/modulos/iodo.md)** | Boro → paratireoides como Iodo → tireoide |
+| **[M2: Remineralização](/modulos/remineralizacao.md)** | Boro regula absorção de Ca, Mg, P |
+| **[M3: Detox Halogênios](/modulos/detox-halogenios.md)** | Boro não compete com halogênios |
+| **[M4: Intestino](/modulos/intestino.md)** | Efeito antifúngico contra Candida |
 
 ---
 
@@ -239,17 +229,26 @@ SE REAÇÕES INTENSAS:
 
 ---
 
+## 📖 Fundamentos Teóricos
+
+Para compreender o contexto científico deste módulo:
+- [Sistemas Dissipativos](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS) — Por que otimizar inputs energéticos
+- [Medicina Biológica](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA) — Como restaurar Matriz Extracelular
+- [Psicologia Evolutiva](/ferramentas/PSICOLOGIA_EVOLUTIVA) — Mismatches modernos e adaptações ancestrais
+
+---
+
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Homepage](/)**
+**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
 
 **Módulos Relacionados:**
-- **[M1: Iodo](modulos/iodo/)** — Analogia tireoide/paratireoides
-- **[M2: Remineralização](modulos/remineralizacao/)** — Cofatores essenciais
-- **[M4: Intestino](modulos/intestino/)** — Candida e saúde intestinal
+- **[M1: Iodo](/modulos/iodo.md)** — Analogia tireoide/paratireoides
+- **[M2: Remineralização](/modulos/remineralizacao.md)** — Cofatores essenciais
+- **[M4: Intestino](/modulos/intestino.md)** — Candida e saúde intestinal
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)

@@ -1,18 +1,8 @@
----
-categories:
-- Protocolo
-date: '2026-01-27'
-description: 'M3: PROTOCOLO DE DETOX DE HALOGÊNIOS'
-draft: false
-tags: []
-title: 'M3: PROTOCOLO DE DETOX DE HALOGÊNIOS'
----
-
 # M3: PROTOCOLO DE DETOX DE HALOGÊNIOS
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/docs/protocolo-mestre/)** — Deep Dive em Detox de Halogênios
+> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Detox de Halogênios
 
 ---
 
@@ -46,17 +36,17 @@ Suplementar iodo **SEM fazer detox de halógenos** — o iodo desloca bromo/flú
 
 ---
 
-##  PRÉ-REQUISITOS
+## ⚠️ PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
-> - [ ] Screening completo realizado → **[Ver Checklist](/docs/ferramentas/screening-v2/)**
+> - [ ] Screening completo realizado → **[Ver Checklist](/ferramentas/SCREENING-v2)**
 > - [ ] Função renal normal (creatinina, ureia)
 > - [ ] Pressão arterial controlada (sal aumenta temporariamente)
 > - [ ] Idealmente: iniciar junto com Protocolo de Iodo
 
 ---
 
-##  PRINCÍPIO FUNDAMENTAL
+## ⚠️ PRINCÍPIO FUNDAMENTAL
 
 **Halógenos tóxicos BLOQUEIAM os receptores de iodo:**
 
@@ -191,7 +181,7 @@ Salt Flux (ou "Salt Loading") é a técnica de usar **sal não refinado** para a
 ### Passo 1: Escolha o Sal Correto
 
 ```
- SAL APROVADO:
+✅ SAL APROVADO:
 □ Sal marinho integral (cinza/rosa)
 □ Sal do Himalaia (rosa)
 □ Sal celta (cinza úmido)
@@ -267,12 +257,12 @@ MAGNÉSIO (suporta enzimas):
 
 | Método | Remove Cloro | Remove Flúor | Custo |
 |--------|--------------|--------------|-------|
-| Deixar descansar 24h |  (evapora) | ❌ | Grátis |
-| Ferver 15min |  | ❌ | Baixo |
-| Filtro de carvão |  | ❌ | R$ 50-200 |
-| Filtro de osmose reversa |  |  | R$ 500-2000 |
-| Filtro de alumina ativada | ❌ |  | R$ 300-800 |
-| Destilação |  |  | R$ 300-1000 |
+| Deixar descansar 24h | ✅ (evapora) | ❌ | Grátis |
+| Ferver 15min | ✅ | ❌ | Baixo |
+| Filtro de carvão | ✅ | ❌ | R$ 50-200 |
+| Filtro de osmose reversa | ✅ | ✅ | R$ 500-2000 |
+| Filtro de alumina ativada | ❌ | ✅ | R$ 300-800 |
+| Destilação | ✅ | ✅ | R$ 300-1000 |
 
 **Recomendação prática:**
 ```
@@ -340,7 +330,7 @@ LIMPEZA:
 
 ---
 
-##  FULL 4D PROTOCOL — TRATAMENTO COMPLETO
+## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO
 
 ### 1. BIOQUÍMICA (O que entra)
 
@@ -517,7 +507,7 @@ PAINEL TIREOIDIANO:
 
 ## 🚨 RED FLAGS — PROCURE MÉDICO
 
-> Para lista completa de red flags gerais: **[Ver Screening](/docs/ferramentas/screening-v2/)**
+> Para lista completa de red flags gerais: **[Ver Screening](/ferramentas/SCREENING-v2)**
 
 **Sintomas de Alarme Específicos:**
 
@@ -540,7 +530,7 @@ PAINEL TIREOIDIANO:
 □ Edema significativo
 □ Restrição médica de sódio
 
- CUIDADO EXTRA SE:
+⚠️ CUIDADO EXTRA SE:
 □ Pressão arterial limítrofe
 □ Uso de diuréticos
 □ Doença renal leve
@@ -602,17 +592,26 @@ ORDEM CORRETA:
 
 ---
 
+## 📖 Fundamentos Teóricos
+
+Para compreender o contexto científico deste módulo:
+- [Sistemas Dissipativos](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS) — Por que otimizar inputs energéticos
+- [Medicina Biológica](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA) — Como restaurar Matriz Extracelular
+- [Psicologia Evolutiva](/ferramentas/PSICOLOGIA_EVOLUTIVA) — Mismatches modernos e adaptações ancestrais
+
+---
+
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/docs/modulos/)** | **[Protocolo Mestre](/docs/protocolo-mestre/)** | **[Iodo](modulos/iodo/)** | **[Homepage](/)**
+**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Iodo](/modulos/iodo.md)** | **[Homepage](/)**
 
 **Módulos Relacionados:**
-- **[M1: Iodo](modulos/iodo/)** — Usar JUNTO com detox
-- **[M2: Remineralização](modulos/remineralizacao/)** — Cofatores compartilhados
-- **[M4: Intestino](modulos/intestino/)** — Integridade intestinal
+- **[M1: Iodo](/modulos/iodo.md)** — Usar JUNTO com detox
+- **[M2: Remineralização](/modulos/remineralizacao.md)** — Cofatores compartilhados
+- **[M4: Intestino](/modulos/intestino.md)** — Integridade intestinal
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](changelog/)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
