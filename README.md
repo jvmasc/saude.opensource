@@ -2,11 +2,41 @@
 
 > **The Open Source Health Repository**
 
-![Version](https://img.shields.io/badge/version-v4.1-blue)
+![Version](https://img.shields.io/badge/version-v4.2-blue)
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green)
 ![Hugo](https://img.shields.io/badge/hugo-0.147.0-FF4088?logo=hugo)
 ![Build](https://github.com/jvmasc/saude.opensource/workflows/Deploy%20Hugo%20site%20to%20Pages/badge.svg)
 ![Language](https://img.shields.io/badge/PT--BR%20%7C%20EN-blue)
+
+---
+
+## 🆕 Novidades v4.2
+
+A versão 4.2 adiciona **14 novos documentos** (~9.280 linhas) expandindo significativamente o escopo do projeto:
+
+### Novos Módulos (2)
+- **M10 - Higienista Moderno**: 6 pilares (Sol, Água, Terra, Alimento, Movimento, Ritmo) integrando higienismo clássico + biofísica moderna
+- **M11 - Fáscia**: Sistema tensegral, 12 Anatomy Trains, mecanotransdução, piezoeletricidade, trauma somático
+
+### Novas Ferramentas (12)
+- **Monografias**: Xarope Cravo+Alho, Azul Metileno
+- **Protocolos Práticos**: Reintrodução pós-carnívora, Estrogenicos, Trauma Somático, Piezoeletricidade
+- **Guias**: Iodo (entry point rápido), Cinesiologia Aplicada
+- **Frameworks Teóricos**: Sistemas Dissipativos (Prigogine), Medicina Biológica (Heine), Psicologia Evolutiva
+- **Exploração Histórica**: Origem Parasitária do Câncer (com avisos críticos)
+
+### Atualizações Estruturais
+- **GLOSSARIO**: ~30 → ~51 termos (+21)
+- **MATRIZ_INTERACOES**: Novas interações (Azul Metileno + ISRS, Xarope + Anticoagulantes, etc.)
+- **Módulos existentes**: Links bidirecionais, cross-references, harmonização dosagens
+
+### Impacto v4.2
+- **Módulos**: 9 → 11 (+2)
+- **Ferramentas**: 12 → 24 (+12)
+- **Termos GLOSSARIO**: ~30 → ~51 (+21)
+- **Conteúdo criado**: ~9.280 linhas (Fase 1 + 2 + 3)
+
+📖 **Detalhes completos**: [00-meta/changelog.md](00-meta/changelog.md)
 
 ---
 
@@ -77,8 +107,8 @@ Este não é um blog de saúde. É o **código-fonte do seu corpo** — aberto, 
 └─────────────────┬───────────────────────────┘
                   │
 ┌─────────────────▼───────────────────────────┐
-│  NÍVEL 2: MÓDULOS (9 Deep Dives)           │
-│  └─ Iodo • Intestino • Detox • Dieta...    │
+│  NÍVEL 2: MÓDULOS (11 Deep Dives)          │
+│  └─ Iodo • Intestino • Higienista • Fáscia │
 └─────────────────┬───────────────────────────┘
                   │
 ┌─────────────────▼───────────────────────────┐
@@ -105,7 +135,7 @@ Todo o conteúdo está organizado em 4 dimensões da saúde:
 | **Protocolo Mestre** | 8 | Protocolo base: Shot dos Campeões, Timeline 90 dias, FAQ, Monitoramento |
 | **Módulos** | 11 | Deep dives: Iodo, Intestino, Desparasitação, Dieta Carnívora, Boro, etc. |
 | **Playbooks** | 10 | Guias específicos: Fadiga, Insônia, Ansiedade, Refluxo, Imunidade, etc. |
-| **Ferramentas** | 12 | Screening, Calculadoras, Glossário, Protocolos de Emergência, etc. |
+| **Ferramentas** | 24 | Screening, Calculadoras, Glossário, Protocolos, Monografias, Frameworks, etc. |
 
 ---
 
@@ -277,7 +307,7 @@ Protocolo matinal de 2 minutos que combina 4 componentes sinérgicos:
 
 ---
 
-### 9 Módulos (Deep Dives)
+### 11 Módulos (Deep Dives)
 
 | Módulo | Foco | Duração |
 |--------|------|---------|
@@ -290,6 +320,8 @@ Protocolo matinal de 2 minutos que combina 4 componentes sinérgicos:
 | 7. Detox Halogênios | Flúor, bromo, cloro | 180 dias |
 | 8. Água Oxigenada | Oxigenação celular, mitocôndrias | 21 dias |
 | 9. Bicarbonato Extra | Alcalinização profunda, câncer | 90 dias |
+| 10. Higienista Moderno | 6 pilares (Sol, Água, Terra, Alimento, Movimento, Ritmo) | 90 dias |
+| 11. Fáscia | Sistema tensegral, mecanotransdução, trauma somático | 60 dias |
 
 ---
 
@@ -396,8 +428,8 @@ Este conteúdo é fornecido "como está", sem garantias de qualquer tipo, expres
 
 ## 📊 Status do Projeto
 
-- **Versão atual**: v4.1
-- **Última atualização**: 28-01-2026
+- **Versão atual**: v4.2
+- **Última atualização**: 08-02-2026
 - **Status**: Em desenvolvimento ativo
 - **Roadmap**: Ver [Issues](https://github.com/jvmasc/saude.opensource/issues)
 
@@ -663,6 +695,6 @@ Toda contribuição é valiosa!
 
 Feito com ❤️ e rigor científico por **Farm. João**
 
-**v4.1** | Janeiro 2026 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+**v4.2** | Fevereiro 2026 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 </div>
