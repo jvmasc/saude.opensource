@@ -1,3 +1,12 @@
+---
+title: "Calculadora de Dosagem — Guia de Ajustes"
+date: 2026-02-10
+description: "Regras práticas e tabelas de dosagem por peso/condição para componentes do protocolo"
+draft: false
+categories: [Ferramenta]
+tags: [dosagem, lugol, suplementos, calculadora]
+---
+
 # CALCULADORA DE DOSAGEM — Guia de Ajustes
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

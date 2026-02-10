@@ -1,3 +1,12 @@
+---
+title: "Guia de Jejum — Tipos, Indicações e Protocolos"
+date: 2026-02-10
+description: "Jejum intermitente e prolongado como ferramenta terapêutica: quando usar e quando evitar"
+draft: false
+categories: [Ferramenta]
+tags: [jejum, autofagia, dieta, metabolismo]
+---
+
 # GUIA DE JEJUM — Tipos, Indicações e Protocolos
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

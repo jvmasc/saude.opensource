@@ -1,3 +1,12 @@
+---
+title: "Protocolo de Ferro — Otimização e Correção"
+date: 2026-02-10
+description: "Guia prático para correção de deficiência/excesso de ferro e leitura funcional de exames"
+draft: false
+categories: [Ferramenta]
+tags: [ferro, ferritina, anemia, tireoide, exames]
+---
+
 # PROTOCOLO DE FERRO — Otimização e Correção
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

@@ -1,3 +1,12 @@
+---
+title: "Matriz de Interações — Suplementos e Medicamentos"
+date: 2026-02-10
+description: "Guia de combinações, sinergias e conflitos entre suplementos e medicamentos"
+draft: false
+categories: [Ferramenta]
+tags: [interacoes, medicamentos, suplementos, seguranca]
+---
+
 # MATRIZ DE INTERAÇÕES — Suplementos e Medicamentos
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

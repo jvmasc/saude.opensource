@@ -1,3 +1,12 @@
+---
+title: "Cronograma de Exames — Guia Laboratorial"
+date: 2026-02-10
+description: "Quais exames fazer, quando, e como interpretar tendências durante o protocolo"
+draft: false
+categories: [Ferramenta]
+tags: [exames, laboratorio, monitoramento, tireoide, ferro]
+---
+
 # CRONOGRAMA DE EXAMES — Guia Laboratorial
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

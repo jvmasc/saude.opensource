@@ -735,4 +735,4 @@ ACNE + FASCIA (M11):
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. Joao | [Changelog]({{< relref "/docs/changelog.md" >}})
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

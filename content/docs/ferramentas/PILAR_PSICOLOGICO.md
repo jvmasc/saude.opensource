@@ -1,3 +1,12 @@
+---
+title: "Pilar Psicológico — A 5ª Dimensão"
+date: 2026-02-10
+description: "Sistema nervoso, stress, trauma e saúde mental como alavanca (ou bloqueio) do protocolo"
+draft: false
+categories: [Ferramenta]
+tags: [psicologia, sistema-nervoso, stress, trauma]
+---
+
 # PILAR PSICOLÓGICO — A 5ª Dimensão
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

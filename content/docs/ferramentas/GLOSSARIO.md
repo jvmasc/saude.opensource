@@ -1,3 +1,12 @@
+---
+title: "Glossário — Termos Técnicos"
+date: 2026-02-10
+description: "Definições rápidas dos termos usados no Protocolo Mestre, Módulos e Ferramentas"
+draft: false
+categories: [Ferramenta]
+tags: [glossario, termos, referencia]
+---
+
 # GLOSSÁRIO — Termos Técnicos
 
 **Status:** `v4.3` | **Última Atualização:** 10-02-2026

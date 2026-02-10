@@ -619,4 +619,4 @@ SE TIPO 4 (Inflamacao):
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. Joao | [Changelog]({{< relref "/docs/changelog.md" >}})
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

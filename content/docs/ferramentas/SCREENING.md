@@ -1,3 +1,12 @@
+---
+title: "Screening — Checklist Pré-Protocolo"
+date: 2026-02-10
+description: "Checklist obrigatório de exames e contraindicações antes de iniciar protocolos e playbooks"
+draft: false
+categories: [Ferramenta]
+tags: [screening, exames, seguranca]
+---
+
 # 🔬 SCREENING — Checklist Pré-Protocolo
 
 **Status:** `v1.0` | **Última Atualização:** 20-01-2026
@@ -218,4 +227,5 @@ PRONTO PARA INICIAR:
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v3.0` | `CC BY 4.0` | Mantido por Farm. João
+`v3.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})
+

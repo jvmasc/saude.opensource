@@ -1,3 +1,12 @@
+---
+title: "Protocolo de Emergência — Manejo de Crises"
+date: 2026-02-10
+description: "O que fazer quando detox/protocolos causam sintomas intensos e quando procurar urgência"
+draft: false
+categories: [Ferramenta]
+tags: [emergencia, herxheimer, dieoff, seguranca]
+---
+
 # PROTOCOLO DE EMERGÊNCIA — Manejo de Crises
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026

@@ -1,3 +1,12 @@
+---
+title: "Screening v2 — Checklist Pré-Protocolo"
+date: 2026-02-10
+description: "Checklist obrigatório de exames e contraindicações antes de iniciar o Protocolo Mestre e módulos"
+draft: false
+categories: [Ferramenta]
+tags: [screening, exames, tireoide, ferro, seguranca]
+---
+
 # SCREENING v2 — Checklist Pré-Protocolo
 
 **Status:** `v2.0` | **Última Atualização:** 24-01-2026
@@ -318,4 +327,4 @@ M7 (ÁGUA OXIGENADA):
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

@@ -1,3 +1,12 @@
+---
+title: "Assessment 4D — Questionário Diagnóstico"
+date: 2026-02-10
+description: "Questionário para mapear prioridades nas dimensões Bioquímica, Estrutural, Psicológica e Eletromagnética"
+draft: false
+categories: [Ferramenta]
+tags: [assessment, 4d, triagem]
+---
+
 # ASSESSMENT 4D — Questionário Diagnóstico
 
 **Status:** `v4.1` | **Última Atualização:** 26-01-2026
