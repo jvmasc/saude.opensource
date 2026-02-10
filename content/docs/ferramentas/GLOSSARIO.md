@@ -1,6 +1,6 @@
 # GLOSSÁRIO — Termos Técnicos
 
-**Status:** `v4.0` | **Última Atualização:** 24-01-2026
+**Status:** `v4.3` | **Última Atualização:** 10-02-2026
 
 ---
 
@@ -268,6 +268,58 @@ Estudo das "homotoxinas" (toxinas humanas) e resposta do corpo (Hans-Heinrich Re
 
 ---
 
+## TERMOS ADICIONAIS (v4.3 — Fase 4)
+
+**GlyNAC**
+Combinação de **NAC + glicina** usada como suporte de **glutationa (GSH)**, sono e terreno redox. Ver: [PROTOCOLO_GLYNAC]({{< relref "/docs/ferramentas/PROTOCOLO_GLYNAC.md" >}}).
+
+**NAC (N-acetilcisteína)**
+Derivado acetilado da cisteína. Usado como precursor de glutationa e com propriedades mucolíticas. Pode dar sintomas GI e, em alguns, broncoirritação.
+
+**Glicina**
+Aminoácido com papel estrutural e neuromodulador (inibitório). Em alguns perfis, pode favorecer sono; em doses altas pode causar sonolência/tontura.
+
+**Glutationa (GSH)**
+“Antioxidante mestre” intracelular. Participa de detoxificação e controle do estresse oxidativo; o racional do GlyNAC é oferecer precursores para elevar GSH.
+
+**GLP-1**
+Peptídeo semelhante ao glucagon-1; eixo hormonal ligado a saciedade e controle glicêmico. Base farmacológica de drogas como semaglutida e tirzepatida. Ver: [ALERTA_GLP1]({{< relref "/docs/ferramentas/ALERTA_GLP1.md" >}}).
+
+**Semaglutida**
+Agonista de GLP-1 (ex.: Ozempic/Wegovy). Pode causar efeitos GI e, raramente, eventos graves (ex.: complicações biliares; alertas oftalmológicos em discussão).
+
+**Tirzepatida**
+Agonista incretínico (GLP-1/GIP) (ex.: Mounjaro). Perfil de efeitos GI dose-dependentes; exige monitoramento e plano de saída.
+
+**NAION**
+Neuropatia óptica isquêmica anterior não arterítica (perda súbita de campo visual). Termo aparece em alertas/relatos em torno de GLP-1; qualquer sintoma visual súbito é urgência. Ver: [ALERTA_GLP1]({{< relref "/docs/ferramentas/ALERTA_GLP1.md" >}}).
+
+**Silimarina**
+Complexo de flavonolignanas do cardo-mariano, usado como suporte hepático. No protocolo Hulda Clark entra como fase preparatória. Ver: [PROTOCOLO_HULDA_CLARK]({{< relref "/docs/ferramentas/PROTOCOLO_HULDA_CLARK.md" >}}).
+
+**Berberina**
+Alcaloide vegetal (presente em Berberis) com efeitos metabólicos e antimicrobianos. No protocolo Hulda Clark aparece como componente de suporte/“higiene” de microbiota.
+
+**Eugenol**
+Composto do cravo (aroma/óleo) com ação antimicrobiana em modelos experimentais. Termo útil no contexto de tinturas e interações (atenção a anticoagulantes).
+
+**Juglona**
+Composto associado à nogueira negra, tradicionalmente usado em protocolos antiparasitários (evidência variável por contexto).
+
+**Absintina**
+Composto amargo associado a Artemísia/losna (wormwood). Termo recorrente em discussões de tinturas amargas/digestivas.
+
+**Ornitina**
+Aminoácido ligado ao ciclo da ureia (amônia). No protocolo Hulda Clark aparece como suporte para sintomas neuro (amônia) e sono em alguns perfis.
+
+**CYP3A4**
+Isoenzima hepática importante no metabolismo de fármacos. Relevante para ivermectina e interações com moduladores/inibidores/indutores.
+
+**P-gp (P-glicoproteína)**
+Transportador de efluxo (ABCB1) que influencia distribuição e eliminação de fármacos; relevante em interações e neurotoxicidade em contextos específicos.
+
+---
+
 ## NAVEGAÇÃO
 
 **[← Homepage]({{< relref "/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Screening]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})**
@@ -276,4 +328,4 @@ Estudo das "homotoxinas" (toxinas humanas) e resposta do corpo (Hans-Heinrich Re
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})
+`v4.3` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

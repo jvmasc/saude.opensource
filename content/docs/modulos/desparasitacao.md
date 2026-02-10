@@ -1,6 +1,6 @@
-# M5: DESPARASITAÇÃO — Protocolo Ivermectina
+# M5: DESPARASITAÇÃO — HUB (Farmacológica + Fitoterapêutica)
 
-**Status:** `v4.0` | **Última Atualização:** 24-01-2026
+**Status:** `v4.3` | **Última Atualização:** 10-02-2026
 
 > **Módulo do [Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** — Deep Dive em Desparasitação
 
@@ -17,6 +17,34 @@ A desparasitação é um componente **potencializador** do Protocolo Mestre. Par
 - Deficiências nutricionais
 
 ---
+
+## 📌 TL;DR (para decidir rápido)
+
+**Duas vias principais:**
+
+- **Via A — Farmacológica (Ivermectina)**: mais direta; excelente para adulto saudável na primeira rodada.
+- **Via B — Fitoterapêutica (Hulda Clark / tinturas)**: opção sem receita; útil para famílias e manutenção.
+
+**Regra do HUB:** evitar “stack” caótico. Se for combinar, faça **sequencial**, com monitoramento.
+
+Links rápidos:
+- Monografia (Ivermectina): {{< relref "/docs/ferramentas/MONOGRAFIA_IVERMECTINA.md" >}}
+- Protocolo (Hulda Clark): {{< relref "/docs/ferramentas/PROTOCOLO_HULDA_CLARK.md" >}}
+
+---
+
+## 🌳 Árvore de decisão (HUB)
+
+```
+SE É 1ª VEZ + ADULTO SAUDÁVEL
+→ Via A (Ivermectina) + suporte
+
+SE QUER EVITAR RECEITA / FAMÍLIA / MANUTENÇÃO
+→ Via B (Hulda Clark)
+
+SE CASO MAIS “PESADO” (recidiva, reinfecção, terreno ruim)
+→ Via A e depois Via B (SEQUENCIAL, não simultâneo)
+```
 
 ## QUANDO USAR
 
@@ -35,6 +63,8 @@ INDICAÇÕES:
 ---
 
 ## POSOLOGIA DA IVERMECTINA
+
+> Para farmacologia completa, tabelas e protocolo lunar detalhado: {{< relref "/docs/ferramentas/MONOGRAFIA_IVERMECTINA.md" >}}
 
 ### Cálculo da Dose (0,2mg/kg)
 
@@ -88,6 +118,43 @@ MÊS 2:
 MÊS 3:
 □ Dia 11-12: Sexta dose (última)
 ```
+
+---
+
+## 📅 Calendário Lunar 2026 (Brasil)
+
+> Use este calendário para alinhar tanto a via farmacológica (Ivermectina) quanto a via fitoterapêutica (Hulda).
+
+| Mês | 🌕 Lua Cheia | 🌗 Quarto Minguante | 🌑 Lua Nova | 🌓 Quarto Crescente | ⭐ Eventos |
+|-----|--------------|---------------------|-------------|---------------------|-----------|
+| **Janeiro** | 3 (07:04) | 10 (12:49) | **18 (16:53)** | **26 (01:48)** | — |
+| **Fevereiro** | 1 (19:10) | 9 (09:44) | **17 (09:03)** | **24 (09:28)** | — |
+| **Março** | 3 (08:39) | 11 (06:41) | **18 (22:26)** | **25 (16:19)** | Eclipse Lunar Total (3) |
+| **Abril** | 1 (23:13) | 10 (01:55) | **17 (08:54)** | **23 (23:33)** | — |
+| **Maio** | 1 (14:24)<br>31 (05:46) | 9 (18:13) | **16 (17:03)** | **23 (08:12)** | Superlua (16)<br>Lua Azul (31) |
+| **Junho** | 29 (20:58) | 8 (07:03) | **14 (23:56)** | **21 (18:55)** | Superlua (14) |
+| **Julho** | 29 (11:37) | 7 (16:30) | **14 (06:45)** | **21 (08:05)** | Superlua (14) |
+| **Agosto** | 28 (01:19) | 5 (23:22) | **12 (14:37)** | **19 (23:46)** | Eclipse Lunar Parcial (28) |
+| **Setembro** | 26 (13:50) | 4 (04:52) | **11 (00:27)** | **18 (17:44)** | — |
+| **Outubro** | 26 (01:13) | 3 (10:26) | **10 (12:50)** | **18 (13:13)** | — |
+| **Novembro** | 24 (11:55) | 1 (17:30) | **9 (04:02)** | **17 (08:48)** | Superlua (24) |
+| **Dezembro** | 23 (22:29) | 1 (03:10) | **8 (21:52)** | **17 (02:43)** | Superlua (23) |
+
+Como usar (prático):
+- **Ivermectina**: marcar 2 dias em **Lua Nova** + 2 dias em **Lua Cheia**.
+- **Hulda**: escolher iniciar a Fase 2 na **Lua Nova** (mais suave) ou no **Quarto Crescente** (mais intenso) e contar 15 dias para trás para a Fase 1.
+
+---
+
+## VIA B — FITOTERAPÊUTICA (Hulda Clark)
+
+Se você quer uma via sem receita, com foco em “ciclo completo” (ovos/larvas/adultos), use o protocolo dedicado:
+
+- **Protocolo Hulda Clark (30 dias)**: {{< relref "/docs/ferramentas/PROTOCOLO_HULDA_CLARK.md" >}}
+
+Regras do HUB:
+- evitar simultâneo com ivermectina na primeira vez
+- se combinar: fazer **A → pausa/avaliação → B**
 
 ---
 
@@ -246,9 +313,6 @@ FORMAS DISPONÍVEIS:
 ONDE:
 □ Farmácia (com receita simples)
 □ Farmácia de manipulação
-
-PREÇO MÉDIO:
-□ R$ 20-40 (caixa 4 comprimidos)
 ```
 
 ---
@@ -298,10 +362,10 @@ Para compreender o contexto científico deste módulo:
 
 ## NAVEGAÇÃO
 
-**[← Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Timeline 90 Dias]({{< relref "/docs/protocolo-mestre/timeline-90-dias.md" >}})**
+**[← Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Monografia Ivermectina]({{< relref "/docs/ferramentas/MONOGRAFIA_IVERMECTINA.md" >}})** | **[Hulda Clark]({{< relref "/docs/ferramentas/PROTOCOLO_HULDA_CLARK.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})
+`v4.3` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})
