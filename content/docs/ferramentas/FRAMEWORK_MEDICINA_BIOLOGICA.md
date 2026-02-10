@@ -120,7 +120,7 @@ MEC não é meio inerte — é **órgão sensorial e sinalizador**:
 - 6x mais receptores que músculos
 - 80% dor crônica = sinalização MEC fascial
 
-Ver: [M11: Fáscia](/modulos/fascia)
+Ver: [M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}})
 
 #### 4. **Defesa e Imunidade**
 
@@ -336,7 +336,7 @@ MEC funciona como **meio condutor**:
 - Magnésio suplementar → 400-600mg/dia
 - Zinco → 30-50mg/dia (se deficiente)
 
-Ver: [M2: Remineralização](/modulos/remineralizacao)
+Ver: [M2: Remineralização]({{< relref "/docs/modulos/remineralizacao.md" >}})
 
 ### 2. Hidratação (M10 Água) → Gel Viscoso Funcional
 
@@ -356,7 +356,7 @@ MEC desidratada = gel ressecado:
 - Água mineralizada durante dia
 - Movimento (compressão fascial → água EZ)
 
-Ver: [M10: Higienista Moderno](/modulos/higienista-moderno) — Pilar Água
+Ver: [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}) — Pilar Água
 
 ### 3. Desparasitação (M5) → Remove Carga Tóxica
 
@@ -375,7 +375,7 @@ Parasitas liberam **toxinas direto na MEC:**
 - Die-off inicial (Herxheimer) → pico toxinas MEC (temporário)
 - Após clearance → MEC limpa → inflamação resolve
 
-Ver: [M5: Desparasitação](/modulos/desparasitacao)
+Ver: [M5: Desparasitação]({{< relref "/docs/modulos/desparasitacao.md" >}})
 
 ### 4. Fáscia (M11) → MEC Musculoesquelética
 
@@ -396,7 +396,7 @@ Ver: [M5: Desparasitação](/modulos/desparasitacao)
 - Movimento (piezoeletricidade → água EZ)
 - Colágeno hidrolisado (10g/dia)
 
-Ver: [M11: Fáscia](/modulos/fascia)
+Ver: [M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}})
 
 ---
 
@@ -492,7 +492,7 @@ Ao avaliar sintoma crônico, perguntar:
 
 ## NAVEGAÇÃO
 
-**[← FRAMEWORK_SISTEMAS_DISSIPITIVOS](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS)** | **[M11: Fáscia](/modulos/fascia)** | **[Homepage](/)** | **[ASSESSMENT_4D](/ferramentas/ASSESSMENT_4D)**
+**[← FRAMEWORK_SISTEMAS_DISSIPITIVOS]({{< relref "/docs/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS.md" >}})** | **[M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})** | **[ASSESSMENT_4D]({{< relref "/docs/ferramentas/ASSESSMENT_4D.md" >}})**
 
 ---
 

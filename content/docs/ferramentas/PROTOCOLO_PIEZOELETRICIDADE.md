@@ -19,8 +19,8 @@ tags: [piezoeletricidade, colágeno, WBV, PEMF, lei-de-wolff, regeneracao-ossea]
 ## PRÉ-REQUISITO
 
 **Este protocolo integra com:**
-- **[M11: Fáscia](/modulos/fascia)** — Base piezoeletricidade fascial
-- **[M10: Higienista Moderno](/modulos/higienista-moderno)** — Pilar Movimento
+- **[M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}})** — Base piezoeletricidade fascial
+- **[M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}})** — Pilar Movimento
 
 Leia M11 primeiro para entender transmissão elétrica fascial (700 m/s).
 
@@ -165,7 +165,7 @@ Deposição óssea LOCALIZADA (exatamente onde houve stress)
 EFEITO: Grounding (elétrons terra) + piezoeletricidade fascial
 ```
 
-**Sinergismo:** [M10: Higienista Moderno](/modulos/higienista-moderno) — Pilar TERRA (grounding) + MOVIMENTO (piezoeletricidade).
+**Sinergismo:** [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}) — Pilar TERRA (grounding) + MOVIMENTO (piezoeletricidade).
 
 ---
 
@@ -425,7 +425,7 @@ Alteração potencial membrana
 Sinalização celular SEM neurotransmissores
 ```
 
-**Conexão:** [M11: Fáscia](/modulos/fascia) — transmissão elétrica 700 m/s.
+**Conexão:** [M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}}) — transmissão elétrica 700 m/s.
 
 ---
 
@@ -474,10 +474,10 @@ Sinalização celular SEM neurotransmissores
 
 ## NAVEGAÇÃO
 
-**[← Ferramentas](/ferramentas)** | **[M11: Fáscia](/modulos/fascia)** | **[M10: Higienista Moderno](/modulos/higienista-moderno)** | **[Playbook Mobilidade Fascial](/playbooks/mobilidade-fascia)** | **[Homepage](/)**
+**[← Ferramentas]({{< relref "/docs/ferramentas/_index.md" >}})** | **[M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}})** | **[M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}})** | **[Playbook Mobilidade Fascial]({{< relref "/docs/playbooks/mobilidade-fascia.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

@@ -486,7 +486,7 @@ O intestino tem seu proprio ritmo circadiano. Melatonina intestinal (produzida l
 
 ## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
-> Para entender a Arquitetura 4D completa: [Ver Kernel 4D](/kernel)
+> Para entender a Arquitetura 4D completa: [Ver Kernel 4D]({{< relref "/docs/ferramentas/ANALISE_ARQUITETURA_4D.md" >}})
 
 ### 1. BIOQUIMICA (O que entra)
 
@@ -674,7 +674,7 @@ ______________________________
 
 ## 🚨 RED FLAGS — PROCURE MEDICO
 
-> Para lista completa de red flags gerais: [Ver Screening](/ferramentas/SCREENING-v2)
+> Para lista completa de red flags gerais: [Ver Screening]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})
 
 **Sintomas de Alarme Especificos para Constipacao:**
 
@@ -802,7 +802,7 @@ CONSTIPACAO + CIRCADIANO (M10):
 
 ## 🔗 NAVEGACAO
 
-**[← Playbooks](/playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
+**[← Playbooks]({{< relref "/docs/playbooks/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Modulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 **Modulos Relacionados:**
 - **[[M2: Remineralizacao]]** — Magnesio (CRITICO — causa #1 de constipacao)
@@ -824,4 +824,4 @@ CONSTIPACAO + CIRCADIANO (M10):
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. Joao | [Changelog](/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. Joao | [Changelog]({{< relref "/docs/changelog.md" >}})

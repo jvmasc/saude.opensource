@@ -786,7 +786,7 @@ FADIGA + REMINERALIZAÇÃO:
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** aborda diretamente as causas raiz da fadiga:
+O **[Protocolo Mestre (Shot dos Campeoes)]({{< relref "/docs/protocolo-mestre/_index.md" >}})** aborda diretamente as causas raiz da fadiga:
 
 | Componente do Shot | Impacto na Fadiga |
 |-------------------|-------------------|
@@ -804,22 +804,22 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** aborda diretamen
 4. Se fadiga toxica: Modulo M3 (Detox Halogenios)
 ```
 
-**Caso Clinico Relacionado:** Ver [Caso #1 - Fadiga Cronica](/protocolo-mestre/casos-clinicos.md#caso-1-fadiga-cronica-e-hipotireoidismo-subclinico)
+**Caso Clinico Relacionado:** Ver [Caso #1 - Fadiga Cronica]({{< relref "/docs/protocolo-mestre/casos-clinicos.md" >}}#caso-1-fadiga-cronica-e-hipotireoidismo-subclinico)
 
 ---
 
 ## NAVEGACAO
 
-**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
+**[← Playbooks]({{< relref "/docs/playbooks/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Modulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Base para todos tipos de fadiga
-- **[M1: Iodo](/modulos/iodo.md)** — Se fadiga tireoidiana
-- **[M4: Intestino](/modulos/intestino.md)** — Se fadiga inflamatoria ou intestinal
-- **[M3: Detox Halogenios](/modulos/detox-halogenios.md)** — Se fadiga toxica
+- **[M2: Remineralizacao]({{< relref "/docs/modulos/remineralizacao.md" >}})** — Base para todos tipos de fadiga
+- **[M1: Iodo]({{< relref "/docs/modulos/iodo.md" >}})** — Se fadiga tireoidiana
+- **[M4: Intestino]({{< relref "/docs/modulos/intestino.md" >}})** — Se fadiga inflamatoria ou intestinal
+- **[M3: Detox Halogenios]({{< relref "/docs/modulos/detox-halogenios.md" >}})** — Se fadiga toxica
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

@@ -12,7 +12,7 @@ tags: [fáscia, tensegridade, piezoeletricidade, dor-crônica, mobilidade]
 
 **Status:** `v1.0` | **Última Atualização:** 05-02-2026
 
-> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Sistema Fascial
+> **Módulo do [Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** — Deep Dive em Sistema Fascial
 
 ---
 
@@ -214,7 +214,7 @@ Produção de colágeno/remodelação tecidual
 
 > Fáscia é **sistema de comunicação paralelo** ao nervoso, **mais rápido** e mais integrado.
 
-**Conexão:** [PROTOCOLO_PIEZOELETRICIDADE](/ferramentas/PROTOCOLO_PIEZOELETRICIDADE)
+**Conexão:** [PROTOCOLO_PIEZOELETRICIDADE]({{< relref "/docs/ferramentas/PROTOCOLO_PIEZOELETRICIDADE.md" >}})
 
 #### 3. Transmissão Química
 
@@ -320,7 +320,7 @@ Tensão em QUALQUER ponto afeta TODA linha.
 - Respiração superficial
 - Aperto no peito
 
-**Detalhamento:** [PROTOCOLO_TRAUMA_SOMATICO](/ferramentas/PROTOCOLO_TRAUMA_SOMATICO)
+**Detalhamento:** [PROTOCOLO_TRAUMA_SOMATICO]({{< relref "/docs/ferramentas/PROTOCOLO_TRAUMA_SOMATICO.md" >}})
 
 ---
 
@@ -418,7 +418,7 @@ AVANÇADO:
 
 **Integração Playbook:**
 
-> Ver [Playbook Mobilidade Fascial](/playbooks/mobilidade-fascia) para rotinas completas.
+> Ver [Playbook Mobilidade Fascial]({{< relref "/docs/playbooks/mobilidade-fascia.md" >}}) para rotinas completas.
 
 ---
 
@@ -500,7 +500,7 @@ TOTAL: 14 min — TRATA LINHA INTEIRA, não apenas sintoma local
 
 > **Psique** → **Neuro** (cortisol) → **Endócrino** (miofibroblastos) → **Imune** (inflamação fascial)
 
-**Detalhamento:** [PROTOCOLO_TRAUMA_SOMATICO](/ferramentas/PROTOCOLO_TRAUMA_SOMATICO), [PILAR_PSICOLOGICO](/ferramentas/PSICOLOGIA_EVOLUTIVA)
+**Detalhamento:** [PROTOCOLO_TRAUMA_SOMATICO]({{< relref "/docs/ferramentas/PROTOCOLO_TRAUMA_SOMATICO.md" >}}), [PILAR_PSICOLOGICO]({{< relref "/docs/ferramentas/PILAR_PSICOLOGICO.md" >}})
 
 ---
 
@@ -536,7 +536,7 @@ TOTAL: 14 min — TRATA LINHA INTEIRA, não apenas sintoma local
 
 > Movimento → deformação colágeno → separação cargas → potencial elétrico → sinalização celular + regeneração (Oschman 2000).
 
-**Detalhamento:** [PROTOCOLO_PIEZOELETRICIDADE](/ferramentas/PROTOCOLO_PIEZOELETRICIDADE), [M10: Higienista Moderno](/modulos/higienista-moderno) (Pilar Movimento)
+**Detalhamento:** [PROTOCOLO_PIEZOELETRICIDADE]({{< relref "/docs/ferramentas/PROTOCOLO_PIEZOELETRICIDADE.md" >}}), [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}) (Pilar Movimento)
 
 ---
 
@@ -622,14 +622,14 @@ Avaliar **mensalmente** (início mês):
 
 ## 🔗 NAVEGAÇÃO
 
-**[← Protocolo Mestre](/protocolo-mestre)** | **[Módulos](/modulos)** | **[Homepage](/)** →
+**[← Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})** →
 
 **Ver também:**
-- **[M10: Higienista Moderno](/modulos/higienista-moderno)** — Pilar MOVIMENTO (piezoeletricidade fascial — movimento como geração elétrica celular)
-- **[Playbook Mobilidade Fascial](/playbooks/mobilidade-fascia)** — Rotinas práticas diárias
-- **[PILAR_PSICOLOGICO](/ferramentas/PSICOLOGIA_EVOLUTIVA)** — Dimensão psicológica (trauma somático)
-- **[PROTOCOLO_TRAUMA_SOMATICO](/ferramentas/PROTOCOLO_TRAUMA_SOMATICO)** — Liberação armadura fascial
-- **[PROTOCOLO_PIEZOELETRICIDADE](/ferramentas/PROTOCOLO_PIEZOELETRICIDADE)** — WBV, PEMF, protocolos avançados
+- **[M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}})** — Pilar MOVIMENTO (piezoeletricidade fascial — movimento como geração elétrica celular)
+- **[Playbook Mobilidade Fascial]({{< relref "/docs/playbooks/mobilidade-fascia.md" >}})** — Rotinas práticas diárias
+- **[PILAR_PSICOLOGICO]({{< relref "/docs/ferramentas/PILAR_PSICOLOGICO.md" >}})** — Dimensão psicológica (trauma somático)
+- **[PROTOCOLO_TRAUMA_SOMATICO]({{< relref "/docs/ferramentas/PROTOCOLO_TRAUMA_SOMATICO.md" >}})** — Liberação armadura fascial
+- **[PROTOCOLO_PIEZOELETRICIDADE]({{< relref "/docs/ferramentas/PROTOCOLO_PIEZOELETRICIDADE.md" >}})** — WBV, PEMF, protocolos avançados
 
 ---
 

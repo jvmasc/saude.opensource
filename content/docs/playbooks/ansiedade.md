@@ -855,7 +855,7 @@ ANSIEDADE + TIREOIDE:
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** contem componentes que atuam diretamente na ansiedade:
+O **[Protocolo Mestre (Shot dos Campeoes)]({{< relref "/docs/protocolo-mestre/_index.md" >}})** contem componentes que atuam diretamente na ansiedade:
 
 | Componente do Shot | Impacto na Ansiedade |
 |-------------------|----------------------|
@@ -878,15 +878,15 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** contem component
 
 ## NAVEGACAO
 
-**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
+**[← Playbooks]({{< relref "/docs/playbooks/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Modulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Magnesio (cofator GABA), B-vitaminas, D3
-- **[M4: Intestino](/modulos/intestino.md)** — Se ansiedade intestinal (eixo gut-brain)
-- **[M3: Detox Halogenios](/modulos/detox-halogenios.md)** — Se exposicao a bromo/fluor (afetam tireoide)
+- **[M2: Remineralizacao]({{< relref "/docs/modulos/remineralizacao.md" >}})** — Magnesio (cofator GABA), B-vitaminas, D3
+- **[M4: Intestino]({{< relref "/docs/modulos/intestino.md" >}})** — Se ansiedade intestinal (eixo gut-brain)
+- **[M3: Detox Halogenios]({{< relref "/docs/modulos/detox-halogenios.md" >}})** — Se exposicao a bromo/fluor (afetam tireoide)
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

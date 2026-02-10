@@ -271,9 +271,9 @@
 
 3. **P3.3 — Links bidirecionais frameworks teóricos** (9 módulos)
    - Seção "📖 Fundamentos Teóricos" adicionada a **todos M1-M9** linkando para:
-     - [Sistemas Dissipativos](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS) — Por que otimizar inputs energéticos
-     - [Medicina Biológica](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA) — Como restaurar Matriz Extracelular
-     - [Psicologia Evolutiva](/ferramentas/PSICOLOGIA_EVOLUTIVA) — Mismatches modernos e adaptações ancestrais
+     - [Sistemas Dissipativos]({{< relref "docs/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS.md" >}}) — Por que otimizar inputs energéticos
+     - [Medicina Biológica]({{< relref "docs/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA.md" >}}) — Como restaurar Matriz Extracelular
+     - [Psicologia Evolutiva]({{< relref "docs/ferramentas/PSICOLOGIA_EVOLUTIVA.md" >}}) — Mismatches modernos e adaptações ancestrais
    - Módulos: `iodo.md`, `remineralizacao.md`, `detox-halogenios.md`, `intestino.md`, `desparasitacao.md`, `dieta-carnivora.md`, `agua-oxigenada.md`, `bicarbonato-extra.md`, `boro.md`
    - Navegação prática → teórica (e vice-versa) agora completa
 
@@ -466,8 +466,8 @@ NÍVEL 3: PLAYBOOKS (sintomas específicos)
 |-------|------|--------------|
 | 👑 Elder | Farm. João | Criador & Maintainer |
 
-> Quer ver seu nome aqui? **[Contribua >](/community/hall-of-contributors)**
+> Quer ver seu nome aqui? **[Contribua >](https://github.com/jvmasc/saude.opensource)**
 
 ---
 
-**[← Voltar à Homepage](/)**
+**[← Voltar à Homepage]({{< relref "_index.md" >}})**

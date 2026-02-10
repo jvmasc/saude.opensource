@@ -873,7 +873,7 @@ OS 6 NUTRIENTES CRÍTICOS PARA IMUNIDADE:
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** fortalece a imunidade atraves de:
+O **[Protocolo Mestre (Shot dos Campeoes)]({{< relref "/docs/protocolo-mestre/_index.md" >}})** fortalece a imunidade atraves de:
 
 | Componente do Shot | Impacto na Imunidade |
 |-------------------|---------------------|
@@ -897,17 +897,17 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** fortalece a imun
 
 ## NAVEGACAO
 
-**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
+**[← Playbooks]({{< relref "/docs/playbooks/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Modulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Big 6 da imunidade (D, Zn, C, Se, Fe, A)
-- **[M4: Intestino](/modulos/intestino.md)** — 70-80% imunidade esta no intestino
-- **[M1: Iodo](/modulos/iodo.md)** — Se tireoide afeta imunidade + acao antimicrobiana
-- **[M3: Detox Halogenios](/modulos/detox-halogenios.md)** — Se sobrecarga toxica
-- **[M5: Desparasitacao](/modulos/desparasitacao.md)** — Parasitas deprimem imunidade
+- **[M2: Remineralizacao]({{< relref "/docs/modulos/remineralizacao.md" >}})** — Big 6 da imunidade (D, Zn, C, Se, Fe, A)
+- **[M4: Intestino]({{< relref "/docs/modulos/intestino.md" >}})** — 70-80% imunidade esta no intestino
+- **[M1: Iodo]({{< relref "/docs/modulos/iodo.md" >}})** — Se tireoide afeta imunidade + acao antimicrobiana
+- **[M3: Detox Halogenios]({{< relref "/docs/modulos/detox-halogenios.md" >}})** — Se sobrecarga toxica
+- **[M5: Desparasitacao]({{< relref "/docs/modulos/desparasitacao.md" >}})** — Parasitas deprimem imunidade
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

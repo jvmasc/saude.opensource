@@ -433,10 +433,10 @@ MANUTENÇÃO:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Cronograma Exames](/docs/CRONOGRAMA_EXAMES.md)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
+**[← Docs]({{< relref "/docs/_index.md" >}})** | **[Cronograma Exames]({{< relref "/docs/ferramentas/CRONOGRAMA_EXAMES.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

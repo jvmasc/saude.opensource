@@ -317,13 +317,13 @@ Azul de Metileno é ferramenta poderosa para **otimização mitocondrial**, espe
 
 ## 🔗 Navegação
 
-← [Ferramentas](/ferramentas) | [Protocolo Mestre](/protocolo-mestre) | [Homepage](/) →
+← [Ferramentas]({{< relref "/docs/ferramentas/_index.md" >}}) | [Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}}) | [Homepage]({{< relref "/_index.md" >}}) →
 
 ### Documentos Relacionados
 
-- [Shot dos Campeões](/protocolo-mestre/shot-matinal) — protocolo base
-- [MATRIZ_INTERACOES](/ferramentas/MATRIZ_INTERACOES) — interações medicamentosas
-- [PROTOCOLO_EMERGENCIA](/ferramentas/PROTOCOLO_EMERGENCIA) — manejo síndrome serotoninérgica
+- [Shot dos Campeões]({{< relref "/docs/protocolo-mestre/shot-matinal.md" >}}) — protocolo base
+- [MATRIZ_INTERACOES]({{< relref "/docs/ferramentas/MATRIZ_INTERACOES.md" >}}) — interações medicamentosas
+- [PROTOCOLO_EMERGENCIA]({{< relref "/docs/ferramentas/PROTOCOLO_EMERGENCIA.md" >}}) — manejo síndrome serotoninérgica
 
 ---
 

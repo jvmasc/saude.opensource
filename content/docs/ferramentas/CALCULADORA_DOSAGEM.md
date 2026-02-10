@@ -425,20 +425,20 @@ MAGNÉSIO:
 ├─ INICIAR: 250mg, subir para 500mg em 2 semanas
 
 IODO:
-├─ Padrão: 4 gotas
-├─ Peso (× 1.2): 5 gotas
-├─ Primeira vez (× 0.5): 2-3 gotas
-├─ INICIAR: 2 gotas, subir 1 gota/semana
+├─ Manutenção típica: 2-4 gotas (ver M1 para progressão)
+├─ Peso (× 1.2): 3-5 gotas
+├─ Primeira vez (× 0.5): 1-2 gotas
+├─ INICIAR: 1 gota, subir gradualmente conforme tolerância (ver M1)
 ```
 
 ---
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Matriz Interações](/docs/MATRIZ_INTERACOES.md)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
+**[← Docs]({{< relref "/docs/_index.md" >}})** | **[Matriz Interações]({{< relref "/docs/ferramentas/MATRIZ_INTERACOES.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

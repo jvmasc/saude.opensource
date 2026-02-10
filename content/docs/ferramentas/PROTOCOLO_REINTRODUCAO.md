@@ -16,7 +16,7 @@ tags: [carnivora, reintroducao, sensibilidades-alimentares, dieta, eliminacao]
 
 ## 📌 TL;DR
 
-Protocolo para reintroduzir alimentos após fase carnívora pura ([M6: Dieta Carnívora](/modulos/dieta-carnivora)), mantendo ganhos terapêuticos e identificando sensibilidades alimentares.
+Protocolo para reintroduzir alimentos após fase carnívora pura ([M6: Dieta Carnívora]({{< relref "/docs/modulos/dieta-carnivora.md" >}})), mantendo ganhos terapêuticos e identificando sensibilidades alimentares.
 
 **Regra central:** **1 alimento novo por vez, janela mínima 3 dias entre cada teste.**
 
@@ -32,7 +32,7 @@ Protocolo para reintroduzir alimentos após fase carnívora pura ([M6: Dieta Car
 
 ### Carnívora como Baseline
 
-[M6: Dieta Carnívora](/modulos/dieta-carnivora) é usada como **dieta de eliminação** (baseline "limpo"):
+[M6: Dieta Carnívora]({{< relref "/docs/modulos/dieta-carnivora.md" >}}) é usada como **dieta de eliminação** (baseline "limpo"):
 - Reduz variáveis alimentares
 - Estabiliza sintomas
 - Facilita detectar gatilhos
@@ -226,7 +226,7 @@ RESULTADO:
 | **Fase 3** | 7-12 | **Reintrodução gradual** (folhas verdes → crucíferas → oleaginosas → frutas baixo IG) |
 | **Fase 4** | 13+ | Dieta personalizada (lista "sim/não" estabelecida) |
 
-**Ver:** [Timeline 90 Dias](/protocolo-mestre/timeline-90-dias) — protocolo completo
+**Ver:** [Timeline 90 Dias]({{< relref "/docs/protocolo-mestre/timeline-90-dias.md" >}}) — protocolo completo
 
 ---
 
@@ -278,7 +278,7 @@ Reintrodução é para quem quer:
 
 **Conduta:**
 - Retornar carnívora 100% por mais 30-60 dias
-- Revisar [M5: Desparasitação](/modulos/desparasitacao) e Playbook Intestino *(em desenvolvimento)*
+- Revisar [M5: Desparasitação]({{< relref "/docs/modulos/desparasitacao.md" >}}) e Playbook Intestino *(em desenvolvimento)*
 - Considerar teste SIBO (hidrogênio expirado)
 
 ---
@@ -305,9 +305,9 @@ Pular ordem = maior risco reação forte.
 
 ### Conexões
 
-- **[M6: Dieta Carnívora](/modulos/dieta-carnivora)** — baseline de eliminação (Semana 5-6)
-- **[M10: Higienista Moderno](/modulos/higienista-moderno)** — Pilar Alimento Real (alimentação densa, zero toxinas)
-- **[Timeline 90 Dias](/protocolo-mestre/timeline-90-dias)** — Fase 3 (Semana 7+)
+- **[M6: Dieta Carnívora]({{< relref "/docs/modulos/dieta-carnivora.md" >}})** — baseline de eliminação (Semana 5-6)
+- **[M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}})** — Pilar Alimento Real (alimentação densa, zero toxinas)
+- **[Timeline 90 Dias]({{< relref "/docs/protocolo-mestre/timeline-90-dias.md" >}})** — Fase 3 (Semana 7+)
 
 ---
 
@@ -340,13 +340,13 @@ Reintrodução não é "voltar para dieta antiga" — é **construir dieta perso
 
 ## 🔗 Navegação
 
-← [Ferramentas](/ferramentas) | [Protocolo Mestre](/protocolo-mestre) | [Homepage](/) →
+← [Ferramentas]({{< relref "/docs/ferramentas/_index.md" >}}) | [Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}}) | [Homepage]({{< relref "/_index.md" >}}) →
 
 ### Documentos Relacionados
 
-- [M6: Dieta Carnívora](/modulos/dieta-carnivora) — baseline eliminação
-- [M10: Higienista Moderno](/modulos/higienista-moderno) — Pilar Alimento Real
-- [Timeline 90 Dias](/protocolo-mestre/timeline-90-dias) — Fase 3 (Semana 7+)
+- [M6: Dieta Carnívora]({{< relref "/docs/modulos/dieta-carnivora.md" >}}) — baseline eliminação
+- [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}) — Pilar Alimento Real
+- [Timeline 90 Dias]({{< relref "/docs/protocolo-mestre/timeline-90-dias.md" >}}) — Fase 3 (Semana 7+)
 - Playbook Intestino *(em desenvolvimento)* — manejo leaky gut, SIBO
 
 ---

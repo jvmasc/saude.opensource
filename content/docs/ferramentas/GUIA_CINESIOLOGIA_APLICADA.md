@@ -138,7 +138,7 @@ Localizados tronco (peito, abdômen, costas). Relacionados a órgãos via sistem
 - Liberação miofascial (M11 — Fáscia)
 - Terapia cicatriz (massagem, laser)
 
-Ver: [M11: Fáscia](/modulos/fascia), [Playbook Mobilidade Fascial](/playbooks/mobilidade-fascia)
+Ver: [M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}}), [Playbook Mobilidade Fascial]({{< relref "/docs/playbooks/mobilidade-fascia.md" >}})
 
 ### 2. **EMOCIONAL / PSICOLÓGICO**
 
@@ -157,7 +157,7 @@ Ver: [M11: Fáscia](/modulos/fascia), [Playbook Mobilidade Fascial](/playbooks/m
 - Liberação miofascial consciente (PROTOCOLO_TRAUMA_SOMATICO)
 - Respiração consciente (Wim Hof, Buteyko)
 
-Ver: [PROTOCOLO_TRAUMA_SOMATICO](/ferramentas/PROTOCOLO_TRAUMA_SOMATICO), [PILAR_PSICOLOGICO](/ferramentas/PILAR_PSICOLOGICO)
+Ver: [PROTOCOLO_TRAUMA_SOMATICO]({{< relref "/docs/ferramentas/PROTOCOLO_TRAUMA_SOMATICO.md" >}}), [PILAR_PSICOLOGICO]({{< relref "/docs/ferramentas/PILAR_PSICOLOGICO.md" >}})
 
 ### 3. **FUNCIONAL / NEUROLÓGICO**
 
@@ -194,7 +194,7 @@ Ver: [PROTOCOLO_TRAUMA_SOMATICO](/ferramentas/PROTOCOLO_TRAUMA_SOMATICO), [PILAR
 - Suplementar nutrientes que testam "forte"
 - Detox (M3, M5) se toxinas presentes
 
-Ver: [M3: Detox Halogênios](/modulos/detox-halogenios), [M5: Desparasitação](/modulos/desparasitacao)
+Ver: [M3: Detox Halogênios]({{< relref "/docs/modulos/detox-halogenios.md" >}}), [M5: Desparasitação]({{< relref "/docs/modulos/desparasitacao.md" >}})
 
 ---
 
@@ -411,7 +411,7 @@ PROTOCOLO PERSONALIZADO:
 
 ## NAVEGAÇÃO
 
-**[← M11: Fáscia](/modulos/fascia)** | **[ASSESSMENT_4D](/ferramentas/ASSESSMENT_4D)** | **[SCREENING-v2](/ferramentas/SCREENING-v2.md)** | **[Homepage](/)**
+**[← M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}})** | **[ASSESSMENT_4D]({{< relref "/docs/ferramentas/ASSESSMENT_4D.md" >}})** | **[SCREENING-v2]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 

@@ -8,7 +8,7 @@
 
 Módulos são **aprofundamentos especializados** do Protocolo Mestre. Enquanto o Protocolo Mestre fornece a base unificada (Shot dos Campeões), os módulos permitem personalizar e intensificar áreas específicas.
 
-> **Regra de Ouro:** Domine primeiro o [Protocolo Mestre](/protocolo-mestre). Os módulos são para quem quer ir além.
+> **Regra de Ouro:** Domine primeiro o [Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}}). Os módulos são para quem quer ir além.
 
 ---
 
@@ -32,22 +32,22 @@ NÍVEL 3: PLAYBOOKS (sintomas específicos)
 
 | # | Módulo | Descrição | Status |
 |---|--------|-----------|--------|
-| **M1** | **[Iodo](/modulos/iodo.md)** | Maestro sistêmico, tireoide, metabolismo | ✅ Stable |
-| **M2** | **[Remineralização](/modulos/remineralizacao.md)** | Base metabólica, cofatores enzimáticos | ✅ Stable |
-| **M3** | **[Detox Halogênios](/modulos/detox-halogenios.md)** | Remove competidores do iodo (bromo, flúor, cloro) | ✅ Stable |
-| **M4** | **[Intestino](/modulos/intestino.md)** | Integridade intestinal, eixo intestino-cérebro | ✅ Stable |
+| **M1** | **[Iodo]({{< relref "/docs/modulos/iodo.md" >}})** | Maestro sistêmico, tireoide, metabolismo | ✅ Stable |
+| **M2** | **[Remineralização]({{< relref "/docs/modulos/remineralizacao.md" >}})** | Base metabólica, cofatores enzimáticos | ✅ Stable |
+| **M3** | **[Detox Halogênios]({{< relref "/docs/modulos/detox-halogenios.md" >}})** | Remove competidores do iodo (bromo, flúor, cloro) | ✅ Stable |
+| **M4** | **[Intestino]({{< relref "/docs/modulos/intestino.md" >}})** | Integridade intestinal, eixo intestino-cérebro | ✅ Stable |
 
 ### Novos Módulos (v4.0)
 
 | # | Módulo | Descrição | Status |
 |---|--------|-----------|--------|
-| **M5** | **[Desparasitação](/modulos/desparasitacao.md)** | Ivermectina, protocolo lunar | ✅ Stable |
-| **M6** | **[Dieta Carnívora](/modulos/dieta-carnivora.md)** | Reset intestinal, eliminação | ✅ Stable |
-| **M7** | **[Água Oxigenada](/modulos/agua-oxigenada.md)** | Oxigenação, detox (uso pontual) | ✅ Stable |
-| **M8** | **[Bicarbonato Extra](/modulos/bicarbonato-extra.md)** | Alcalinização digestiva pré-refeição | ✅ Stable |
-| **M9** | **[Boro](/modulos/boro.md)** | Paratireoides, ossos, antifúngico | ✅ Stable |
-| **M10** | **[Higienista Moderno](/modulos/higienista-moderno.md)** | 6 pilares de vitalidade (Sol, Água, Terra, Movimento, Ritmo) | ✅ Stable |
-| **M11** | **[Fáscia](/modulos/fascia.md)** | Rede 3D, tensegridade, 12 Anatomy Trains, piezoeletricidade | ✅ Stable |
+| **M5** | **[Desparasitação]({{< relref "/docs/modulos/desparasitacao.md" >}})** | Ivermectina, protocolo lunar | ✅ Stable |
+| **M6** | **[Dieta Carnívora]({{< relref "/docs/modulos/dieta-carnivora.md" >}})** | Reset intestinal, eliminação | ✅ Stable |
+| **M7** | **[Água Oxigenada]({{< relref "/docs/modulos/agua-oxigenada.md" >}})** | Oxigenação, detox (uso pontual) | ✅ Stable |
+| **M8** | **[Bicarbonato Extra]({{< relref "/docs/modulos/bicarbonato-extra.md" >}})** | Alcalinização digestiva pré-refeição | ✅ Stable |
+| **M9** | **[Boro]({{< relref "/docs/modulos/boro.md" >}})** | Paratireoides, ossos, antifúngico | ✅ Stable |
+| **M10** | **[Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}})** | 6 pilares de vitalidade (Sol, Água, Terra, Movimento, Ritmo) | ✅ Stable |
+| **M11** | **[Fáscia]({{< relref "/docs/modulos/fascia.md" >}})** | Rede 3D, tensegridade, 12 Anatomy Trains, piezoeletricidade | ✅ Stable |
 
 ---
 
@@ -290,10 +290,10 @@ LEGENDA:
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)** | **[Playbooks](/Playbooks)** | **[Screening](/ferramentas/SCREENING-v2.md)**
+**[← Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})** | **[Playbooks]({{< relref "/docs/playbooks/_index.md" >}})** | **[Screening]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

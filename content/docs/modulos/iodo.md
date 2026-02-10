@@ -2,11 +2,11 @@
 
 **Status:** `v4.0` | **Ultima Atualizacao:** 24-01-2026
 
-> **Modulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Suplementacao de Iodo
+> **Modulo do [Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** — Deep Dive em Suplementacao de Iodo
 
 ---
 
-> 💡 **Novo na suplementação de iodo?** Veja o [Guia Básico de Iodo](/ferramentas/GUIA_BASICO_IODO) para uma introdução simplificada antes de ler este módulo completo.
+> 💡 **Novo na suplementação de iodo?** Veja o [Guia Básico de Iodo]({{< relref "/docs/ferramentas/GUIA_BASICO_IODO.md" >}}) para uma introdução simplificada antes de ler este módulo completo.
 
 ---
 
@@ -658,18 +658,18 @@ _________________________________
 ## 📖 Fundamentos Teóricos
 
 Para compreender o contexto científico deste módulo:
-- [Sistemas Dissipativos](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS) — Por que otimizar inputs energéticos
-- [Medicina Biológica](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA) — Como restaurar Matriz Extracelular
-- [Psicologia Evolutiva](/ferramentas/PSICOLOGIA_EVOLUTIVA) — Mismatches modernos e adaptações ancestrais
+- [Sistemas Dissipativos]({{< relref "/docs/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS.md" >}}) — Por que otimizar inputs energéticos
+- [Medicina Biológica]({{< relref "/docs/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA.md" >}}) — Como restaurar Matriz Extracelular
+- [Psicologia Evolutiva]({{< relref "/docs/ferramentas/PSICOLOGIA_EVOLUTIVA.md" >}}) — Mismatches modernos e adaptações ancestrais
 
 ---
 
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Playbooks](/Playbooks)** | **[Homepage](/)**
+**[← Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Playbooks]({{< relref "/docs/playbooks/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

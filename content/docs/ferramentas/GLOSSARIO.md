@@ -56,7 +56,7 @@ Desequilíbrio do microbioma intestinal — mais bactérias ruins que boas.
 ## E
 
 **EZ Water (Água Estruturada / H₃O₂)**
-Água em estado ordenado (H₃O₂) — 4ª fase da água descoberta por Gerald Pollack. Forma-se em interfaces hidrofílicas (membranas celulares, proteínas). Possui carga negativa (prótons excluídos), viscosidade alta, estrutura hexagonal. Funciona como bateria biológica, armazena energia. Ativada por luz infravermelha (3000nm) e movimento mecânico (compressão). Ver [M10: Higienista Moderno](/modulos/higienista-moderno) — Pilar Água.
+Água em estado ordenado (H₃O₂) — 4ª fase da água descoberta por Gerald Pollack. Forma-se em interfaces hidrofílicas (membranas celulares, proteínas). Possui carga negativa (prótons excluídos), viscosidade alta, estrutura hexagonal. Funciona como bateria biológica, armazena energia. Ativada por luz infravermelha (3000nm) e movimento mecânico (compressão). Ver [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}) — Pilar Água.
 
 **Efeito Warburg**
 Células cancerígenas produzem energia por fermentação (anaeróbica) em vez de respiração mitocondrial normal.
@@ -72,7 +72,7 @@ Proteína que armazena ferro. Nível ideal: 70-150 mcg/L. Baixa = deficiência d
 Carboidratos fermentáveis (Fermentable Oligosaccharides, Disaccharides, Monosaccharides and Polyols). Podem causar gases e inchaço em pessoas sensíveis.
 
 **Fotobiomodulação**
-Uso de luz vermelha (600-700nm) e infravermelha próxima (700-1000nm) para estimular citocromo C oxidase mitocondrial, aumentando produção de ATP (+30-70%). Espectro solar natural contém essas frequências. Também chamada de "terapia com luz vermelha" ou "LLLT" (Low-Level Light Therapy). Ver [M10: Higienista Moderno](/modulos/higienista-moderno) — Pilar Sol.
+Uso de luz vermelha (600-700nm) e infravermelha próxima (700-1000nm) para estimular citocromo C oxidase mitocondrial, aumentando produção de ATP (+30-70%). Espectro solar natural contém essas frequências. Também chamada de "terapia com luz vermelha" ou "LLLT" (Low-Level Light Therapy). Ver [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}) — Pilar Sol.
 
 ---
 
@@ -82,7 +82,7 @@ Uso de luz vermelha (600-700nm) e infravermelha próxima (700-1000nm) para estim
 Tecido linfático associado ao intestino. 70-80% do sistema imune está no intestino.
 
 **Grounding (Aterramento)**
-Contato direto com a terra (pés descalços na grama, areia, terra). Terra possui carga negativa (elétrons livres) que são transferidos para o corpo, neutralizando radicais livres (ROS). Estudos demonstram redução inflamação até 62% (Ghaly & Teplitz 2004), redução cortisol noturno, melhora qualidade sono, redução viscosidade sanguínea. Protocolo: 20-30 min/dia em superfície condutora. Ver [M10: Higienista Moderno](/modulos/higienista-moderno) — Pilar Terra.
+Contato direto com a terra (pés descalços na grama, areia, terra). Terra possui carga negativa (elétrons livres) que são transferidos para o corpo, neutralizando radicais livres (ROS). Estudos demonstram redução inflamação até 62% (Ghaly & Teplitz 2004), redução cortisol noturno, melhora qualidade sono, redução viscosidade sanguínea. Protocolo: 20-30 min/dia em superfície condutora. Ver [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}) — Pilar Terra.
 
 ---
 
@@ -101,7 +101,7 @@ Produção insuficiente de ácido clorídrico no estômago. Causa de 70% dos cas
 Ver "Die-off".
 
 **Higienismo Contemporâneo**
-Integração de higienismo clássico (J.P. Müller, *My System* 1904 — 15 min/dia, respiração, pele, sol, exercício) com biofísica moderna (Pollack/EZ Water, Becker/bioeletricidade, Hamblin/fotobiomodulação). Sistema de 6 pilares: Sol, Água, Terra, Alimento Real, Movimento, Ritmo. Corpo como máquina biofísica que converte ambiente em vitalidade via piezoeletricidade, fotobiomodulação e água estruturada. Ver [M10: Higienista Moderno](/modulos/higienista-moderno).
+Integração de higienismo clássico (J.P. Müller, *My System* 1904 — 15 min/dia, respiração, pele, sol, exercício) com biofísica moderna (Pollack/EZ Water, Becker/bioeletricidade, Hamblin/fotobiomodulação). Sistema de 6 pilares: Sol, Água, Terra, Alimento Real, Movimento, Ritmo. Corpo como máquina biofísica que converte ambiente em vitalidade via piezoeletricidade, fotobiomodulação e água estruturada. Ver [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}).
 
 ---
 
@@ -151,7 +151,7 @@ Transportador que leva iodo para dentro das células. Presente em tireoide, mama
 Abordagem para regeneração intestinal: Remove, Repara, Reinocula, Reequilibra.
 
 **Piezoeletricidade**
-Propriedade de certos materiais (colágeno, osso, DNA, fáscia) gerarem carga elétrica em resposta a stress mecânico (compressão, tensão). Movimento → deformação colágeno → microcorrentes elétricas → sinalização celular + regeneração + formação EZ Water. Corpo como gerador bioelétrico. Lei de Wolff (osso se remodela conforme stress) funciona via piezoeletricidade. Transmissão fascial: 700 m/s (Oschman). Ver [M10: Higienista Moderno](/modulos/higienista-moderno) — Pilar Movimento.
+Propriedade de certos materiais (colágeno, osso, DNA, fáscia) gerarem carga elétrica em resposta a stress mecânico (compressão, tensão). Movimento → deformação colágeno → microcorrentes elétricas → sinalização celular + regeneração + formação EZ Water. Corpo como gerador bioelétrico. Lei de Wolff (osso se remodela conforme stress) funciona via piezoeletricidade. Transmissão fascial: 700 m/s (Oschman). Ver [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}) — Pilar Movimento.
 
 **Prebiótico**
 Fibras que alimentam as bactérias boas do intestino.
@@ -201,7 +201,7 @@ Temperatura corporal ao acordar, ANTES de qualquer movimento. Marcador caseiro d
 | **36.5-36.8°C** | **Ótimo** |
 | > 37.0°C | Possível hipertireoidismo ou infecção |
 
-Ver: [Monitoramento](/protocolo-mestre/monitoramento.md)
+Ver: [Monitoramento]({{< relref "/docs/protocolo-mestre/monitoramento.md" >}})
 
 ---
 
@@ -218,10 +218,10 @@ Mineral essencial para imunidade, pele, hormônios. Cofator de 300+ enzimas.
 ## TERMOS ADICIONAIS (v4.2)
 
 **Anatomy Trains (Thomas Myers)**
-Mapeamento de 12 linhas miofasciais contínuas no corpo. Dor em um ponto pode ser tensão em toda a linha (ex: dor joelho ← tensão fáscia plantar na Linha Superficial Posterior). Ver: [M11: Fáscia](/modulos/fascia).
+Mapeamento de 12 linhas miofasciais contínuas no corpo. Dor em um ponto pode ser tensão em toda a linha (ex: dor joelho ← tensão fáscia plantar na Linha Superficial Posterior). Ver: [M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}}).
 
 **Biotensegridade / Tensegridade**
-Princípio estrutural: ossos = elementos compressão (ilhas flutuantes); fáscia = elementos tensão (cabos contínuos). Força aplicada em qualquer ponto distribui-se instantaneamente por toda rede. Modelo proposto por Buckminster Fuller, aplicado ao corpo por Stephen Levin. Ver: [M11: Fáscia](/modulos/fascia).
+Princípio estrutural: ossos = elementos compressão (ilhas flutuantes); fáscia = elementos tensão (cabos contínuos). Força aplicada em qualquer ponto distribui-se instantaneamente por toda rede. Modelo proposto por Buckminster Fuller, aplicado ao corpo por Stephen Levin. Ver: [M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}}).
 
 **Grundsubstanz** (Matriz Extracelular Básica)
 Conceito de Hartmut Heine: célula + matriz extracelular + microcirculação = unidade funcional inseparável. Grundsubstanz = meio regulador (transporte, sinalização, imunidade). Toxinas afetam MEC antes de chegar à célula. Ver: Framework Medicina Biológica (Fase 3).
@@ -230,50 +230,50 @@ Conceito de Hartmut Heine: célula + matriz extracelular + microcirculação = u
 Proteínas sinalizadoras (citocinas) liberadas por células imunes e fáscia. Regulam inflamação (IL-1, IL-6 pró-inflamatórias; IL-10 anti-inflamatória). Fáscia funciona como órgão endócrino/imunológico via interleucinas.
 
 **Mecanotransdução**
-Processo onde células convertem estímulo mecânico (pressão, estiramento) em sinal bioquímico. Movimento → deformação fáscia → fibroblastos detectam → cascata sinalização → expressão genética alterada → remodelação tecidual. Ver: [M11: Fáscia](/modulos/fascia).
+Processo onde células convertem estímulo mecânico (pressão, estiramento) em sinal bioquímico. Movimento → deformação fáscia → fibroblastos detectam → cascata sinalização → expressão genética alterada → remodelação tecidual. Ver: [M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}}).
 
 **Miofibroblastos**
-Células da fáscia com capacidade contrátil (contêm actina). Respondem a cortisol (estresse) produzindo colágeno mais denso → armadura fascial crônica. Envolvidos em trauma somático. Ver: [PROTOCOLO_TRAUMA_SOMATICO](/ferramentas/PROTOCOLO_TRAUMA_SOMATICO).
+Células da fáscia com capacidade contrátil (contêm actina). Respondem a cortisol (estresse) produzindo colágeno mais denso → armadura fascial crônica. Envolvidos em trauma somático. Ver: [PROTOCOLO_TRAUMA_SOMATICO]({{< relref "/docs/ferramentas/PROTOCOLO_TRAUMA_SOMATICO.md" >}}).
 
 **Mismatch Evolutivo**
-Discrepância entre ambiente moderno e expectativas evolutivas do corpo. Exemplos: sedentarismo (corpo espera 30km/dia), luz artificial noturna (corpo espera escuridão), ultraprocessados (corpo espera carne/vegetais). Manifesta como doença moderna. Ver: [PSICOLOGIA_EVOLUTIVA](/ferramentas/PSICOLOGIA_EVOLUTIVA).
+Discrepância entre ambiente moderno e expectativas evolutivas do corpo. Exemplos: sedentarismo (corpo espera 30km/dia), luz artificial noturna (corpo espera escuridão), ultraprocessados (corpo espera carne/vegetais). Manifesta como doença moderna. Ver: [PSICOLOGIA_EVOLUTIVA]({{< relref "/docs/ferramentas/PSICOLOGIA_EVOLUTIVA.md" >}}).
 
 **PEMF (Pulsed Electromagnetic Field)**
-Campos eletromagnéticos pulsados. Efeito piezoelétrico inverso: eletricidade → movimento iônico → regeneração (mesmos efeitos compressão mecânica). FDA aprovou para pseudoartrose (osso não consolida). Protocolo: 10-20 min 3x/sem, 50 Hz. Ver: [PROTOCOLO_PIEZOELETRICIDADE](/ferramentas/PROTOCOLO_PIEZOELETRICIDADE).
+Campos eletromagnéticos pulsados. Efeito piezoelétrico inverso: eletricidade → movimento iônico → regeneração (mesmos efeitos compressão mecânica). FDA aprovou para pseudoartrose (osso não consolida). Protocolo: 10-20 min 3x/sem, 50 Hz. Ver: [PROTOCOLO_PIEZOELETRICIDADE]({{< relref "/docs/ferramentas/PROTOCOLO_PIEZOELETRICIDADE.md" >}}).
 
 **TGF-β (Transforming Growth Factor Beta)**
-Fator de crescimento secretado por fáscia. Regula remodelação tecidual, cicatrização, produção colágeno. Liberação miofascial estimula produção. Ver: [M11: Fáscia](/modulos/fascia).
+Fator de crescimento secretado por fáscia. Regula remodelação tecidual, cicatrização, produção colágeno. Liberação miofascial estimula produção. Ver: [M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}}).
 
 **Viscosidade Tixotrópica**
-Propriedade da fáscia: quanto mais devagar o estiramento, mais "derrete" (reorganização plástica). Alongamento rápido = resistência elástica. Alongamento lento (>90 seg) = liberação fascial profunda. Ver: [M11: Fáscia](/modulos/fascia), [Playbook Mobilidade Fascial](/playbooks/mobilidade-fascia).
+Propriedade da fáscia: quanto mais devagar o estiramento, mais "derrete" (reorganização plástica). Alongamento rápido = resistência elástica. Alongamento lento (>90 seg) = liberação fascial profunda. Ver: [M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}}), [Playbook Mobilidade Fascial]({{< relref "/docs/playbooks/mobilidade-fascia.md" >}}).
 
 **WBV (Whole Body Vibration)**
-Vibração corpo inteiro via plataforma vibratória. Ativa mecanorreceptores fasciais simultaneamente. Frequência ideal: 30-50 Hz. Aumenta densidade óssea +2-4% em 6 meses. Protocolo: 10 min 3-5x/sem. Ver: [PROTOCOLO_PIEZOELETRICIDADE](/ferramentas/PROTOCOLO_PIEZOELETRICIDADE).
+Vibração corpo inteiro via plataforma vibratória. Ativa mecanorreceptores fasciais simultaneamente. Frequência ideal: 30-50 Hz. Aumenta densidade óssea +2-4% em 6 meses. Protocolo: 10 min 3-5x/sem. Ver: [PROTOCOLO_PIEZOELETRICIDADE]({{< relref "/docs/ferramentas/PROTOCOLO_PIEZOELETRICIDADE.md" >}}).
 
 ---
 
 ## TERMOS ADICIONAIS (v4.3 — Fase 3)
 
 **Applied Kinesiology (Cinesiologia Aplicada)**
-Sistema diagnóstico que usa teste de resistência muscular para avaliar estado funcional do corpo. Músculos específicos relacionam-se com órgãos/sistemas. Teste muscular: forte = sistema saudável; fraco = disfunção. Limitações: alta variabilidade, viés examinador. Uso como biofeedback complementar, não diagnóstico primário. Ver: [GUIA_CINESIOLOGIA_APLICADA](/ferramentas/GUIA_CINESIOLOGIA_APLICADA).
+Sistema diagnóstico que usa teste de resistência muscular para avaliar estado funcional do corpo. Músculos específicos relacionam-se com órgãos/sistemas. Teste muscular: forte = sistema saudável; fraco = disfunção. Limitações: alta variabilidade, viés examinador. Uso como biofeedback complementar, não diagnóstico primário. Ver: [GUIA_CINESIOLOGIA_APLICADA]({{< relref "/docs/ferramentas/GUIA_CINESIOLOGIA_APLICADA.md" >}}).
 
 **Coccídio**
-Protozoário parasita intracelular do filo Apicomplexa. Exemplos: *Toxoplasma gondii*, *Cryptosporidium*, *Isospora*. Hipótese histórica (séc. XIX-XX): coccídios como causa de câncer — não confirmada por ciência moderna. Ver: [ORIGEM_PARASITARIA_CANCER](/ferramentas/ORIGEM_PARASITARIA_CANCER).
+Protozoário parasita intracelular do filo Apicomplexa. Exemplos: *Toxoplasma gondii*, *Cryptosporidium*, *Isospora*. Hipótese histórica (séc. XIX-XX): coccídios como causa de câncer — não confirmada por ciência moderna. Ver: [ORIGEM_PARASITARIA_CANCER]({{< relref "/docs/ferramentas/ORIGEM_PARASITARIA_CANCER.md" >}}).
 
 **Estrutura Dissipativa**
-Sistema aberto longe do equilíbrio termodinâmico que mantém ordem através de dissipação contínua de energia (conceito de Ilya Prigogine, Prêmio Nobel 1977). Corpo humano = estrutura dissipativa: ordem mantida enquanto houver fluxo energia (alimento, O₂, sol). Sem input → entropia (morte). Doença crônica = estado dissipativo subótimo estável. Ver: [FRAMEWORK_SISTEMAS_DISSIPITIVOS](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS).
+Sistema aberto longe do equilíbrio termodinâmico que mantém ordem através de dissipação contínua de energia (conceito de Ilya Prigogine, Prêmio Nobel 1977). Corpo humano = estrutura dissipativa: ordem mantida enquanto houver fluxo energia (alimento, O₂, sol). Sem input → entropia (morte). Doença crônica = estado dissipativo subótimo estável. Ver: [FRAMEWORK_SISTEMAS_DISSIPITIVOS]({{< relref "/docs/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS.md" >}}).
 
 **Homotoxicologia**
-Estudo das "homotoxinas" (toxinas humanas) e resposta do corpo (Hans-Heinrich Reckeweg). Princípio: doença = tentativa corpo neutralizar/eliminar toxinas. 6 fases progressão: Excreção → Reação → Deposição (MEC) → Impregnação (célula) → Degeneração → Neoplasia. Toxinas afetam matriz extracelular antes de célula. Ver: [FRAMEWORK_MEDICINA_BIOLOGICA](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA).
+Estudo das "homotoxinas" (toxinas humanas) e resposta do corpo (Hans-Heinrich Reckeweg). Princípio: doença = tentativa corpo neutralizar/eliminar toxinas. 6 fases progressão: Excreção → Reação → Deposição (MEC) → Impregnação (célula) → Degeneração → Neoplasia. Toxinas afetam matriz extracelular antes de célula. Ver: [FRAMEWORK_MEDICINA_BIOLOGICA]({{< relref "/docs/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA.md" >}}).
 
 ---
 
 ## NAVEGAÇÃO
 
-**[← Homepage](/)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Módulos](/modulos)** | **[Screening](/ferramentas/SCREENING-v2.md)**
+**[← Homepage]({{< relref "/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Screening]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

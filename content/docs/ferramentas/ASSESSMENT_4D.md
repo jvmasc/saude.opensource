@@ -263,7 +263,7 @@ Antes de iniciar qualquer protocolo, verifique:
 | 6 | Uso de anticoagulantes | ☐ | ☐ |
 | 7 | Quimioterapia/radioterapia ativa | ☐ | ☐ |
 
-**Se marcou SIM em qualquer item:** Consulte o [Screening Detalhado](/ferramentas/SCREENING-v2.md) antes de prosseguir.
+**Se marcou SIM em qualquer item:** Consulte o [Screening Detalhado]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}}) antes de prosseguir.
 
 ---
 
@@ -312,10 +312,10 @@ Após completar o Assessment:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Screening](/ferramentas/SCREENING-v2.md)** | **[Homepage](/)**
+**[← Docs]({{< relref "/docs/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Screening]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

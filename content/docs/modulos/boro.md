@@ -2,7 +2,7 @@
 
 **Status:** `v4.0` | **Última Atualização:** 26-01-2026
 
-> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Boro
+> **Módulo do [Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** — Deep Dive em Boro
 
 ---
 
@@ -47,7 +47,7 @@ Confundir **bórax** (seguro em doses corretas) com **ácido bórico** (mais con
 ## ⚠️ PRÉ-REQUISITOS
 
 > **Antes de iniciar este protocolo:**
-> - [ ] Screening completo realizado → **[Ver Checklist](/ferramentas/SCREENING-v2.md)**
+> - [ ] Screening completo realizado → **[Ver Checklist]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})**
 > - [ ] Função renal normal (boro é excretado pelos rins)
 > - [ ] Não estar grávida ou amamentando
 > - [ ] Verificar interações medicamentosas
@@ -203,10 +203,10 @@ SE REAÇÕES INTENSAS:
 
 | Módulo | Conexão com Boro |
 |--------|------------------|
-| **[M1: Iodo](/modulos/iodo.md)** | Boro → paratireoides como Iodo → tireoide |
-| **[M2: Remineralização](/modulos/remineralizacao.md)** | Boro regula absorção de Ca, Mg, P |
-| **[M3: Detox Halogênios](/modulos/detox-halogenios.md)** | Boro não compete com halogênios |
-| **[M4: Intestino](/modulos/intestino.md)** | Efeito antifúngico contra Candida |
+| **[M1: Iodo]({{< relref "/docs/modulos/iodo.md" >}})** | Boro → paratireoides como Iodo → tireoide |
+| **[M2: Remineralização]({{< relref "/docs/modulos/remineralizacao.md" >}})** | Boro regula absorção de Ca, Mg, P |
+| **[M3: Detox Halogênios]({{< relref "/docs/modulos/detox-halogenios.md" >}})** | Boro não compete com halogênios |
+| **[M4: Intestino]({{< relref "/docs/modulos/intestino.md" >}})** | Efeito antifúngico contra Candida |
 
 ---
 
@@ -232,23 +232,23 @@ SE REAÇÕES INTENSAS:
 ## 📖 Fundamentos Teóricos
 
 Para compreender o contexto científico deste módulo:
-- [Sistemas Dissipativos](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS) — Por que otimizar inputs energéticos
-- [Medicina Biológica](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA) — Como restaurar Matriz Extracelular
-- [Psicologia Evolutiva](/ferramentas/PSICOLOGIA_EVOLUTIVA) — Mismatches modernos e adaptações ancestrais
+- [Sistemas Dissipativos]({{< relref "/docs/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS.md" >}}) — Por que otimizar inputs energéticos
+- [Medicina Biológica]({{< relref "/docs/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA.md" >}}) — Como restaurar Matriz Extracelular
+- [Psicologia Evolutiva]({{< relref "/docs/ferramentas/PSICOLOGIA_EVOLUTIVA.md" >}}) — Mismatches modernos e adaptações ancestrais
 
 ---
 
 ## 🔗 NAVEGAÇÃO
 
-**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
+**[← Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 **Módulos Relacionados:**
-- **[M1: Iodo](/modulos/iodo.md)** — Analogia tireoide/paratireoides
-- **[M2: Remineralização](/modulos/remineralizacao.md)** — Cofatores essenciais
-- **[M4: Intestino](/modulos/intestino.md)** — Candida e saúde intestinal
+- **[M1: Iodo]({{< relref "/docs/modulos/iodo.md" >}})** — Analogia tireoide/paratireoides
+- **[M2: Remineralização]({{< relref "/docs/modulos/remineralizacao.md" >}})** — Cofatores essenciais
+- **[M4: Intestino]({{< relref "/docs/modulos/intestino.md" >}})** — Candida e saúde intestinal
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

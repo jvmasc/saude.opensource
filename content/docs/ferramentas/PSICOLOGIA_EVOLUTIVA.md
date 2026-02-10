@@ -151,7 +151,7 @@ ho — recuperação mitocondrial)
 - Dor lombar crônica (fáscia toracolombar rígida)
 - Osteoporose (Lei de Wolff não ativada)
 
-**Solução:** [M10: Higienista Moderno](/modulos/higienista-moderno) — Pilar Movimento (30 min/dia mínimo).
+**Solução:** [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}) — Pilar Movimento (30 min/dia mínimo).
 
 ---
 
@@ -174,7 +174,7 @@ ho — recuperação mitocondrial)
 - Síndrome metabólica (melatonina regula insulina)
 - Câncer (melatonina suprimida = ↓ apoptose células anormais)
 
-**Solução:** [Playbook Reset Circadiano](/playbooks/reset-circadiano) — escuridão 2h pré-sono, óculos bloqueadores luz azul.
+**Solução:** [Playbook Reset Circadiano]({{< relref "/docs/playbooks/reset-circadiano.md" >}}) — escuridão 2h pré-sono, óculos bloqueadores luz azul.
 
 ---
 
@@ -197,7 +197,7 @@ ho — recuperação mitocondrial)
 - Doenças autoimunes (Hashimoto, Crohn, artrite reumatoide)
 - Obesidade (hiperinsulinemia crônica)
 
-**Solução:** [M6: Dieta Carnívora](/modulos/dieta-carnivora) — reset intestinal 8 semanas, reintrodução seletiva.
+**Solução:** [M6: Dieta Carnívora]({{< relref "/docs/modulos/dieta-carnivora.md" >}}) — reset intestinal 8 semanas, reintrodução seletiva.
 
 ---
 
@@ -224,7 +224,7 @@ ho — recuperação mitocondrial)
 - Doenças autoimunes (cortisol crônico → disfunção Th1/Th2)
 - Imunidade baixa (infecções recorrentes)
 
-**Solução:** [PILAR_PSICOLOGICO](/ferramentas/PSICOLOGIA_EVOLUTIVA) — conexão comunitária intencional, propósito.
+**Solução:** [PILAR_PSICOLOGICO]({{< relref "/docs/ferramentas/PILAR_PSICOLOGICO.md" >}}) — conexão comunitária intencional, propósito.
 
 ---
 
@@ -247,7 +247,7 @@ ho — recuperação mitocondrial)
 - Osteoporose (D3 necessário absorção cálcio)
 - Depressão sazonal (D3 regula serotonina)
 
-**Solução:** [M10: Higienista Moderno](/modulos/higienista-moderno) — Pilar Sol (10-20 min manhã sem protetor, meio-dia 15-30 min máx exposição).
+**Solução:** [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}) — Pilar Sol (10-20 min manhã sem protetor, meio-dia 15-30 min máx exposição).
 
 ---
 
@@ -441,10 +441,10 @@ RESULTADO: 2-3/6 SIM → BENÉFICO
 
 ## NAVEGAÇÃO
 
-**[← Ferramentas](/ferramentas)** | **[M10: Higienista Moderno](/modulos/higienista-moderno)** | **[Playbook Reset Circadiano](/playbooks/reset-circadiano)** | **[PILAR_PSICOLOGICO](/ferramentas/PSICOLOGIA_EVOLUTIVA)** | **[Homepage](/)**
+**[← Ferramentas]({{< relref "/docs/ferramentas/_index.md" >}})** | **[M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}})** | **[Playbook Reset Circadiano]({{< relref "/docs/playbooks/reset-circadiano.md" >}})** | **[PILAR_PSICOLOGICO]({{< relref "/docs/ferramentas/PILAR_PSICOLOGICO.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

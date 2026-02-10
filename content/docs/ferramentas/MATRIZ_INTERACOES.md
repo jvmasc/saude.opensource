@@ -300,7 +300,7 @@ LEGENDA:
 
 **Deficiência G6PD:** ❌ **CONTRAINDICADO** — risco hemólise aguda (destruição maciça de hemácias).
 
-**Ver:** [PROTOCOLO_AZUL_METILENO](/ferramentas/PROTOCOLO_AZUL_METILENO)
+**Ver:** [PROTOCOLO_AZUL_METILENO]({{< relref "/docs/ferramentas/PROTOCOLO_AZUL_METILENO.md" >}})
 
 ---
 
@@ -316,7 +316,7 @@ LEGENDA:
 
 **Pré-operatório:** Suspender 7-10 dias antes de cirurgia (risco sangramento).
 
-**Ver:** [MONOGRAFIA_XAROPE_CRAVO_ALHO](/ferramentas/MONOGRAFIA_XAROPE_CRAVO_ALHO)
+**Ver:** [MONOGRAFIA_XAROPE_CRAVO_ALHO]({{< relref "/docs/ferramentas/MONOGRAFIA_XAROPE_CRAVO_ALHO.md" >}})
 
 ---
 
@@ -343,7 +343,7 @@ LEGENDA:
 NÃO fazer iodo sem eliminar fontes estrogênicas = desperdício de esforço.
 ```
 
-**Ver:** [PROTOCOLO_ESTROGENICOS](/ferramentas/PROTOCOLO_ESTROGENICOS), [M3: Detox Halogenados](/modulos/detox-halogenios), [M1: Iodo](/modulos/iodo)
+**Ver:** [PROTOCOLO_ESTROGENICOS]({{< relref "/docs/ferramentas/PROTOCOLO_ESTROGENICOS.md" >}}), [M3: Detox Halogenados]({{< relref "/docs/modulos/detox-halogenios.md" >}}), [M1: Iodo]({{< relref "/docs/modulos/iodo.md" >}})
 
 ---
 
@@ -409,10 +409,10 @@ NÃO fazer iodo sem eliminar fontes estrogênicas = desperdício de esforço.
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Módulos](/modulos)** | **[Homepage](/)**
+**[← Docs]({{< relref "/docs/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.2` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.2` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

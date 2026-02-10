@@ -396,7 +396,7 @@ Jejum (M10 Ritmo)      →  Autofagia (reciclagem celular)
 
 ## NAVEGAÇÃO
 
-**[← M5: Desparasitação](/modulos/desparasitacao)** | **[PROTOCOLO_EMERGENCIA](/ferramentas/PROTOCOLO_EMERGENCIA)** | **[Homepage](/)**
+**[← M5: Desparasitação]({{< relref "/docs/modulos/desparasitacao.md" >}})** | **[PROTOCOLO_EMERGENCIA]({{< relref "/docs/ferramentas/PROTOCOLO_EMERGENCIA.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 

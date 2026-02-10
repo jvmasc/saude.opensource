@@ -2,7 +2,7 @@
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Deep Dive do [Protocolo Mestre](/protocolo-mestre)**
+> **Deep Dive do [Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})**
 
 ---
 
@@ -325,10 +325,10 @@ ESPAÇAMENTO NECESSÁRIO:
 
 ## NAVEGAÇÃO
 
-**[← Protocolo Mestre](/protocolo-mestre)** | **[Casos Clínicos](/protocolo-mestre/casos-clinicos.md)** | **[Monitoramento](/protocolo-mestre/monitoramento.md)**
+**[← Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Casos Clínicos]({{< relref "/docs/protocolo-mestre/casos-clinicos.md" >}})** | **[Monitoramento]({{< relref "/docs/protocolo-mestre/monitoramento.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

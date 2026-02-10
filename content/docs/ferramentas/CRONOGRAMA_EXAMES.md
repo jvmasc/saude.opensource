@@ -331,10 +331,10 @@ CUSTO APROXIMADO (particular):
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Screening](/ferramentas/SCREENING-v2.md)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Homepage](/)**
+**[← Docs]({{< relref "/docs/_index.md" >}})** | **[Screening]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

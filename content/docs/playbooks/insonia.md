@@ -716,7 +716,7 @@ ANTES DE DORMIR:
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** contem componentes que melhoram o sono:
+O **[Protocolo Mestre (Shot dos Campeoes)]({{< relref "/docs/protocolo-mestre/_index.md" >}})** contem componentes que melhoram o sono:
 
 | Componente do Shot | Impacto no Sono |
 |-------------------|-----------------|
@@ -738,15 +738,15 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** contem component
 
 ## NAVEGACAO
 
-**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
+**[← Playbooks]({{< relref "/docs/playbooks/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Modulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Magnesio, glicina, B6 (cofatores do sono)
-- **[M1: Iodo](/modulos/iodo.md)** — Se tireoide alterada afeta sono
-- **[M4: Intestino](/modulos/intestino.md)** — Producao de serotonina → melatonina
+- **[M2: Remineralizacao]({{< relref "/docs/modulos/remineralizacao.md" >}})** — Magnesio, glicina, B6 (cofatores do sono)
+- **[M1: Iodo]({{< relref "/docs/modulos/iodo.md" >}})** — Se tireoide alterada afeta sono
+- **[M4: Intestino]({{< relref "/docs/modulos/intestino.md" >}})** — Producao de serotonina → melatonina
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

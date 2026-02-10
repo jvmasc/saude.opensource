@@ -685,7 +685,7 @@ DOR LOMBAR + INTESTINO (se inflamatório):
 
 ## INTEGRACAO COM PROTOCOLO MESTRE
 
-O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** auxilia na dor lombar atraves de:
+O **[Protocolo Mestre (Shot dos Campeoes)]({{< relref "/docs/protocolo-mestre/_index.md" >}})** auxilia na dor lombar atraves de:
 
 | Componente do Shot | Impacto na Dor Lombar |
 |-------------------|----------------------|
@@ -707,14 +707,14 @@ O **[Protocolo Mestre (Shot dos Campeoes)](/protocolo-mestre)** auxilia na dor l
 
 ## NAVEGACAO
 
-**[← Playbooks](/Playbooks)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Modulos](/modulos)** | **[Homepage](/)**
+**[← Playbooks]({{< relref "/docs/playbooks/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Modulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 **Modulos Relacionados:**
-- **[M2: Remineralizacao](/modulos/remineralizacao.md)** — Magnesio, D3, colageno
-- **[M4: Intestino](/modulos/intestino.md)** — Se dor inflamatoria/autoimune
+- **[M2: Remineralizacao]({{< relref "/docs/modulos/remineralizacao.md" >}})** — Magnesio, D3, colageno
+- **[M4: Intestino]({{< relref "/docs/modulos/intestino.md" >}})** — Se dor inflamatoria/autoimune
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

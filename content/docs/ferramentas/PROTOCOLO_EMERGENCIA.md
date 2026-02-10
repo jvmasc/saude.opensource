@@ -317,10 +317,10 @@ AVALIAÇÃO OBRIGATÓRIA:
 
 ## NAVEGAÇÃO
 
-**[← Docs](/docs)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Screening](/ferramentas/SCREENING-v2.md)** | **[Assessment 4D](/docs/ASSESSMENT_4D.md)**
+**[← Docs]({{< relref "/docs/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Screening]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})** | **[Assessment 4D]({{< relref "/docs/ferramentas/ASSESSMENT_4D.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

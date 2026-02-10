@@ -454,10 +454,10 @@ TIREOIDIANO (conexão M3):
 
 ## NAVEGAÇÃO
 
-**[← Ferramentas](/ferramentas)** | **[M3: Detox Halogenados](/modulos/detox-halogenios)** | **[M1: Iodo](/modulos/iodo)** | **[MATRIZ_INTERACOES](/ferramentas/MATRIZ_INTERACOES)** | **[Homepage](/)**
+**[← Ferramentas]({{< relref "/docs/ferramentas/_index.md" >}})** | **[M3: Detox Halogenados]({{< relref "/docs/modulos/detox-halogenios.md" >}})** | **[M1: Iodo]({{< relref "/docs/modulos/iodo.md" >}})** | **[MATRIZ_INTERACOES]({{< relref "/docs/ferramentas/MATRIZ_INTERACOES.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

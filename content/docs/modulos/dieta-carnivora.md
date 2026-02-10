@@ -2,7 +2,7 @@
 
 **Status:** `v4.0` | **Última Atualização:** 24-01-2026
 
-> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Dieta Carnívora
+> **Módulo do [Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** — Deep Dive em Dieta Carnívora
 
 ---
 
@@ -357,18 +357,18 @@ Algumas pessoas fazem vitaliciamente. Mínimo recomendado: 4-8 semanas para ver 
 ## 📖 Fundamentos Teóricos
 
 Para compreender o contexto científico deste módulo:
-- [Sistemas Dissipativos](/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS) — Por que otimizar inputs energéticos
-- [Medicina Biológica](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA) — Como restaurar Matriz Extracelular
-- [Psicologia Evolutiva](/ferramentas/PSICOLOGIA_EVOLUTIVA) — Mismatches modernos e adaptações ancestrais
+- [Sistemas Dissipativos]({{< relref "/docs/ferramentas/FRAMEWORK_SISTEMAS_DISSIPITIVOS.md" >}}) — Por que otimizar inputs energéticos
+- [Medicina Biológica]({{< relref "/docs/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA.md" >}}) — Como restaurar Matriz Extracelular
+- [Psicologia Evolutiva]({{< relref "/docs/ferramentas/PSICOLOGIA_EVOLUTIVA.md" >}}) — Mismatches modernos e adaptações ancestrais
 
 ---
 
 ## NAVEGAÇÃO
 
-**[← Módulos](/modulos)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Desparasitação](/modulos/desparasitacao.md)**
+**[← Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Desparasitação]({{< relref "/docs/modulos/desparasitacao.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

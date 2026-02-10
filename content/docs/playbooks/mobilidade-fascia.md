@@ -429,17 +429,17 @@ MOVIMENTO + BIOQUÍMICA:
 ## INTEGRAÇÃO
 
 **Ver também:**
-- **[M10: Higienista Moderno](/modulos/higienista-moderno)** — Pilar MOVIMENTO (piezoeletricidade fascial — movimento como geração elétrica celular) integra este playbook em rotina diária
-- **[M11: Fáscia](/modulos/fascia)** — Deep dive completo em sistema fascial (quando disponível)
+- **[M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}})** — Pilar MOVIMENTO (piezoeletricidade fascial — movimento como geração elétrica celular) integra este playbook em rotina diária
+- **[M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}})** — Deep dive completo em sistema fascial (quando disponível)
 
 ---
 
 ## NAVEGAÇÃO
 
-**[← Playbooks](/Playbooks)** | **[Pilar Psicológico](/ferramentas/PSICOLOGIA_EVOLUTIVA)** | **[Assessment 4D](/docs/ASSESSMENT_4D.md)** | **[Homepage](/)**
+**[← Playbooks]({{< relref "/docs/playbooks/_index.md" >}})** | **[Pilar Psicológico]({{< relref "/docs/ferramentas/PSICOLOGIA_EVOLUTIVA.md" >}})** | **[Assessment 4D]({{< relref "/docs/ferramentas/ASSESSMENT_4D.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

@@ -37,7 +37,7 @@ O Protocolo Mestre atua nas **4 faces da patologia** simultaneamente:
 
 **ANTES de qualquer coisa, faça o screening:**
 
-- [SCREENING-v2 →](/ferramentas/SCREENING-v2.md)
+- [SCREENING-v2 →]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})
 
 Identifica contraindicações absolutas (Graves, ferritina baixa, etc.)
 
@@ -49,10 +49,10 @@ Identifica contraindicações absolutas (Graves, ferritina baixa, etc.)
 
 | Versão | Para Quem | Link |
 |--------|-----------|------|
-| **Minimalista** | Iniciantes, quem quer simplicidade | [Ver →](/protocolo-mestre/versoes.md#minimalista) |
-| **Intermediária** | Quem quer resultados mais rápidos | [Ver →](/protocolo-mestre/versoes.md#intermediaria) |
-| **Completa** | Comprometidos com transformação | [Ver →](/protocolo-mestre/versoes.md#completa) |
-| **Avançada** | Otimizadores, biohackers | [Ver →](/protocolo-mestre/versoes.md#avancada) |
+| **Minimalista** | Iniciantes, quem quer simplicidade | [Ver →]({{< relref "/docs/protocolo-mestre/versoes.md" >}}#minimalista) |
+| **Intermediária** | Quem quer resultados mais rápidos | [Ver →]({{< relref "/docs/protocolo-mestre/versoes.md" >}}#intermediaria) |
+| **Completa** | Comprometidos com transformação | [Ver →]({{< relref "/docs/protocolo-mestre/versoes.md" >}}#completa) |
+| **Avançada** | Otimizadores, biohackers | [Ver →]({{< relref "/docs/protocolo-mestre/versoes.md" >}}#avancada) |
 
 ---
 
@@ -60,7 +60,7 @@ Identifica contraindicações absolutas (Graves, ferritina baixa, etc.)
 
 **O NÚCLEO do protocolo:**
 
-- [Shot Matinal — Receita Completa →](/protocolo-mestre/shot-matinal.md)
+- [Shot Matinal — Receita Completa →]({{< relref "/docs/protocolo-mestre/shot-matinal.md" >}})
 
 ---
 
@@ -68,12 +68,12 @@ Identifica contraindicações absolutas (Graves, ferritina baixa, etc.)
 
 | Página | Descrição |
 |--------|-----------|
-| **[Shot Matinal](/protocolo-mestre/shot-matinal.md)** | Receita, modo de uso, progressão |
-| **[Timeline 90 Dias](/protocolo-mestre/timeline-90-dias.md)** | 3 fases com checklist |
-| **[Versões](/protocolo-mestre/versoes.md)** | Minimalista até Avançada |
-| **[Casos Clínicos](/protocolo-mestre/casos-clinicos.md)** | 5 casos documentados |
-| **[FAQ](/protocolo-mestre/faq.md)** | Perguntas frequentes |
-| **[Monitoramento](/protocolo-mestre/monitoramento.md)** | Sinais de progresso |
+| **[Shot Matinal]({{< relref "/docs/protocolo-mestre/shot-matinal.md" >}})** | Receita, modo de uso, progressão |
+| **[Timeline 90 Dias]({{< relref "/docs/protocolo-mestre/timeline-90-dias.md" >}})** | 3 fases com checklist |
+| **[Versões]({{< relref "/docs/protocolo-mestre/versoes.md" >}})** | Minimalista até Avançada |
+| **[Casos Clínicos]({{< relref "/docs/protocolo-mestre/casos-clinicos.md" >}})** | 5 casos documentados |
+| **[FAQ]({{< relref "/docs/protocolo-mestre/faq.md" >}})** | Perguntas frequentes |
+| **[Monitoramento]({{< relref "/docs/protocolo-mestre/monitoramento.md" >}})** | Sinais de progresso |
 
 ---
 
@@ -83,14 +83,14 @@ Após dominar o Protocolo Mestre, aprofunde-se nos **Módulos (Deep Dives)**:
 
 | Módulo | Descrição | Link |
 |--------|-----------|------|
-| **M1: Iodo** | Maestro sistêmico, tireoide | [Ver →](/modulos/iodo.md) |
-| **M2: Remineralização** | Base metabólica | [Ver →](/modulos/remineralizacao.md) |
-| **M3: Detox Halogênios** | Remove competidores do iodo | [Ver →](/modulos/detox-halogenios.md) |
-| **M4: Intestino** | Eixo intestino-cérebro | [Ver →](/modulos/intestino.md) |
-| **M5: Desparasitação** | Ivermectina, protocolo lunar | [Ver →](/modulos/desparasitacao.md) |
-| **M6: Dieta Carnívora** | Reset intestinal | [Ver →](/modulos/dieta-carnivora.md) |
-| **M7: Água Oxigenada** | Oxigenação e detox | [Ver →](/modulos/agua-oxigenada.md) |
-| **M8: Bicarbonato Extra** | Alcalinização digestiva | [Ver →](/modulos/bicarbonato-extra.md) |
+| **M1: Iodo** | Maestro sistêmico, tireoide | [Ver →]({{< relref "/docs/modulos/iodo.md" >}}) |
+| **M2: Remineralização** | Base metabólica | [Ver →]({{< relref "/docs/modulos/remineralizacao.md" >}}) |
+| **M3: Detox Halogênios** | Remove competidores do iodo | [Ver →]({{< relref "/docs/modulos/detox-halogenios.md" >}}) |
+| **M4: Intestino** | Eixo intestino-cérebro | [Ver →]({{< relref "/docs/modulos/intestino.md" >}}) |
+| **M5: Desparasitação** | Ivermectina, protocolo lunar | [Ver →]({{< relref "/docs/modulos/desparasitacao.md" >}}) |
+| **M6: Dieta Carnívora** | Reset intestinal | [Ver →]({{< relref "/docs/modulos/dieta-carnivora.md" >}}) |
+| **M7: Água Oxigenada** | Oxigenação e detox | [Ver →]({{< relref "/docs/modulos/agua-oxigenada.md" >}}) |
+| **M8: Bicarbonato Extra** | Alcalinização digestiva | [Ver →]({{< relref "/docs/modulos/bicarbonato-extra.md" >}}) |
 
 ---
 
@@ -137,12 +137,12 @@ Em 1931, **Otto Warburg** ganhou o Prêmio Nobel ao descobrir o metabolismo anae
 
 ## NAVEGAÇÃO
 
-**[← Homepage](/)** | **[Módulos](/modulos)** | **[Playbooks](/Playbooks)** | **[Screening](/ferramentas/SCREENING-v2.md)**
+**[← Homepage]({{< relref "/_index.md" >}})** | **[Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Playbooks]({{< relref "/docs/playbooks/_index.md" >}})** | **[Screening]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})
 
 *"O corpo já sabe como se curar. Ele só precisa das condições certas."*

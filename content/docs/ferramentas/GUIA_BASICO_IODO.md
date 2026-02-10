@@ -12,13 +12,13 @@ tags: [iodo, lugol, tireoide, hashimoto, screening, iniciante]
 
 **Status:** `v1.0` | **Última Atualização:** 05-02-2026
 
-> Introdução rápida ao protocolo de iodo. Para protocolo completo → [M1: Iodo](/modulos/iodo)
+> Introdução rápida ao protocolo de iodo. Para protocolo completo → [M1: Iodo]({{< relref "/docs/modulos/iodo.md" >}})
 
 ---
 
 ## ⚠️ NOTA IMPORTANTE
 
-Este guia é um **resumo para iniciantes**. **NÃO substitui** o módulo completo [M1: Iodo](/modulos/iodo).
+Este guia é um **resumo para iniciantes**. **NÃO substitui** o módulo completo [M1: Iodo]({{< relref "/docs/modulos/iodo.md" >}}).
 
 Para dosagens detalhadas, contraindicações completas e protocolos avançados → **sempre consulte M1**.
 
@@ -80,7 +80,7 @@ DEPOIS de 2-4 semanas:
 □ Se ↑ → adiar iodo, investigar com endocrinologista
 ```
 
-**Detalhamento:** [M3: Detox Halogenados](/modulos/detox-halogenios) — mecanismo autoimunidade tireoidiana.
+**Detalhamento:** [M3: Detox Halogenados]({{< relref "/docs/modulos/detox-halogenios.md" >}}) — mecanismo autoimunidade tireoidiana.
 
 ---
 
@@ -88,7 +88,7 @@ DEPOIS de 2-4 semanas:
 
 ### ⚠️ ATENÇÃO À CONSISTÊNCIA
 
-**As dosagens abaixo seguem M1 (iodo.md).** Este guia é resumo. Para protocolo completo → **[M1](/modulos/iodo)**.
+**As dosagens abaixo seguem M1 (iodo.md).** Este guia é resumo. Para protocolo completo → **[M1]({{< relref "/docs/modulos/iodo.md" >}})**.
 
 ---
 
@@ -165,7 +165,7 @@ MANHÃ (com café da manhã):
 **Progressão padrão:** 1 → 2 → 3-4 gotas (ver tabela acima)
 
 **Manutenção:** 2-4 gotas/dia (12,5-25mg) indefinidamente
-*Ajustar conforme resposta individual (ver [M1 Iodo](/modulos/iodo) para detalhes)*
+*Ajustar conforme resposta individual (ver [M1 Iodo]({{< relref "/docs/modulos/iodo.md" >}}) para detalhes)*
 
 ---
 
@@ -269,7 +269,7 @@ SEVEROS (PARAR iodo imediatamente):
 □ Banhos sal Epsom (detox transdermal)
 ```
 
-**Detalhamento:** [M3: Bromismo e Halogenados](/modulos/detox-halogenios)
+**Detalhamento:** [M3: Bromismo e Halogenados]({{< relref "/docs/modulos/detox-halogenios.md" >}})
 
 ---
 
@@ -303,7 +303,7 @@ SHOT DOS CAMPEÕES (MANHÃ):
 Tomar em jejum ou com café da manhã.
 ```
 
-**Ver:** [Shot dos Campeões](/protocolo-mestre/shot-matinal)
+**Ver:** [Shot dos Campeões]({{< relref "/docs/protocolo-mestre/shot-matinal.md" >}})
 
 ---
 
@@ -432,23 +432,23 @@ Mancha sai facilmente.
 
 **Para protocolo completo:**
 
-- **[M1: Iodo](/modulos/iodo)** — Módulo denso, todas dosagens, contraindicações, mecanismos
-- **[M3: Bromismo e Halogenados](/modulos/detox-halogenios)** — Detox bromo/flúor/cloro
-- **[SCREENING](/ferramentas/SCREENING-v2)** — Checklist pré-protocolo
+- **[M1: Iodo]({{< relref "/docs/modulos/iodo.md" >}})** — Módulo denso, todas dosagens, contraindicações, mecanismos
+- **[M3: Bromismo e Halogenados]({{< relref "/docs/modulos/detox-halogenios.md" >}})** — Detox bromo/flúor/cloro
+- **[SCREENING]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})** — Checklist pré-protocolo
 
 **Ferramentas:**
 
-- **[Shot dos Campeões](/protocolo-mestre/shot-matinal)** — Receita completa
-- **[MATRIZ_INTERACOES](/ferramentas/MATRIZ_INTERACOES)** — Iodo + medicamentos/suplementos
+- **[Shot dos Campeões]({{< relref "/docs/protocolo-mestre/shot-matinal.md" >}})** — Receita completa
+- **[MATRIZ_INTERACOES]({{< relref "/docs/ferramentas/MATRIZ_INTERACOES.md" >}})** — Iodo + medicamentos/suplementos
 
 ---
 
 ## NAVEGAÇÃO
 
-**[← Ferramentas](/ferramentas)** | **[M1: Iodo](/modulos/iodo)** | **[M3: Bromismo](/modulos/detox-halogenios)** | **[SCREENING](/ferramentas/SCREENING-v2)** | **[Homepage](/)**
+**[← Ferramentas]({{< relref "/docs/ferramentas/_index.md" >}})** | **[M1: Iodo]({{< relref "/docs/modulos/iodo.md" >}})** | **[M3: Bromismo]({{< relref "/docs/modulos/detox-halogenios.md" >}})** | **[SCREENING]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

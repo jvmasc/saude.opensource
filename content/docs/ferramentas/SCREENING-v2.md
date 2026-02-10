@@ -312,7 +312,7 @@ M7 (ÁGUA OXIGENADA):
 
 ## NAVEGAÇÃO
 
-**[← Homepage](/)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Módulos](/modulos)** | **[Playbooks](/Playbooks)**
+**[← Homepage]({{< relref "/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Playbooks]({{< relref "/docs/playbooks/_index.md" >}})**
 
 ---
 

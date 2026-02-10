@@ -20,7 +20,7 @@ tags:
 
 **Status:** `v1.0` | **Última Atualização:** 05-02-2026
 
-> **Módulo do [Protocolo Mestre](/protocolo-mestre)** — Deep Dive em Higienismo Contemporâneo
+> **Módulo do [Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** — Deep Dive em Higienismo Contemporâneo
 
 ---
 
@@ -41,8 +41,8 @@ Higienismo Contemporâneo integra 6 pilares em sistema unificado de rotina diár
 
 ## ⚠️ Pré-requisitos
 
-- ✅ [SCREENING](/ferramentas/SCREENING-v2) realizado
-- ✅ [Shot dos Campeões](/protocolo-mestre/shot-matinal) por ≥ 7 dias
+- ✅ [SCREENING]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}}) realizado
+- ✅ [Shot dos Campeões]({{< relref "/docs/protocolo-mestre/shot-matinal.md" >}}) por ≥ 7 dias
 - ✅ Comprometimento com rotina diária estruturada (não abordagem ocasional)
 
 ---
@@ -306,8 +306,8 @@ Contato pele-terra → Elétrons livres (e⁻) → Neutralização ROS
 
 **Conexão com outros módulos:**
 
-- **[M6: Dieta Carnívora](/modulos/dieta-carnivora)** — protocolo de eliminação (baseline "limpo")
-- **[PROTOCOLO_REINTRODUCAO](/ferramentas/PROTOCOLO_REINTRODUCAO)** — como reintroduzir alimentos após carnívora
+- **[M6: Dieta Carnívora]({{< relref "/docs/modulos/dieta-carnivora.md" >}})** — protocolo de eliminação (baseline "limpo")
+- **[PROTOCOLO_REINTRODUCAO]({{< relref "/docs/ferramentas/PROTOCOLO_REINTRODUCAO.md" >}})** — como reintroduzir alimentos após carnívora
 
 **Protocolo básico (não-carnívora):**
 
@@ -365,9 +365,9 @@ REGENERAÇÃO + ATP
 
 **Conexão com outros módulos:**
 
-- **[M11: Fáscia](/modulos/fascia)** — sistema tensegral completo (ossos = compressão, fáscia = tensão)
-- **[Playbook Mobilidade Fascial](/playbooks/mobilidade-fascia)** — protocolos avançados de liberação
-- **[PROTOCOLO_PIEZOELETRICIDADE](/ferramentas/PROTOCOLO_PIEZOELETRICIDADE)** — WBV, PEMF, pliométrico
+- **[M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}})** — sistema tensegral completo (ossos = compressão, fáscia = tensão)
+- **[Playbook Mobilidade Fascial]({{< relref "/docs/playbooks/mobilidade-fascia.md" >}})** — protocolos avançados de liberação
+- **[PROTOCOLO_PIEZOELETRICIDADE]({{< relref "/docs/ferramentas/PROTOCOLO_PIEZOELETRICIDADE.md" >}})** — WBV, PEMF, pliométrico
 
 **⚠️ Implicação:** Sedentarismo não é apenas "falta de exercício" — é **déficit de geração bioelétrica**. Sem movimento = sem microcorrentes = sem sinalização regenerativa.
 
@@ -411,7 +411,7 @@ Corpo humano é sistema **rítmico** sincronizado com ciclos naturais:
 - ✅ **Rotina fixa** — dormir/acordar mesmo horário (±30 min) todos os dias
 - ⚠️ **Sem luz azul 2h antes** — telas com filtro âmbar ou óculos bloqueadores de azul
 
-**Conexão:** **[Playbook Reset Circadiano](/playbooks/reset-circadiano)** — protocolo completo de restauração do ritmo
+**Conexão:** **[Playbook Reset Circadiano]({{< relref "/docs/playbooks/reset-circadiano.md" >}})** — protocolo completo de restauração do ritmo
 
 ---
 
@@ -546,10 +546,10 @@ Jejum intermitente (IF) ativa autofagia, melhora sensibilidade insulina, regener
 
 | Sintoma | Possível Causa | Ação |
 |---------|----------------|------|
-| **Fadiga aumenta com exposição solar** | Cofatores tireoidianos insuficientes (selênio, iodo, zinco) | Verificar [M1: Iodo](/modulos/iodo) e [M3: Detox Halogenados](/modulos/detox-halogenios) |
+| **Fadiga aumenta com exposição solar** | Cofatores tireoidianos insuficientes (selênio, iodo, zinco) | Verificar [M1: Iodo]({{< relref "/docs/modulos/iodo.md" >}}) e [M3: Detox Halogenados]({{< relref "/docs/modulos/detox-halogenios.md" >}}) |
 | **Grounding piora sintomas (fadiga, dor)** | Infecção crônica (Lyme, Bartonella, Babesia) — grounding ativa resposta imune | Investigar co-infecções, pausar grounding temporariamente |
 | **Jejum causa irritabilidade/ansiedade severa** | Hipoglicemia, disbiose, insuficiência adrenal | Reduzir janela jejum (voltar para 12/12), revisar Shot dos Campeões |
-| **Rigidez aumenta com alongamento** | Inflamação fascial ativa, fibrose | Pausar alongamento profundo, investigar [M11: Fáscia](/modulos/fascia) |
+| **Rigidez aumenta com alongamento** | Inflamação fascial ativa, fibrose | Pausar alongamento profundo, investigar [M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}}) |
 | **Insônia persiste após 4 semanas** | Cortisol noturno elevado, apneia do sono, deficiência magnésio | Avaliar eixo HPA (cortisol salivar 4 pontos), polissonografia, magnésio 400-600mg/noite |
 
 ---
@@ -625,22 +625,22 @@ Data: ____
 
 ## 🔗 Navegação
 
-← [Protocolo Mestre](/protocolo-mestre) | [Módulos](/modulos) | [Playbooks](/playbooks) | [Homepage](/) →
+← [Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}}) | [Módulos]({{< relref "/docs/modulos/_index.md" >}}) | [Playbooks]({{< relref "/docs/playbooks/_index.md" >}}) | [Homepage]({{< relref "/_index.md" >}}) →
 
 ### Módulos Relacionados
 
-- [M6: Dieta Carnívora](/modulos/dieta-carnivora) — protocolo eliminação (baseline Alimento Real)
-- [M11: Fáscia](/modulos/fascia) — sistema tensegral, piezoeletricidade, mobilidade
+- [M6: Dieta Carnívora]({{< relref "/docs/modulos/dieta-carnivora.md" >}}) — protocolo eliminação (baseline Alimento Real)
+- [M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}}) — sistema tensegral, piezoeletricidade, mobilidade
 
 ### Ferramentas Relacionadas
 
-- [PROTOCOLO_REINTRODUCAO](/ferramentas/PROTOCOLO_REINTRODUCAO) — pós-carnívora, como reintroduzir alimentos
-- [PROTOCOLO_PIEZOELETRICIDADE](/ferramentas/PROTOCOLO_PIEZOELETRICIDADE) — WBV, PEMF, pliométrico
+- [PROTOCOLO_REINTRODUCAO]({{< relref "/docs/ferramentas/PROTOCOLO_REINTRODUCAO.md" >}}) — pós-carnívora, como reintroduzir alimentos
+- [PROTOCOLO_PIEZOELETRICIDADE]({{< relref "/docs/ferramentas/PROTOCOLO_PIEZOELETRICIDADE.md" >}}) — WBV, PEMF, pliométrico
 
 ### Playbooks Relacionados
 
-- [Reset Circadiano](/playbooks/reset-circadiano) — sono, luz, ritmo completo
-- [Mobilidade Fascial](/playbooks/mobilidade-fascia) — liberação miofascial, alongamento
+- [Reset Circadiano]({{< relref "/docs/playbooks/reset-circadiano.md" >}}) — sono, luz, ritmo completo
+- [Mobilidade Fascial]({{< relref "/docs/playbooks/mobilidade-fascia.md" >}}) — liberação miofascial, alongamento
 
 ---
 

@@ -212,7 +212,7 @@ PRONTO PARA INICIAR:
 
 ## 🔗 NAVEGAÇÃO
 
-**← [Homepage](/)** | **[Fundacionais](/fundacionais)** | **[Playbooks](/debugging)**
+**← [Homepage]({{< relref "/_index.md" >}})** | **[Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Playbooks]({{< relref "/docs/playbooks/_index.md" >}})**
 
 ---
 

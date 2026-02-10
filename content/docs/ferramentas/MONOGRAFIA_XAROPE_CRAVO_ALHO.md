@@ -320,10 +320,10 @@ Compostos sulforados secundários (ajoeno, ditiínas, sulfetos voláteis)
 ### Uso Integrado
 
 **Combinação sinérgica:**
-- **[Shot dos Campeões](/protocolo-mestre/shot-matinal)** — pela manhã, em jejum
+- **[Shot dos Campeões]({{< relref "/docs/protocolo-mestre/shot-matinal.md" >}})** — pela manhã, em jejum
 - **Xarope Cravo+Alho** — durante o dia, para sintomas respiratórios (15ml 3-4x/dia)
-- **[M2: Remineralização](/modulos/remineralizacao)** — suporte imunológico
-- **[M10: Higienista Moderno](/modulos/higienista-moderno)** — hidratação + sol
+- **[M2: Remineralização]({{< relref "/docs/modulos/remineralizacao.md" >}})** — suporte imunológico
+- **[M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}})** — hidratação + sol
 
 ---
 
@@ -376,13 +376,13 @@ Xarope de Alho com Cravo não é "receita caseira" — é **formulação fitoter
 
 ## 🔗 Navegação
 
-← [Ferramentas](/ferramentas) | [Protocolo Mestre](/protocolo-mestre) | [Homepage](/) →
+← [Ferramentas]({{< relref "/docs/ferramentas/_index.md" >}}) | [Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}}) | [Homepage]({{< relref "/_index.md" >}}) →
 
 ### Documentos Relacionados
 
-- [MATRIZ_INTERACOES](/ferramentas/MATRIZ_INTERACOES) — todas interações medicamentosas
-- [PROTOCOLO_EMERGENCIA](/ferramentas/PROTOCOLO_EMERGENCIA) — manejo IVAS graves
-- [M10: Higienista Moderno](/modulos/higienista-moderno) — suporte vitalidade
+- [MATRIZ_INTERACOES]({{< relref "/docs/ferramentas/MATRIZ_INTERACOES.md" >}}) — todas interações medicamentosas
+- [PROTOCOLO_EMERGENCIA]({{< relref "/docs/ferramentas/PROTOCOLO_EMERGENCIA.md" >}}) — manejo IVAS graves
+- [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}) — suporte vitalidade
 
 ---
 

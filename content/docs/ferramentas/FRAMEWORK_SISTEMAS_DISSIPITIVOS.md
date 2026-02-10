@@ -346,7 +346,7 @@ Grundsubstanz (matriz extracelular) como **meio através do qual sistema dissipa
 - Toxinas afetam MEC → bloqueiam fluxo energia → ordem colapsa
 - Protocolos restauram MEC → fluxo restaurado → auto-organização possível
 
-Ver: [FRAMEWORK_MEDICINA_BIOLOGICA](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA)
+Ver: [FRAMEWORK_MEDICINA_BIOLOGICA]({{< relref "/docs/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA.md" >}})
 
 ### HUMAN-OS-v4.0
 
@@ -363,7 +363,7 @@ Mismatches evolutivos = inputs errados para sistema dissipativo humano:
 - Corpo evoluiu com inputs: sol, movimento, jejum periódico, escuridão noturna
 - Inputs modernos: luz artificial, sedentarismo, alimentação constante → sistema não auto-organiza corretamente
 
-Ver: [PSICOLOGIA_EVOLUTIVA](/ferramentas/PSICOLOGIA_EVOLUTIVA)
+Ver: [PSICOLOGIA_EVOLUTIVA]({{< relref "/docs/ferramentas/PSICOLOGIA_EVOLUTIVA.md" >}})
 
 ---
 
@@ -385,7 +385,7 @@ Ver: [PSICOLOGIA_EVOLUTIVA](/ferramentas/PSICOLOGIA_EVOLUTIVA)
 
 ## NAVEGAÇÃO
 
-**[← Homepage](/)** | **[Protocolo Mestre](/protocolo-mestre)** | **[Ferramentas](/ferramentas)** | **[FRAMEWORK_MEDICINA_BIOLOGICA](/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA)**
+**[← Homepage]({{< relref "/_index.md" >}})** | **[Protocolo Mestre]({{< relref "/docs/protocolo-mestre/_index.md" >}})** | **[Ferramentas]({{< relref "/docs/ferramentas/_index.md" >}})** | **[FRAMEWORK_MEDICINA_BIOLOGICA]({{< relref "/docs/ferramentas/FRAMEWORK_MEDICINA_BIOLOGICA.md" >}})**
 
 ---
 

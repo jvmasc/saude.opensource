@@ -18,7 +18,7 @@ tags: [trauma-somatico, fascia, armadura-fascial, miofibroblastos, PNEI, somatic
 
 ## PRÉ-REQUISITO
 
-**Este protocolo requer conhecimento de [M11: Fáscia](/modulos/fascia).**
+**Este protocolo requer conhecimento de [M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}}).**
 
 Leia M11 primeiro para entender:
 - Sistema fascial como rede tensegral
@@ -393,10 +393,10 @@ FÁSCIA (Armadura — miofibroblastos produzem colágeno denso)
 
 ## NAVEGAÇÃO
 
-**[← Ferramentas](/ferramentas)** | **[M11: Fáscia](/modulos/fascia)** | **[PILAR_PSICOLOGICO](/ferramentas/PSICOLOGIA_EVOLUTIVA)** | **[Playbook Mobilidade Fascial](/playbooks/mobilidade-fascia)** | **[Homepage](/)**
+**[← Ferramentas]({{< relref "/docs/ferramentas/_index.md" >}})** | **[M11: Fáscia]({{< relref "/docs/modulos/fascia.md" >}})** | **[PILAR_PSICOLOGICO]({{< relref "/docs/ferramentas/PILAR_PSICOLOGICO.md" >}})** | **[Playbook Mobilidade Fascial]({{< relref "/docs/playbooks/mobilidade-fascia.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v1.0` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

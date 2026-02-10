@@ -1,3 +1,12 @@
+---
+title: "Template: Playbook"
+date: 2026-02-10
+description: "Template oficial para criação de novos playbooks (debugging)"
+draft: false
+categories: [Ferramenta]
+tags: [template, playbook, debugging]
+---
+
 # [EMOJI] PLAYBOOK — [CONDIÇÃO]
 
 **Status:** <span class="status [stable/beta/draft]">[STATUS]</span>
@@ -28,9 +37,9 @@
 ## ⚠️ PRÉ-REQUISITOS
 
 > **Antes de iniciar este playbook:**
-> - [ ] Screening completo realizado → [Ver Checklist](/ferramentas/SCREENING-v2)
+> - [ ] Screening completo realizado → [Ver Checklist]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})
 > - [ ] Contraindicações verificadas
-> - [ ] Protocolos fundacionais em andamento (se múltiplos sintomas) → [Ver Fundacionais](/fundacionais)
+> - [ ] Protocolos fundacionais em andamento (se múltiplos sintomas) → [Ver Módulos]({{< relref "/docs/modulos/_index.md" >}})
 
 ---
 
@@ -140,7 +149,7 @@
 
 ## 🔬 FULL 4D PROTOCOL — TRATAMENTO COMPLETO (30 MIN)
 
-> Para entender a Arquitetura 4D completa: [Ver Kernel 4D](/kernel)
+> Para entender a Arquitetura 4D completa: [Ver Kernel 4D]({{< relref "/docs/ferramentas/ANALISE_ARQUITETURA_4D.md" >}})
 
 ### 1. BIOQUÍMICA (O que entra)
 
@@ -220,7 +229,7 @@ _____________________
 
 ## 🚨 RED FLAGS — PROCURE MÉDICO
 
-> Para lista completa de red flags gerais: [Ver Screening](/ferramentas/SCREENING-v2)
+> Para lista completa de red flags gerais: [Ver Screening]({{< relref "/docs/ferramentas/SCREENING-v2.md" >}})
 
 **Sintomas de Alarme Específicos para [Condição]:**
 
@@ -246,7 +255,7 @@ _____________________
 
 ## 🔗 NAVEGAÇÃO
 
-**← [Debugging](/debugging)** | **[Sistemas](/sistemas)** | **[Homepage](/)**
+**← [Playbooks]({{< relref "/docs/playbooks/_index.md" >}})** | **[Módulos]({{< relref "/docs/modulos/_index.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 **Playbooks Relacionados:**
 - [Playbook relacionado 1]
@@ -256,4 +265,4 @@ _____________________
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`CC BY 4.0` | Mantido por Farm. João | [Changelog](/changelog)
+`CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})

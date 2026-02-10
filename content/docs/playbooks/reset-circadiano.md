@@ -350,7 +350,7 @@ NOITE:
 □ Separar iodo para manhã (energizante)
 ```
 
-**Ver também:** [M10: Higienista Moderno](/modulos/higienista-moderno) — Pilar RITMO (sono profundo + jejum intermitente + ciclos naturais) integra este playbook em rotina diária completa.
+**Ver também:** [M10: Higienista Moderno]({{< relref "/docs/modulos/higienista-moderno.md" >}}) — Pilar RITMO (sono profundo + jejum intermitente + ciclos naturais) integra este playbook em rotina diária completa.
 
 ---
 
@@ -368,10 +368,10 @@ NOITE:
 
 ## NAVEGAÇÃO
 
-**[← Playbooks](/Playbooks)** | **[Pilar Psicológico](/ferramentas/PSICOLOGIA_EVOLUTIVA)** | **[Assessment 4D](/docs/ASSESSMENT_4D.md)** | **[Homepage](/)**
+**[← Playbooks]({{< relref "/docs/playbooks/_index.md" >}})** | **[Pilar Psicológico]({{< relref "/docs/ferramentas/PSICOLOGIA_EVOLUTIVA.md" >}})** | **[Assessment 4D]({{< relref "/docs/ferramentas/ASSESSMENT_4D.md" >}})** | **[Homepage]({{< relref "/_index.md" >}})**
 
 ---
 
 **Pharmacopeia.info** — The Open Source Health Repository
 
-`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog](/00-meta/changelog)
+`v4.1` | `CC BY 4.0` | Mantido por Farm. João | [Changelog]({{< relref "/docs/changelog.md" >}})
