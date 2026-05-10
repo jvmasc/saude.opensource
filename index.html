@@ -3,14 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Saúde Open Source — Repositório de Protocolos de Saúde Integrativa</title>
-  <meta name="description" content="Repositório educacional de protocolos de saúde integrativa baseados em evidência científica. Autoria: Farm. João Alves, Farmacêutico Clínico.">
+  <title>Saúde Open Source — Protocolos para uma saúde descentralizada</title>
+  <meta name="description" content="Protocolos educacionais, rastreáveis e versionados para uma saúde descentralizada. Saúde Open Source abre a lógica, explicita riscos e separa educação pública de aplicação clínica individual.">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 
   <!-- Open Graph -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Saúde Open Source — Repositório de Protocolos de Saúde Integrativa">
-  <meta property="og:description" content="Repositório educacional de protocolos de saúde integrativa baseados em evidência científica. Autoria: Farm. João Alves, Farmacêutico Clínico.">
+  <meta property="og:title" content="Saúde Open Source — Protocolos para uma saúde descentralizada">
+  <meta property="og:description" content="A saúde centralizada virou caixa-preta. Nós abrimos o código.">
   <meta property="og:locale" content="pt_BR">
+  <meta property="og:url" content="https://saudeopensource.xyz/">
 
   <!-- Schema.org — WebSite -->
   <script type="application/ld+json">
@@ -19,7 +21,7 @@
     "@type": "WebSite",
     "name": "Saúde Open Source",
     "alternateName": "SOS — Saúde Open Source",
-    "description": "Repositório educacional de protocolos de saúde integrativa baseados em evidência científica.",
+    "description": "Protocolos educacionais, rastreáveis e versionados para uma saúde descentralizada.",
     "url": "https://saudeopensource.xyz",
     "inLanguage": "pt-BR",
     "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -27,8 +29,7 @@
       "@type": "Person",
       "name": "João Alves",
       "honorificPrefix": "Farm.",
-      "jobTitle": "Farmacêutico Clínico",
-      "sameAs": []
+      "jobTitle": "Farmacêutico Clínico"
     },
     "potentialAction": {
       "@type": "SearchAction",
@@ -38,136 +39,226 @@
   }
   </script>
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
   <link rel="canonical" href="https://saudeopensource.xyz/">
 </head>
-<body>
+<body class="home-dark">
 
-  <!-- CABEÇALHO -->
-  <header class="site-header" role="banner">
-    <div class="site-header-inner">
-      <a href="/" class="site-logo" aria-label="Saúde Open Source — Página inicial">
-        SOS <span>Saúde Open Source</span>
-      </a>
-      <nav class="site-nav" aria-label="Navegação principal">
+  <header class="sos-topbar" role="banner">
+    <a href="/" class="sos-brand" aria-label="Saúde Open Source — Página inicial">
+      <span class="sos-brand-mark">SOS</span>
+      <span class="sos-brand-text">
+        <strong>Saúde Open Source</strong>
+        <small>protocolos descentralizados</small>
+      </span>
+    </a>
+    <nav class="sos-nav" aria-label="Navegação principal">
+      <a href="#manifesto">Manifesto</a>
+      <a href="/screening/">Screening</a>
+      <a href="/protocolo-mestre/">Protocolos</a>
+      <a href="/modulos/">Módulos</a>
+      <a href="https://github.com/jvmasc/saude.opensource" rel="noopener">GitHub</a>
+    </nav>
+    <a class="sos-nav-cta" href="https://farmaciaintegrativa.xyz/" rel="noopener">Tele-Farmácia</a>
+  </header>
+
+  <main id="conteudo-principal">
+    <section class="sos-hero" aria-labelledby="titulo-principal">
+      <div class="sos-hero-bg" aria-hidden="true"></div>
+      <div class="sos-shell sos-hero-grid">
+        <div class="sos-hero-copy">
+          <p class="sos-kicker">PROTOCOLOS · EVIDÊNCIA · SAÚDE DESCENTRALIZADA</p>
+          <h1 id="titulo-principal">
+            A saúde centralizada virou caixa-preta.<br>
+            <span>Nós abrimos o código.</span>
+          </h1>
+          <p class="sos-lead">
+            Protocolos educacionais, rastreáveis e versionados para quem não aceita terceirizar a própria biologia para sistemas opacos.
+          </p>
+          <div class="sos-actions" aria-label="Ações principais">
+            <a class="sos-btn sos-btn-primary" href="/screening/">Começar pelo screening</a>
+            <a class="sos-btn sos-btn-secondary" href="#manifesto">Ler o manifesto</a>
+          </div>
+          <ul class="sos-trustline" aria-label="Camadas de confiança">
+            <li>CC BY 4.0</li>
+            <li>GitHub público</li>
+            <li>llms.txt</li>
+            <li>Schema.org</li>
+            <li>revisão clínica</li>
+          </ul>
+        </div>
+
+        <aside class="sos-terminal" aria-label="Estado técnico do repositório">
+          <div class="sos-terminal-top">
+            <span></span><span></span><span></span>
+            <strong>sos.protocol</strong>
+          </div>
+          <dl>
+            <div><dt>status</dt><dd>público</dd></div>
+            <div><dt>license</dt><dd>CC BY 4.0</dd></div>
+            <div><dt>risk-layer</dt><dd>obrigatório</dd></div>
+            <div><dt>clinical-use</dt><dd>individual only</dd></div>
+            <div><dt>bridge</dt><dd>Tele-Farmácia</dd></div>
+          </dl>
+          <p class="sos-terminal-note">Nenhum protocolo público substitui avaliação individual, exames, histórico, medicamentos e contraindicações.</p>
+        </aside>
+      </div>
+    </section>
+
+    <section class="sos-safety" aria-label="Aviso médico obrigatório">
+      <div class="sos-shell sos-safety-inner">
+        <strong>Camada de segurança:</strong>
+        <p>Conteúdo educacional. Não é prescrição. Antes de aplicar qualquer protocolo: screening, contraindicações e orientação profissional.</p>
+        <a href="/screening/">Abrir screening →</a>
+      </div>
+    </section>
+
+    <section id="manifesto" class="sos-section sos-manifesto" aria-labelledby="titulo-manifesto">
+      <div class="sos-shell sos-two-col">
+        <div>
+          <p class="sos-label">MANIFESTO</p>
+          <h2 id="titulo-manifesto">A caixa-preta não cura. Ela obedece ao dono da caixa.</h2>
+        </div>
+        <div class="sos-prose">
+          <p>A medicina centralizada fragmentou o corpo em especialidades, o dado em prontuários fechados e a decisão em protocolos invisíveis.</p>
+          <p>O SOS existe para inverter essa lógica: abrir a estrutura, nomear riscos, expor fundamentos e devolver linguagem ao paciente.</p>
+          <blockquote>Saúde descentralizada não é abandono. É soberania com método, risco explícito e responsabilidade clínica.</blockquote>
+        </div>
+      </div>
+    </section>
+
+    <section class="sos-section sos-journey" aria-labelledby="titulo-jornada">
+      <div class="sos-shell">
+        <div class="sos-section-head">
+          <p class="sos-label">COMO USAR SEM SE MACHUCAR</p>
+          <h2 id="titulo-jornada">O protocolo vem depois do mapa.</h2>
+          <p>O caminho é deliberado: compreender, verificar risco, aplicar a base, aprofundar e só então individualizar.</p>
+        </div>
+
+        <div class="sos-steps">
+          <a href="/fundamentos/" class="sos-step">
+            <span>01</span>
+            <strong>Fundamentos</strong>
+            <p>Ontologia 4D, terreno, luz, água, magnetismo, ritmo e autonomia biológica.</p>
+          </a>
+          <a href="/screening/" class="sos-step">
+            <span>02</span>
+            <strong>Screening</strong>
+            <p>Contraindicações, sinais de alerta e a fronteira entre educação e risco clínico.</p>
+          </a>
+          <a href="/protocolo-mestre/" class="sos-step">
+            <span>03</span>
+            <strong>Protocolo Mestre</strong>
+            <p>Base metabólica, Shot dos Campeões, timeline de 90 dias e FAQ público.</p>
+          </a>
+          <a href="/modulos/" class="sos-step">
+            <span>04</span>
+            <strong>Módulos</strong>
+            <p>Desparasitação, iodo, remineralização, intestino, detox e aprofundamentos.</p>
+          </a>
+          <a href="https://farmaciaintegrativa.xyz/" class="sos-step sos-step-bridge" rel="noopener">
+            <span>05</span>
+            <strong>Individualizar</strong>
+            <p>Quando há exame, medicamento, histórico, risco ou contraindicação: Tele-Farmácia.</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="sos-section sos-open" aria-labelledby="titulo-open">
+      <div class="sos-shell">
+        <div class="sos-section-head narrow">
+          <p class="sos-label">O QUE TORNA ISTO OPEN SOURCE</p>
+          <h2 id="titulo-open">Não basta publicar conteúdo. É preciso abrir a lógica.</h2>
+        </div>
+        <div class="sos-principles">
+          <article>
+            <span>logic.open</span>
+            <h3>Protocolo aberto</h3>
+            <p>A estrutura é pública: premissas, sequência, finalidade e limites aparecem antes da promessa.</p>
+          </article>
+          <article>
+            <span>risk.visible</span>
+            <h3>Risco explícito</h3>
+            <p>Contraindicação não fica escondida em nota de rodapé. Risco é camada central do protocolo.</p>
+          </article>
+          <article>
+            <span>evidence.trace</span>
+            <h3>Evidência rastreável</h3>
+            <p>Referência, hipótese, tradição clínica e experiência prática não são misturadas como se fossem iguais.</p>
+          </article>
+          <article>
+            <span>versioned</span>
+            <h3>Versionamento</h3>
+            <p>O conhecimento muda. A página precisa ter histórico, revisão e lastro técnico.</p>
+          </article>
+          <article>
+            <span>clinical.bridge</span>
+            <h3>Ponte clínica responsável</h3>
+            <p>O público educa. O individual exige anamnese, exames, medicamentos, contexto e profissional habilitado.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="sos-section sos-feature" aria-labelledby="titulo-modulo">
+      <div class="sos-shell sos-feature-card">
+        <div>
+          <p class="sos-label">MÓDULO EM DESTAQUE</p>
+          <h2 id="titulo-modulo">Desparasitação sem folclore.</h2>
+          <p>Cândida, die-off, terreno intestinal, biofilme e cronobiologia lunar — organizados como módulo público, não como receita cega.</p>
+        </div>
+        <div class="sos-feature-panel">
+          <div class="sos-badges">
+            <span>risco explícito</span>
+            <span>sem dose pública</span>
+            <span>FAQPage</span>
+            <span>Article</span>
+            <span>contraindicações</span>
+          </div>
+          <a class="sos-btn sos-btn-primary" href="/modulos/desparasitacao/">Ler módulo</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="sos-section sos-bridge" aria-labelledby="titulo-tf">
+      <div class="sos-shell sos-bridge-inner">
+        <div>
+          <p class="sos-label">PONTE CLÍNICA</p>
+          <h2 id="titulo-tf">O código é aberto. A aplicação é individual.</h2>
+          <p>O SOS mostra a lógica. A Tele-Farmácia adapta ao seu caso, seus exames, seus medicamentos, suas contraindicações e sua fase metabólica.</p>
+        </div>
+        <a href="https://farmaciaintegrativa.xyz/" class="sos-btn sos-btn-light" rel="noopener" aria-label="Ir para a Tele-Farmácia Integralista">Acompanhamento clínico individualizado</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="sos-footer" role="contentinfo">
+    <div class="sos-shell sos-footer-grid">
+      <div>
+        <strong>Saúde Open Source</strong>
+        <p>Protocolos para uma saúde descentralizada.</p>
+      </div>
+      <div>
+        <span>Repositório</span>
         <a href="/fundamentos/">Fundamentos</a>
         <a href="/screening/">Screening</a>
         <a href="/protocolo-mestre/">Protocolo Mestre</a>
         <a href="/modulos/">Módulos</a>
-      </nav>
-    </div>
-  </header>
-
-  <!-- HERO -->
-  <section class="page-hero" aria-labelledby="titulo-principal">
-    <div class="badge">Conteúdo educacional livre — CC BY 4.0</div>
-    <h1 id="titulo-principal">Saúde Open Source</h1>
-    <p>O repositório de protocolos de saúde integrativa — conteúdo educacional validado pela equipa da Tele-Farmácia Integralista</p>
-  </section>
-
-  <!-- CONTEÚDO PRINCIPAL -->
-  <main id="conteudo-principal">
-
-    <!-- AVISO MÉDICO CRÍTICO -->
-    <section aria-label="Aviso médico obrigatório">
-      <div class="contentor">
-        <div class="caixa caixa-alerta" style="margin-top: 2rem;" role="alert">
-          <h2 style="font-size:1rem; border:none; margin-top:0;">Aviso Médico Obrigatório</h2>
-          <p style="margin:0; font-family: system-ui, sans-serif; font-size: 0.92rem;">
-            Este site tem finalidade <strong>exclusivamente educacional</strong>. O conteúdo não substitui consulta, diagnóstico ou tratamento médico individualizado. Antes de iniciar qualquer protocolo, realize o <a href="/screening/">screening obrigatório</a> e consulte um profissional de saúde habilitado. Em caso de sintomas graves, procure atendimento de emergência imediatamente.
-          </p>
-        </div>
-      </div>
-    </section>
-
-    <!-- NAVEGAÇÃO PRINCIPAL -->
-    <section aria-labelledby="titulo-seccoes" style="padding: 2rem 1.25rem 1rem;">
-      <div class="contentor">
-        <h2 id="titulo-seccoes" style="text-align:center; border:none; margin-bottom: 0.35rem;">Por onde começar</h2>
-        <p style="text-align:center; color: var(--cor-texto-suave); font-family: system-ui, sans-serif; font-size: 0.95rem; margin-bottom: 1.75rem;">Cada secção foi desenhada para ser percorrida por ordem — do conceito à prática.</p>
-
-        <div class="cards-grid">
-
-          <a href="/fundamentos/" class="card" aria-label="Fundamentos da Saúde — O que é o ser humano e o que é saúde perfeita">
-            <div class="card-icone">🌿</div>
-            <div class="card-titulo">Fundamentos da Saúde</div>
-            <div class="card-desc">O que é o ser humano? O que é saúde perfeita? O Framework 4D que orienta todos os protocolos.</div>
-            <div class="card-seta">Explorar fundamentos →</div>
-          </a>
-
-          <a href="/screening/" class="card" aria-label="Screening — Verificação obrigatória antes de iniciar qualquer protocolo">
-            <div class="card-icone">🔬</div>
-            <div class="card-titulo">Screening</div>
-            <div class="card-desc">Verificação obrigatória antes de qualquer protocolo. Identifica contraindicações e prepara o terreno clínico.</div>
-            <div class="card-seta">Fazer screening primeiro →</div>
-          </a>
-
-          <a href="/protocolo-mestre/" class="card" aria-label="Protocolo Mestre — Shot dos Campeões e Timeline 90 Dias">
-            <div class="card-icone">⚗️</div>
-            <div class="card-titulo">Protocolo Mestre</div>
-            <div class="card-desc">Shot dos Campeões, Timeline 90 Dias, versões e FAQ. O núcleo da restauração metabólica.</div>
-            <div class="card-seta">Ver protocolo →</div>
-          </a>
-
-          <a href="/modulos/" class="card" aria-label="Módulos — Deep dives por tema">
-            <div class="card-icone">📚</div>
-            <div class="card-titulo">Módulos</div>
-            <div class="card-desc">Deep dives por tema: Iodo, Remineralização, Detox, Intestino, Desparasitação e mais.</div>
-            <div class="card-seta">Ver módulos →</div>
-          </a>
-
-        </div>
-      </div>
-    </section>
-
-    <!-- BRIDGE TELE-FARMÁCIA -->
-    <section aria-labelledby="titulo-tf" style="padding: 0 1.25rem 2.5rem;">
-      <div class="contentor">
-        <div class="bridge-tf">
-          <h2 id="titulo-tf" style="margin-top:0; font-size: 1.35rem;">Quer acompanhamento clínico individualizado?</h2>
-          <p>O conteúdo deste site é educacional e de livre acesso. Para a aplicação personalizada dos protocolos à sua situação clínica específica, a equipa da Tele-Farmácia Integralista oferece acompanhamento directo com Farm. João Alves.</p>
-          <a href="https://farmaciaintegrativa.xyz/" class="botao" rel="noopener" aria-label="Ir para a Tele-Farmácia Integralista">
-            Tele-Farmácia Integralista →
-          </a>
-        </div>
-      </div>
-    </section>
-
-    <!-- PRINCÍPIOS DO REPOSITÓRIO -->
-    <section aria-labelledby="titulo-principios" style="padding: 0 1.25rem 2.5rem; background: var(--cor-fundo-alt); border-top: 1px solid var(--cor-borda); border-bottom: 1px solid var(--cor-borda);">
-      <div class="contentor" style="padding-top: 2rem; padding-bottom: 2rem;">
-        <h2 id="titulo-principios">O que é Saúde Open Source</h2>
-        <p>
-          O SOS é um repositório educacional público, escrito e mantido por Farm. João Alves, Farmacêutico Clínico com especialização em medicina integrativa. Todo o conteúdo é publicado sob licença <strong>Creative Commons CC BY 4.0</strong> — pode ser partilhado, adaptado e citado livremente com atribuição.
-        </p>
-        <p>
-          Os protocolos aqui documentados emergem de anos de prática clínica e revisão contínua da literatura. Não são receitas médicas nem diagnósticos — são ferramentas educacionais para pessoas que querem compreender a bioquímica da saúde.
-        </p>
-        <blockquote>
-          "O corpo já sabe como se curar. Ele só precisa das condições certas."
-        </blockquote>
-      </div>
-    </section>
-
-  </main>
-
-  <!-- RODAPÉ -->
-  <footer class="site-footer" role="contentinfo">
-    <div class="site-footer-inner">
-      <div>
-        <strong style="color: white; font-size: 0.95rem;">Saúde Open Source</strong><br>
-        Farm. João Alves — Farmacêutico Clínico<br>
-        <a href="https://farmaciaintegrativa.xyz/">Tele-Farmácia Integralista</a>
       </div>
       <div>
-        <strong style="color: white;">Conteúdo</strong><br>
-        <a href="/fundamentos/">Fundamentos</a> ·
-        <a href="/screening/">Screening</a> ·
-        <a href="/protocolo-mestre/">Protocolo Mestre</a> ·
-        <a href="/modulos/">Módulos</a>
+        <span>Infraestrutura</span>
+        <a href="https://github.com/jvmasc/saude.opensource" rel="noopener">GitHub</a>
+        <a href="/llms.txt">llms.txt</a>
+        <a href="/sitemap.xml">sitemap.xml</a>
+        <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">CC BY 4.0</a>
       </div>
-      <div class="footer-aviso">
-        <strong style="color: rgba(255,255,255,0.9);">Aviso:</strong> Conteúdo exclusivamente educacional. Não substitui orientação médica individualizada. CC BY 4.0 — Saúde Open Source.
+      <div>
+        <span>Aviso</span>
+        <p>Conteúdo exclusivamente educacional. Não substitui consulta, diagnóstico ou tratamento médico individualizado.</p>
       </div>
     </div>
   </footer>
