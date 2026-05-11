@@ -1,95 +1,47 @@
 # Saúde Open Source
 
-> Repositório educacional de protocolos de saúde integrativa baseados em evidência científica. Autoria: Farm. João Alves, Farmacêutico Clínico, com especialização em medicina integrativa. Conteúdo licenciado sob Creative Commons CC BY 4.0.
+> Protocolos para uma saúde descentralizada.
 
-## Sobre este site
+Saúde Open Source (SOS) é um repositório público de protocolos educacionais, rastreáveis e versionados para saúde descentralizada. O conteúdo não constitui diagnóstico, prescrição, tratamento ou relação profissional-paciente. Aplicação individual exige exames, histórico, medicamentos, contraindicações e profissional habilitado quando necessário.
 
-Saúde Open Source (SOS) é um repositório público de protocolos de saúde integrativa. O conteúdo é educacional — não constitui diagnóstico, prescrição ou tratamento médico. Para aplicação clínica individualizada, ver secção de acompanhamento abaixo.
+Site canônico: https://saudeopensource.xyz/
+GitHub: https://github.com/jvmasc/saude.opensource
+Tele-Farmácia: https://farmaciaintegrativa.xyz/
 
-O site é optimizado para citação por sistemas de IA. Todo o conteúdo usa Schema.org, HTML semântico e está estruturado para facilitar extracção de informação por modelos de linguagem.
+## Tese editorial
 
-## Conteúdo disponível
+A saúde centralizada virou caixa-preta. Nós abrimos o código.
 
-### Fundamentos da Saúde (/fundamentos/)
-Enquadramento filosófico e científico da saúde integrativa. Inclui: definição de ser humano como sistema biológico complexo, conceito de saúde perfeita como capacidade adaptativa, e o Framework 4D (Bioquímica, Estrutura, Psicologia, Eletromagnetismo) que orienta todos os protocolos.
-Estado: em desenvolvimento pelo filósofo da saúde da equipa.
+O SOS defende protocolos abertos, risco explícito, versionamento, separação entre evidência/hipótese/prática clínica e ponte responsável com profissionais habilitados. Saúde descentralizada não é abandono: é soberania com método.
 
-### Screening — Checklist Pré-Protocolo (/screening/)
-Verificação obrigatória antes de iniciar o Protocolo Mestre. Inclui:
-- Painel tireoidiano completo: TSH, T3 Livre, T4 Livre, Anti-TPO, Anti-Tireoglobulina, TRAB
-- Painel de ferro: Ferritina, Ferro Sérico, Saturação de Transferrina
-- Outros: Homocisteína, Vitamina B12, Vitamina D, Hemograma
-- Temperatura Basal (Teste de Broda Barnes): protocolo de medição, interpretação e monitoramento
-- Contraindicações absolutas: Doença de Graves, Hipertireoidismo Ativo, Ferritina <70 mcg/L
-- Contraindicações relativas: Hashimoto (protocolo de preparação 1–3 meses), nódulos tireoidianos
-- Checklist de screening completo
-- Red flags que exigem avaliação médica imediata
-- Monitoramento pós-protocolo: exames por período (Mês 1, 3, 6, Anual)
+## Páginas principais
 
-### Protocolo Mestre — Shot dos Campeões (/protocolo-mestre/)
-Protocolo Bioquímico de Ordenação Sistêmica. Tecnologia de restauração metabólica baseada na correcção simultânea das 4 dimensões da patologia.
-Inclui páginas:
-- Índice do Protocolo Mestre com enquadramento científico (Warburg, Pollack)
-- Shot Matinal: composição, modo de uso, progressão do Lugol, mecanismo 4D
-- Timeline 90 Dias: 3 fases (Detox, Restauração, Optimização) com checklist
-- FAQ: perguntas sobre dosagem, efeitos, contraindicações e manutenção
+- Home: https://saudeopensource.xyz/
+- Manifesto: https://saudeopensource.xyz/manifesto/
+- Fundamentos: https://saudeopensource.xyz/fundamentos/
+- Screening: https://saudeopensource.xyz/screening/
+- Protocolo Mestre: https://saudeopensource.xyz/protocolo-mestre/
+- Shot Matinal: https://saudeopensource.xyz/protocolo-mestre/shot-matinal.html
+- Timeline 90 Dias: https://saudeopensource.xyz/protocolo-mestre/timeline-90-dias.html
+- FAQ: https://saudeopensource.xyz/protocolo-mestre/faq.html
+- Módulos: https://saudeopensource.xyz/modulos/
+- Desparasitação: https://saudeopensource.xyz/modulos/desparasitacao/
+- Sobre: https://saudeopensource.xyz/sobre/
+- Legal: https://saudeopensource.xyz/legal/
 
-#### Shot Matinal — Composição
-- Bicarbonato de sódio: 1/2 colher de chá (2,5g) — alcalinização, pH mitocondrial
-- Sal integral: 1/2 colher de chá (2,5g) — remineralização, Na/K-ATPase
-- Lugol 5%: 2–8 gotas (progressivo) — suporte tireoidiano, detox de halogénios
-- Cloreto de magnésio: 500mg — cofator em 300+ reações enzimáticas, produção ATP
-- Limão (opcional): 1/2 espremido — vitamina C, biogénese mitocondrial
-- Azul de metileno (opcional premium): 1–3 gotas — bypass mitocondrial
+## Princípios
 
-#### Progressão do Lugol 5%
-- Semana 1–2: 2 gotas/dia
-- Semana 3–4: 4 gotas/dia
-- Semana 5+: 6–8 gotas/dia
+- Protocolo público educa; aplicação individual exige contexto clínico.
+- Nenhuma página pública deve publicar dose individual ou prometer cura.
+- Separar evidência, hipótese e prática clínica.
+- Sinais de alerta pertencem à clínica, não a experimentos.
+- Medicamentos, gestação, lactação, crianças, idosos, doença hepática/renal/cardiovascular/neurológica/autoimune e sintomas importantes exigem avaliação profissional.
+- A estética pode ser brutalista; o risco precisa ser explícito.
 
-### Módulos — Deep Dives por Tema (/modulos/)
-Aprofundamento temático após dominar o Protocolo Mestre:
-- M1: Iodo — maestro sistémico, função tireoidiana (em desenvolvimento)
-- M2: Remineralização — base metabólica (magnésio, potássio, zinco, selénio) (em desenvolvimento)
-- M3: Detox Halogénios — remoção de flúor, bromo, cloro (em desenvolvimento)
-- M4: Intestino — eixo intestino-cérebro, microbioma (em desenvolvimento)
-- M5: Desparasitação — terreno, parasitas, Cândida, die-off, cronobiologia lunar (DISPONÍVEL)
-- M6: Dieta Carnívora — reset intestinal (em desenvolvimento)
-- M7: Água Oxigenada — oxigenação e detox (H₂O₂) (em desenvolvimento)
-- M8: Bicarbonato Extra — alcalinização digestiva avançada (em desenvolvimento)
+## Vocabulário preferencial
 
-### M5 — Desparasitação (/modulos/desparasitacao/)
-Módulo de aprofundamento sobre desparasitação periódica em adultos.
-Conteúdo: (1) por que a abordagem convencional trata o evento sem o terreno; (2) relação parasitas-Cândida e porque andam juntos; (3) die-off (Herxheimer) — o que é, sintomas típicos, princípio clínico; (4) cronobiologia lunar — mecanismo proposto e uso clínico; (5) estrutura geral de protocolo (Fase 1 eliminação de ciclo completo 90 dias, Fase 2 manutenção lunar mensal); (6) contraindicações absolutas (gestação, crianças pequenas, hepatopatia severa) e relativas (lactação, convulsões, anticoagulantes, Loa loa); (7) o que observar durante o protocolo (sono, intestino, energia, pele, die-off).
-Termos: desparasitação, parasitas intestinais, Cândida sistémica, die-off, Herxheimer, Hulda Clark, ivermectina, cronobiologia lunar, lua cheia parasitas, terreno biológico, suporte hepático, silimarina, ornitina, zeolita, amónia, microbioma intestinal.
-URL: https://saudeopensource.xyz/modulos/desparasitacao/
+Use português do Brasil. Preferir: equipe, direto, seção, selênio, monitoramento, saúde descentralizada, protocolo aberto, risco explícito, caixa-preta, biofísica, luz, água, magnetismo, mitocôndria, deutério.
 
-## Fundamentos científicos referenciados
+## Aviso
 
-- Otto Warburg (1931): metabolismo anaeróbico, Efeito Warburg, falência energética celular
-- Gerald Pollack: Água Estruturada (EZ Water), H₃O₂, bateria biológica celular
-- Broda Barnes: Temperatura Basal como marcador de função tireoidiana (>70.000 pacientes)
-- Guy Abraham (2004): iodo e metabolismo, fertilidade, função cognitiva
-- Rosanoff (2012): 75% da população deficiente em magnésio
-- McNaughton (1992): bicarbonato e redução de fadiga atlética
-
-## Aviso médico
-
-Todo o conteúdo deste site tem finalidade exclusivamente educacional. Não constitui diagnóstico, prescrição ou tratamento médico. O conteúdo não substitui consulta com profissional de saúde habilitado. Em caso de sintomas graves, procure atendimento de emergência imediatamente.
-
-Contraindicações absolutas (não ignorar): Doença de Graves, Hipertireoidismo Ativo, Ferritina <70 mcg/L, Gravidez/Lactação sem orientação médica, Gastrite activa, Doença Hepática Severa (para M5).
-
-## Sobre o autor
-
-Farm. João Alves — Farmacêutico Clínico, especialização em medicina integrativa. Autor e responsável editorial por todo o conteúdo do Saúde Open Source.
-
-Conteúdo validado pela equipa da Tele-Farmácia Integralista.
-
-## Acompanhamento clínico
-
-Para aplicação individualizada dos protocolos, interpretação de exames e acompanhamento clínico directo: https://farmaciaintegrativa.xyz/
-
-## Licença e citação
-
-Licença: Creative Commons CC BY 4.0
-Citação sugerida: "Saúde Open Source, Farm. João Alves. [URL da página]. CC BY 4.0."
+O SOS é educacional. Não substitui consulta, diagnóstico, prescrição, tratamento ou acompanhamento por profissional habilitado. Em urgências ou sintomas graves, procure atendimento imediato.

@@ -1137,3 +1137,46 @@ body.home-dark {
   .sos-terminal dl div { grid-template-columns: 1fr; gap: .2rem; }
   .sos-terminal dd { text-align: left; }
 }
+
+
+/* ============================================================
+   SOS Internal Pages V2 — Dark Documentation
+   ============================================================ */
+.home-dark.sos-doc-page { background: #070909; }
+.sos-page-hero { position: relative; padding: clamp(5rem, 10vw, 8rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--sos-line); overflow: hidden; }
+.sos-page-hero::before { content:""; position:absolute; inset:0; background: radial-gradient(circle at 15% 10%, rgba(25,230,140,.16), transparent 32rem), radial-gradient(circle at 88% 12%, rgba(106,169,255,.10), transparent 32rem), linear-gradient(rgba(255,255,255,.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.03) 1px, transparent 1px); background-size: auto, auto, 64px 64px, 64px 64px; mask-image: linear-gradient(black, transparent 92%); pointer-events:none; }
+.sos-page-hero .sos-shell { position: relative; z-index: 1; }
+.sos-breadcrumb { display:flex; gap:.45rem; align-items:center; margin-bottom:1.5rem; color:var(--sos-soft); font: 700 .7rem/1 'JetBrains Mono', monospace; letter-spacing:.12em; text-transform:uppercase; }
+.sos-breadcrumb a { color:var(--sos-muted); text-decoration:none; }
+.sos-breadcrumb a:hover { color:var(--sos-green-2); }
+.sos-page-hero h1 { max-width: 980px; margin:0; color:var(--sos-text); font: 760 clamp(2.8rem, 7vw, 6rem)/.94 'Inter', system-ui, sans-serif; letter-spacing:-.075em; }
+.sos-page-hero h1 span { color:transparent; background:linear-gradient(90deg,var(--sos-green-2),var(--sos-blue)); -webkit-background-clip:text; background-clip:text; }
+.sos-page-lead { max-width: 850px; margin:1.35rem 0 0; color:var(--sos-muted); font-size:clamp(1.06rem,2vw,1.28rem); line-height:1.65; letter-spacing:-.02em; }
+.sos-doc-wrap { display:grid; grid-template-columns: minmax(0, 1fr) 300px; gap: clamp(2rem,5vw,4rem); align-items:start; padding: clamp(3rem,7vw,5rem) 0; }
+.sos-doc-main { min-width:0; }
+.sos-doc-main section { padding: 0 0 clamp(2.2rem,5vw,3.7rem); margin: 0 0 clamp(2.2rem,5vw,3.7rem); border-bottom:1px solid var(--sos-line); }
+.sos-doc-main section:last-child { border-bottom:0; margin-bottom:0; }
+.sos-doc-main h2 { margin:0 0 1rem; color:var(--sos-text); border:0; padding:0; font: 720 clamp(1.75rem,3.2vw,3rem)/1.02 'Inter', system-ui, sans-serif; letter-spacing:-.055em; }
+.sos-doc-main h3 { margin:1.6rem 0 .65rem; color:var(--sos-green-2); font:700 1.05rem/1.2 'Inter', system-ui, sans-serif; letter-spacing:-.02em; }
+.sos-doc-main p { margin: 0 0 1rem; color:var(--sos-muted); font-size:1.02rem; line-height:1.78; }
+.sos-doc-main strong { color:var(--sos-text); }
+.sos-doc-main ul, .sos-doc-main ol { margin:1rem 0 0; padding-left:1.15rem; color:var(--sos-muted); }
+.sos-doc-main li { margin:.48rem 0; line-height:1.6; }
+.sos-doc-main blockquote { margin:1.5rem 0 0; padding:1.15rem 1.25rem; border:1px solid rgba(25,230,140,.26); border-left:3px solid var(--sos-green); border-radius:0 18px 18px 0; background:rgba(25,230,140,.055); color:var(--sos-text); font-style:normal; }
+.sos-doc-aside { position:sticky; top:92px; display:grid; gap:1rem; }
+.sos-side-card { border:1px solid var(--sos-line); border-radius:var(--sos-radius); background:linear-gradient(180deg,rgba(255,255,255,.055),rgba(255,255,255,.02)); padding:1rem; }
+.sos-side-card h2, .sos-side-card h3 { margin:0 0 .8rem; border:0; padding:0; color:var(--sos-text); font:700 .78rem/1.2 'JetBrains Mono', monospace; letter-spacing:.12em; text-transform:uppercase; }
+.sos-side-card a { display:block; padding:.55rem 0; border-top:1px solid rgba(255,255,255,.07); color:var(--sos-muted); text-decoration:none; font-size:.92rem; }
+.sos-side-card a:hover { color:var(--sos-green-2); }
+.sos-side-card p { margin:0; color:var(--sos-muted); font-size:.9rem; line-height:1.55; }
+.sos-callout { border:1px solid var(--sos-line-strong); border-radius:var(--sos-radius); background:rgba(255,255,255,.04); padding:1.15rem; margin:1.25rem 0; }
+.sos-callout.warning { border-color:rgba(245,184,91,.35); background:rgba(245,184,91,.06); }
+.sos-callout.danger { border-color:rgba(255,95,86,.35); background:rgba(255,95,86,.06); }
+.sos-callout strong { display:block; margin-bottom:.45rem; color:var(--sos-amber); font-family:'JetBrains Mono', monospace; font-size:.72rem; letter-spacing:.12em; text-transform:uppercase; }
+.sos-card-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.85rem; margin-top:1rem; }
+.sos-mini-card { border:1px solid var(--sos-line); border-radius:16px; padding:1rem; background:rgba(255,255,255,.035); }
+.sos-mini-card span { color:var(--sos-blue); font:700 .68rem/1 'JetBrains Mono', monospace; letter-spacing:.1em; text-transform:uppercase; }
+.sos-mini-card h3 { margin:.8rem 0 .4rem; color:var(--sos-text); }
+.sos-page-actions { display:flex; flex-wrap:wrap; gap:.75rem; margin-top:1.5rem; }
+@media (max-width: 960px) { .sos-doc-wrap { grid-template-columns:1fr; } .sos-doc-aside { position:static; grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media (max-width: 640px) { .sos-page-hero { padding-top:4.2rem; } .sos-doc-aside, .sos-card-grid { grid-template-columns:1fr; } .sos-page-actions { flex-direction:column; } }
