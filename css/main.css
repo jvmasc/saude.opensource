@@ -1180,3 +1180,15 @@ body.home-dark {
 .sos-page-actions { display:flex; flex-wrap:wrap; gap:.75rem; margin-top:1.5rem; }
 @media (max-width: 960px) { .sos-doc-wrap { grid-template-columns:1fr; } .sos-doc-aside { position:static; grid-template-columns:repeat(2,minmax(0,1fr)); } }
 @media (max-width: 640px) { .sos-page-hero { padding-top:4.2rem; } .sos-doc-aside, .sos-card-grid { grid-template-columns:1fr; } .sos-page-actions { flex-direction:column; } }
+
+
+/* SOS Product Polish — Authority, legal, social */
+.sos-author-panel { border:1px solid var(--sos-line-strong); border-radius:28px; padding:clamp(1.1rem,3vw,1.6rem); background:linear-gradient(135deg,rgba(25,230,140,.09),rgba(106,169,255,.045) 55%,rgba(255,255,255,.025)); margin:1.5rem 0; }
+.sos-author-panel h3 { margin:0 0 .55rem; color:var(--sos-text); font-size:clamp(1.35rem,2.2vw,2rem); letter-spacing:-.045em; }
+.sos-author-panel p { margin:.45rem 0; }
+.sos-author-meta { display:flex; flex-wrap:wrap; gap:.55rem; margin-top:1rem; }
+.sos-author-meta span { border:1px solid rgba(255,255,255,.12); border-radius:999px; padding:.42rem .62rem; color:var(--sos-soft); background:rgba(255,255,255,.035); font:700 .68rem/1 'JetBrains Mono', monospace; letter-spacing:.08em; text-transform:uppercase; }
+.sos-legal-index { display:grid; gap:.75rem; margin-top:1rem; }
+.sos-legal-index a { border:1px solid var(--sos-line); border-radius:14px; padding:.85rem .95rem; color:var(--sos-muted); text-decoration:none; background:rgba(255,255,255,.03); }
+.sos-legal-index a:hover { color:var(--sos-green-2); border-color:rgba(25,230,140,.28); }
+.sos-license-box { border:1px dashed rgba(25,230,140,.42); border-radius:20px; padding:1rem; background:rgba(25,230,140,.045); }
