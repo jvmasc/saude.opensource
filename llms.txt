@@ -19,6 +19,9 @@ O SOS defende protocolos abertos, risco explícito, versionamento, separação e
 - Home: https://saudeopensource.xyz/
 - Manifesto: https://saudeopensource.xyz/manifesto/
 - Fundamentos: https://saudeopensource.xyz/fundamentos/
+- Segurança: https://saudeopensource.xyz/seguranca/
+- Glossário: https://saudeopensource.xyz/glossario/
+- Arquitetura 4D: https://saudeopensource.xyz/arquitetura-4d/
 - Screening: https://saudeopensource.xyz/screening/
 - Protocolo Mestre: https://saudeopensource.xyz/protocolo-mestre/
 - Shot Matinal: https://saudeopensource.xyz/protocolo-mestre/shot-matinal.html

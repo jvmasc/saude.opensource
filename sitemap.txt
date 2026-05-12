@@ -1,6 +1,9 @@
 https://saudeopensource.xyz/
 https://saudeopensource.xyz/manifesto/
 https://saudeopensource.xyz/fundamentos/
+https://saudeopensource.xyz/seguranca/
+https://saudeopensource.xyz/glossario/
+https://saudeopensource.xyz/arquitetura-4d/
 https://saudeopensource.xyz/screening/
 https://saudeopensource.xyz/protocolo-mestre/
 https://saudeopensource.xyz/protocolo-mestre/shot-matinal.html
