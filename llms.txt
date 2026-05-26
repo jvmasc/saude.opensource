@@ -1,8 +1,14 @@
 # Saúde Open Source
 
-> Protocolos para uma saúde descentralizada.
+> Descentralização, verdade e integridade.
 
-Saúde Open Source (SOS) é um repositório público de protocolos educacionais, rastreáveis e versionados para saúde descentralizada. O conteúdo não constitui diagnóstico, prescrição, tratamento ou relação profissional-paciente. Aplicação individual exige exames, histórico, medicamentos, contraindicações e profissional habilitado quando necessário.
+Saúde Open Source (SOS) é uma plataforma pública de conhecimento em saúde — descentralizada, rastreável e versionada. Nasce de três compromissos: abrir o código da saúde, voltar aos primeiros princípios do corpo vivo e impedir que conhecimento vire propaganda. O conteúdo público educa; a avaliação individual exige contexto clínico com profissional habilitado.
+
+## Tríade fundadora
+
+- **Descentralização:** conhecimento aberto, inteligível e rastreável.
+- **Verdade:** primeiros princípios do corpo vivo, fonte, mecanismo e limite do que se sabe.
+- **Integridade:** coerência entre educação pública, formação e avaliação individual.
 
 Site canônico: https://saudeopensource.xyz/
 GitHub: https://github.com/jvmasc/saude.opensource
@@ -10,13 +16,12 @@ Tele-Farmácia: https://farmaciaintegrativa.xyz/
 
 ## Tese editorial
 
-A saúde centralizada virou caixa-preta. Nós abrimos o código.
-
-O SOS defende protocolos abertos, risco explícito, versionamento, separação entre evidência/hipótese/prática clínica e ponte responsável com profissionais habilitados. Saúde descentralizada não é abandono: é soberania com método.
+Antes do remédio, a vida. A plataforma não nasce defendendo uma molécula — nasce declarando que o corpo vivo é um sistema eletrodinâmico aberto e que a função profunda do cuidado é restaurar as condições de vitalidade antes de qualquer intervenção farmacológica.
 
 ## Páginas principais
 
 - Home: https://saudeopensource.xyz/
+- Peça 01 — Antes do remédio, a vida: https://saudeopensource.xyz/antes-do-remedio-a-vida/
 - Manifesto: https://saudeopensource.xyz/manifesto/
 - Fundamentos: https://saudeopensource.xyz/fundamentos/
 - Segurança: https://saudeopensource.xyz/seguranca/
@@ -34,16 +39,16 @@ O SOS defende protocolos abertos, risco explícito, versionamento, separação e
 
 ## Princípios
 
+- Descentralização, verdade e integridade governam toda publicação.
 - Protocolo público educa; aplicação individual exige contexto clínico.
 - Nenhuma página pública deve publicar dose individual ou prometer cura.
 - Separar evidência, hipótese e prática clínica.
 - Sinais de alerta pertencem à clínica, não a experimentos.
 - Medicamentos, gestação, lactação, crianças, idosos, doença hepática/renal/cardiovascular/neurológica/autoimune e sintomas importantes exigem avaliação profissional.
-- A estética pode ser brutalista; o risco precisa ser explícito.
 
 ## Vocabulário preferencial
 
-Use português do Brasil. Preferir: equipe, direto, seção, selênio, monitoramento, saúde descentralizada, protocolo aberto, risco explícito, caixa-preta, biofísica, luz, água, magnetismo, mitocôndria, deutério.
+Use português do Brasil. Preferir: equipe, direto, seção, selênio, monitoramento, descentralização, verdade, integridade, corpo vivo, biofísica, luz, água, magnetismo, mitocôndria, primeiros princípios.
 
 ## Aviso
 
