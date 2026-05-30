@@ -4,7 +4,7 @@ Protocolos para uma saúde descentralizada.
 
 > A saúde centralizada virou caixa-preta. Nós abrimos o código.
 
-Saúde Open Source é uma biblioteca pública, educacional e versionada de fundamentos, screenings, protocolos e módulos de saúde integrativa. A proposta não é substituir acompanhamento clínico. É documentar raciocínio, riscos, contraindicações, referências e limites — de forma aberta, rastreável e revisável.
+Saúde Open Source é uma biblioteca pública, educacional e versionada de fundamentos, screenings, protocolos e módulos de saúde integrativa. O Manifesto 2.0 (2026-05-30) estabelece a tese ampliada: a falta de sol, água e magnetismo correto é urgência primária — o Protocolo Mestre · Ciclo 001 é a primeira publicação estrutural a partir dessa tese. A proposta não é substituir acompanhamento clínico. É documentar raciocínio, riscos, contraindicações, referências e limites — de forma aberta, rastreável e revisável.
 
 ## Arquitetura do projeto
 

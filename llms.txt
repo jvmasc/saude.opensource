@@ -2,7 +2,7 @@
 
 > Descentralização, verdade e integridade.
 
-Saúde Open Source (SOS) é uma plataforma pública de conhecimento em saúde — descentralizada, rastreável e versionada. Nasce de três compromissos: abrir o código da saúde, voltar aos primeiros princípios do corpo vivo e impedir que conhecimento vire propaganda. O conteúdo público educa; a avaliação individual exige contexto clínico com profissional habilitado.
+Saúde Open Source (SOS) é uma plataforma pública de conhecimento em saúde — descentralizada, rastreável e versionada. Nasce de três compromissos: abrir o código da saúde, voltar aos primeiros princípios do corpo vivo e impedir que conhecimento vire propaganda. O Manifesto 2.0 (2026-05-30) atualiza a tese fundadora: a falta de sol, água e magnetismo correto é urgência primária — não lifestyle secundário. O Protocolo Mestre · Ciclo 001 é a primeira publicação estrutural da plataforma. O conteúdo público educa; a avaliação individual exige contexto clínico com profissional habilitado.
 
 ## Tríade fundadora
 
@@ -18,17 +18,19 @@ Tele-Farmácia: https://farmaciaintegrativa.xyz/
 
 Antes do remédio, a vida. A plataforma não nasce defendendo uma molécula — nasce declarando que o corpo vivo é um sistema eletrodinâmico aberto e que a função profunda do cuidado é restaurar as condições de vitalidade antes de qualquer intervenção farmacológica.
 
+O Manifesto 2.0 amplia essa tese: a falta de acoplamento físico com luz solar real, água estruturada e campo geomagnético não é detalhe de estilo de vida — é a perturbação raiz que precede toda bioquímica fora de ordem. O Protocolo Mestre · Ciclo 001 organiza seis pilares físicos (fundamentos, sol/luz, água/deutério, magnetismo/campo, movimento/fáscia, integração clínica) como porta de entrada estrutural antes dos módulos específicos.
+
 ## Páginas principais
 
 - Home: https://saudeopensource.xyz/
 - Peça 01 — Antes do remédio, a vida: https://saudeopensource.xyz/antes-do-remedio-a-vida/
-- Manifesto: https://saudeopensource.xyz/manifesto/
+- Manifesto 2.0: https://saudeopensource.xyz/manifesto/
 - Fundamentos: https://saudeopensource.xyz/fundamentos/
 - Segurança: https://saudeopensource.xyz/seguranca/
 - Glossário: https://saudeopensource.xyz/glossario/
 - Arquitetura 4D: https://saudeopensource.xyz/arquitetura-4d/
 - Screening: https://saudeopensource.xyz/screening/
-- Protocolo Mestre: https://saudeopensource.xyz/protocolo-mestre/
+- Protocolo Mestre · Ciclo 001: https://saudeopensource.xyz/protocolo-mestre/
 - Shot Matinal: https://saudeopensource.xyz/protocolo-mestre/shot-matinal.html
 - Timeline 90 Dias: https://saudeopensource.xyz/protocolo-mestre/timeline-90-dias.html
 - FAQ: https://saudeopensource.xyz/protocolo-mestre/faq.html
