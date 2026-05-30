@@ -8,6 +8,9 @@ Saúde Open Source é uma biblioteca pública, educacional e versionada de funda
 
 ## Arquitetura do projeto
 
+O site público gira em torno do **Protocolo Mestre · Ciclo 001** como entrada operacional do SOS. O Manifesto 2.0 sustenta a tese; fundamentos, screening, módulos e Tele-Farmácia orbitam esse eixo.
+
+
 - Marca: Saúde Open Source
 - Tese: saúde descentralizada
 - Domínio pretendido: https://saudeopensource.xyz
