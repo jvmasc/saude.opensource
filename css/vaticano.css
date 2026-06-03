@@ -1,0 +1,712 @@
+/* ============================================================
+   SOS Vaticano — Tema Claro Institucional-Sacra
+   Referência: Vaticano/Santa Sé mobile
+   Ativado por: body.home-dark.sos-vaticano
+   ============================================================ */
+
+/* --- Reset de corpo — fundo claro, sem decoração --- */
+body.home-dark.sos-vaticano {
+  --sos-bg: #fefefa;
+  --sos-panel: #ffffff;
+  --sos-panel-2: #f8f5f0;
+  --sos-panel-3: #f3efe8;
+  --sos-text: #1a1a18;
+  --sos-muted: #4a4844;
+  --sos-soft: #7a7670;
+  --sos-line: rgba(26, 26, 24, 0.10);
+  --sos-line-strong: rgba(26, 26, 24, 0.18);
+  --sos-green: #b8963e;
+  --sos-green-2: #8b6914;
+  --sos-blue: #5a4a2a;
+  --sos-red: #8b2020;
+  --sos-amber: #7a5c00;
+  --sos-radius: 6px;
+  --sos-radius-lg: 6px;
+  --sos-max: 1180px;
+
+  margin: 0;
+  background: #fefefa;
+  color: var(--sos-text);
+  font-family: 'EB Garamond', 'Georgia', serif;
+  line-height: 1.7;
+  min-height: 100vh;
+  overflow-x: clip;
+}
+
+/* Zero decoração de fundo */
+body.home-dark.sos-vaticano {
+  background-image: none;
+}
+
+/* Tipografia base — serifa para tudo, override via classes específicas */
+body.home-dark.sos-vaticano,
+body.home-dark.sos-vaticano p,
+body.home-dark.sos-vaticano li,
+body.home-dark.sos-vaticano blockquote {
+  font-family: 'EB Garamond', 'Georgia', serif;
+}
+
+/* Seleção */
+body.home-dark.sos-vaticano ::selection {
+  background: #b8963e;
+  color: #fefefa;
+}
+body.home-dark.sos-vaticano :focus-visible {
+  outline: 2px solid #b8963e;
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+
+/* ============================================================
+   TOPBAR — Claro, sem blur, sem glow
+   ============================================================ */
+body.sos-vaticano .sos-topbar {
+  background: #fefefa;
+  border-bottom: 1px solid #d4cfc4;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+/* Brand mark — dourado, sem glow */
+body.sos-vaticano .sos-brand-mark {
+  border: 1px solid #b8963e;
+  background: #f5edd8;
+  color: #8b6914;
+  box-shadow: none;
+  font-family: 'EB Garamond', 'Georgia', serif;
+}
+
+body.sos-vaticano .sos-brand-text strong {
+  font-family: 'EB Garamond', 'Georgia', serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+body.sos-vaticano .sos-brand-text small {
+  font-family: 'Inter', system-ui, sans-serif;
+  color: var(--sos-muted);
+  letter-spacing: 0.02em;
+  text-transform: none;
+  font-size: 0.7rem;
+}
+
+/* Nav — sem uppercase forçado, sans-serif limpo */
+body.sos-vaticano .sos-nav a {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.82rem;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--sos-muted);
+  border-radius: 4px;
+  padding: 0.62rem 0.75rem;
+}
+body.sos-vaticano .sos-nav a:hover {
+  color: var(--sos-text);
+  background: #f3efe8;
+}
+body.sos-vaticano .sos-nav a[aria-current="page"] {
+  color: #1a1a18;
+  font-weight: 600;
+}
+
+/* CTA no header — botão contido, preto, sem glow */
+body.sos-vaticano .sos-nav-cta {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  text-transform: none;
+  background: #1a1a18;
+  color: #fefefa;
+  border: 1px solid #1a1a18;
+  border-radius: 4px;
+  box-shadow: none;
+  padding: 0.62rem 0.9rem;
+}
+body.sos-vaticano .sos-nav-cta:hover {
+  background: #4a4844;
+  border-color: #4a4844;
+  color: #fefefa;
+  transform: none;
+}
+
+/* ============================================================
+   HERO — Sem grid de fundo, sem círculo, sem gradiente
+   ============================================================ */
+body.sos-vaticano .sos-hero-bg {
+  display: none;
+}
+body.sos-vaticano .sos-hero::after {
+  display: none;
+}
+
+body.sos-vaticano .sos-hero {
+  background: #f5f0e8;
+  min-height: auto;
+  padding: clamp(5rem, 10vw, 8rem) 0 clamp(4rem, 6vw, 5rem);
+}
+
+body.sos-vaticano .sos-hero-grid {
+  grid-template-columns: 1fr;
+  max-width: 760px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Kicker — discreto, sem verde neon */
+body.sos-vaticano .sos-kicker,
+body.sos-vaticano .sos-label {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--sos-muted);
+}
+
+/* H1 centralizado, serifa grande */
+body.sos-vaticano .sos-hero h1 {
+  font-family: 'EB Garamond', 'Georgia', serif;
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  color: #1a1a18;
+  max-width: 680px;
+  margin: 0 auto;
+}
+body.sos-vaticano .sos-hero h1 span {
+  color: #b8963e;
+  background: none;
+  -webkit-background-clip: unset;
+  background-clip: unset;
+}
+
+/* Lead — serifa */
+body.sos-vaticano .sos-lead {
+  font-family: 'EB Garamond', 'Georgia', serif;
+  font-size: clamp(1.1rem, 1.8vw, 1.25rem);
+  line-height: 1.65;
+  color: var(--sos-muted);
+  max-width: 620px;
+  margin: 1.5rem auto 0;
+}
+
+/* Ações — centralizadas */
+body.sos-vaticano .sos-actions {
+  justify-content: center;
+}
+
+/* Botões — retangulares, sem glow, sem uppercase, sem monospace */
+body.sos-vaticano .sos-btn {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  text-transform: none;
+  border-radius: 4px;
+  min-height: 46px;
+  padding: 0.75rem 1.3rem;
+}
+body.sos-vaticano .sos-btn:hover {
+  transform: none;
+}
+body.sos-vaticano .sos-btn-primary {
+  background: #1a1a18;
+  color: #fefefa;
+  border: 1px solid #1a1a18;
+  box-shadow: none;
+}
+body.sos-vaticano .sos-btn-primary:hover {
+  background: #b8963e;
+  border-color: #b8963e;
+}
+body.sos-vaticano .sos-btn-secondary {
+  background: transparent;
+  color: #1a1a18;
+  border: 1px solid #d4cfc4;
+}
+body.sos-vaticano .sos-btn-secondary:hover {
+  border-color: #b8963e;
+  color: #b8963e;
+  background: #fdfaf5;
+}
+
+/* Light button override */
+body.sos-vaticano.home-dark .sos-btn.sos-btn-light,
+body.sos-vaticano.home-dark a.sos-btn.sos-btn-light {
+  background: #1a1a18;
+  color: #fefefa;
+  border: 1px solid #1a1a18;
+  box-shadow: none;
+}
+body.sos-vaticano.home-dark .sos-btn.sos-btn-light:hover,
+body.sos-vaticano.home-dark a.sos-btn.sos-btn-light:hover {
+  background: #b8963e;
+  border-color: #b8963e;
+  color: #fefefa;
+}
+
+/* Trustline — sem pills, discreto */
+body.sos-vaticano .sos-trustline li,
+body.sos-vaticano .sos-badges span {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0;
+  text-transform: none;
+  border-radius: 4px;
+  border: 1px solid #d4cfc4;
+  background: #f8f5f0;
+  color: var(--sos-muted);
+}
+
+/* ============================================================
+   TERMINAL — Transformado em tabela limpa
+   ============================================================ */
+body.sos-vaticano .sos-terminal {
+  max-width: 500px;
+  margin: 0 auto;
+  border: 1px solid #d4cfc4;
+  border-radius: 6px;
+  background: #ffffff;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+body.sos-vaticano .sos-terminal::before {
+  display: none;
+}
+body.sos-vaticano .sos-terminal-top {
+  font-family: 'Inter', system-ui, sans-serif;
+  color: var(--sos-muted);
+  background: #f8f5f0;
+  border-bottom: 1px solid #d4cfc4;
+  font-size: 0.78rem;
+}
+body.sos-vaticano .sos-terminal-top span {
+  background: #d4cfc4 !important;
+  opacity: 1;
+}
+body.sos-vaticano .sos-terminal-top span:nth-child(2) {
+  background: #b8963e !important;
+}
+body.sos-vaticano .sos-terminal-top span:nth-child(3) {
+  background: #4a4844 !important;
+}
+body.sos-vaticano .sos-terminal-top strong {
+  color: var(--sos-muted);
+}
+body.sos-vaticano .sos-terminal dl div {
+  font-family: 'Inter', system-ui, sans-serif;
+  border-bottom: 1px solid #e8e3d8;
+  color: var(--sos-muted);
+}
+body.sos-vaticano .sos-terminal dt {
+  color: var(--sos-soft);
+}
+body.sos-vaticano .sos-terminal dd {
+  color: #1a1a18;
+}
+body.sos-vaticano .sos-terminal-note {
+  color: var(--sos-soft);
+  border-top: 1px solid #e8e3d8;
+}
+
+/* ============================================================
+   SEÇÕES — Fundo claro, bordas finas, sem decoração
+   ============================================================ */
+body.sos-vaticano .sos-section {
+  border-bottom: 1px solid #e8e3d8;
+}
+
+body.sos-vaticano .sos-section h2 {
+  font-family: 'EB Garamond', 'Georgia', serif;
+  font-size: clamp(1.8rem, 3.5vw, 2.8rem);
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  color: #1a1a18;
+}
+
+body.sos-vaticano .sos-prose p,
+body.sos-vaticano .sos-section-head p,
+body.sos-vaticano .sos-feature-card p,
+body.sos-vaticano .sos-bridge-inner p {
+  color: var(--sos-muted);
+  font-size: 1.06rem;
+}
+
+body.sos-vaticano .sos-prose blockquote {
+  border: 1px solid #d4cfc4;
+  border-left: 3px solid #b8963e;
+  border-radius: 0 4px 4px 0;
+  background: #fdfaf5;
+  color: var(--sos-text);
+  font-style: italic;
+}
+
+/* Safety bar */
+body.sos-vaticano .sos-safety {
+  border-top: 1px solid #e8e3d8;
+  border-bottom: 1px solid #e8e3d8;
+  background: #fdfaf5;
+}
+body.sos-vaticano .sos-safety strong {
+  color: var(--sos-amber);
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.78rem;
+  text-transform: none;
+  letter-spacing: 0;
+}
+body.sos-vaticano .sos-safety p {
+  color: var(--sos-muted);
+}
+body.sos-vaticano .sos-safety a {
+  color: #b8963e;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 600;
+  text-transform: none;
+}
+
+/* ============================================================
+   CARDS — Superfície clara, borda fina, sem glow/barra
+   ============================================================ */
+body.sos-vaticano .sos-step,
+body.sos-vaticano .sos-principles article {
+  border: 1px solid #d4cfc4;
+  border-radius: 6px;
+  background: #ffffff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+body.sos-vaticano .sos-step::after,
+body.sos-vaticano .sos-principles article::after {
+  display: none;
+}
+body.sos-vaticano .sos-step:hover,
+body.sos-vaticano .sos-principles article:hover {
+  transform: none;
+  border-color: #b8963e;
+  background: #fdfaf5;
+}
+body.sos-vaticano .sos-step span {
+  font-family: 'Inter', system-ui, sans-serif;
+  color: #b8963e;
+  font-size: 0.8rem;
+}
+body.sos-vaticano .sos-step strong,
+body.sos-vaticano .sos-principles h3 {
+  font-family: 'EB Garamond', 'Georgia', serif;
+  color: #1a1a18;
+  font-size: 1.15rem;
+}
+body.sos-vaticano .sos-step p,
+body.sos-vaticano .sos-principles p {
+  color: var(--sos-muted);
+}
+body.sos-vaticano .sos-step-bridge {
+  border-color: #b8963e;
+  background: #fdfaf5;
+}
+
+body.sos-vaticano .sos-principles article span {
+  font-family: 'Inter', system-ui, sans-serif;
+  color: var(--sos-muted);
+}
+body.sos-vaticano .sos-principles h3 {
+  font-family: 'EB Garamond', 'Georgia', serif;
+}
+
+/* ============================================================
+   FEATURE CARDS / BRIDGE — Claros, sem gradiente
+   ============================================================ */
+body.sos-vaticano .sos-feature-card,
+body.sos-vaticano .sos-bridge-inner {
+  border: 1px solid #d4cfc4;
+  border-radius: 6px;
+  background: #ffffff;
+  box-shadow: none;
+}
+body.sos-vaticano .sos-bridge {
+  background: #f5f0e8;
+}
+body.sos-vaticano .sos-bridge-inner {
+  background: #ffffff;
+}
+
+body.sos-vaticano .sos-open {
+  background: #f8f5f0;
+}
+
+/* ============================================================
+   FOOTER — Claro, integrado, sem buraco negro
+   ============================================================ */
+body.sos-vaticano .sos-footer {
+  background: #f5f0e8;
+  color: var(--sos-muted);
+  border-top: 1px solid #d4cfc4;
+}
+body.sos-vaticano .sos-footer strong {
+  color: #1a1a18;
+  font-family: 'EB Garamond', 'Georgia', serif;
+  font-size: 1.1rem;
+}
+body.sos-vaticano .sos-footer span {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--sos-soft);
+}
+body.sos-vaticano .sos-footer p {
+  color: var(--sos-muted);
+}
+body.sos-vaticano .sos-footer a {
+  color: var(--sos-muted);
+  font-size: 0.9rem;
+}
+body.sos-vaticano .sos-footer a:hover {
+  color: #b8963e;
+}
+
+/* ============================================================
+   PÁGINAS INTERNAS — Hero claro, tipografia serifa
+   ============================================================ */
+body.sos-vaticano.home-dark.sos-doc-page {
+  background: #fefefa;
+}
+
+body.sos-vaticano .sos-page-hero {
+  background: #f5f0e8;
+  border-bottom: 1px solid #d4cfc4;
+}
+body.sos-vaticano .sos-page-hero::before {
+  display: none;
+}
+
+body.sos-vaticano .sos-breadcrumb {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: var(--sos-soft);
+}
+body.sos-vaticano .sos-breadcrumb a {
+  color: var(--sos-muted);
+}
+body.sos-vaticano .sos-breadcrumb a:hover {
+  color: #b8963e;
+}
+
+/* H1 da página interna — centralizado, serifa */
+body.sos-vaticano .sos-page-hero h1 {
+  font-family: 'EB Garamond', 'Georgia', serif;
+  color: #1a1a18;
+  max-width: 760px;
+}
+body.sos-vaticano .sos-page-hero h1 span {
+  background: none;
+  -webkit-background-clip: unset;
+  background-clip: unset;
+  color: #b8963e;
+}
+
+body.sos-vaticano .sos-page-lead {
+  font-family: 'EB Garamond', 'Georgia', serif;
+  color: var(--sos-muted);
+  max-width: 680px;
+}
+
+body.sos-vaticano .sos-page-actions {
+  justify-content: flex-start;
+}
+
+/* Documento principal */
+body.sos-vaticano .sos-doc-wrap {
+  padding: clamp(3rem, 6vw, 5rem) 0;
+}
+
+body.sos-vaticano .sos-doc-main section {
+  border-bottom: 1px solid #e8e3d8;
+}
+
+body.sos-vaticano .sos-doc-main h2 {
+  font-family: 'EB Garamond', 'Georgia', serif;
+  color: #1a1a18;
+  font-weight: 700;
+  font-size: clamp(1.6rem, 2.8vw, 2.4rem);
+  line-height: 1.12;
+  letter-spacing: -0.01em;
+}
+
+body.sos-vaticano .sos-doc-main h3 {
+  font-family: 'EB Garamond', 'Georgia', serif;
+  color: #b8963e;
+  font-weight: 600;
+}
+
+body.sos-vaticano .sos-doc-main p {
+  color: var(--sos-muted);
+  font-family: 'EB Garamond', 'Georgia', serif;
+  font-size: 1.06rem;
+  line-height: 1.78;
+}
+
+body.sos-vaticano .sos-doc-main strong {
+  color: #1a1a18;
+}
+
+body.sos-vaticano .sos-doc-main ul,
+body.sos-vaticano .sos-doc-main ol {
+  color: var(--sos-muted);
+  font-family: 'EB Garamond', 'Georgia', serif;
+}
+
+body.sos-vaticano .sos-doc-main blockquote {
+  border: 1px solid #d4cfc4;
+  border-left: 3px solid #b8963e;
+  border-radius: 0 4px 4px 0;
+  background: #fdfaf5;
+  color: #1a1a18;
+  font-style: italic;
+}
+
+/* ============================================================
+   ASIDE LATERAL — Claro, integrado
+   ============================================================ */
+body.sos-vaticano .sos-side-card {
+  border: 1px solid #d4cfc4;
+  border-radius: 6px;
+  background: #ffffff;
+  box-shadow: none;
+}
+body.sos-vaticano .sos-side-card h2,
+body.sos-vaticano .sos-side-card h3 {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: var(--sos-soft);
+}
+body.sos-vaticano .sos-side-card a {
+  color: var(--sos-muted);
+  border-top: 1px solid #e8e3d8;
+  font-size: 0.88rem;
+}
+body.sos-vaticano .sos-side-card a:hover {
+  color: #b8963e;
+}
+body.sos-vaticano .sos-side-card p {
+  color: var(--sos-muted);
+}
+
+/* ============================================================
+   CALLOUTS — Fundos claros, bordas douradas/ocres/vermelhas
+   ============================================================ */
+body.sos-vaticano .sos-callout {
+  border: 1px solid #d4cfc4;
+  border-radius: 4px;
+  background: #f8f5f0;
+}
+body.sos-vaticano .sos-callout.warning {
+  border-color: #d4b84a;
+  background: #fdfaee;
+}
+body.sos-vaticano .sos-callout.danger {
+  border-color: #c44a4a;
+  background: #fdf2f2;
+}
+body.sos-vaticano .sos-callout strong {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: var(--sos-muted);
+}
+body.sos-vaticano .sos-callout.warning strong {
+  color: #7a5c00;
+}
+body.sos-vaticano .sos-callout.danger strong {
+  color: #8b2020;
+}
+
+/* ============================================================
+   MINI CARDS — Claros
+   ============================================================ */
+body.sos-vaticano .sos-mini-card {
+  border: 1px solid #d4cfc4;
+  border-radius: 6px;
+  background: #ffffff;
+}
+body.sos-vaticano .sos-mini-card span {
+  font-family: 'Inter', system-ui, sans-serif;
+  color: #b8963e;
+  font-size: 0.68rem;
+}
+body.sos-vaticano .sos-mini-card h3 {
+  color: #1a1a18;
+  font-family: 'EB Garamond', 'Georgia', serif;
+}
+
+/* ============================================================
+   ELEMENTOS LEGAL/ESPECIAIS
+   ============================================================ */
+body.sos-vaticano .sos-author-panel {
+  border: 1px solid #d4cfc4;
+  border-radius: 6px;
+  background: #ffffff;
+}
+body.sos-vaticano .sos-author-meta span {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.68rem;
+  border: 1px solid #d4cfc4;
+  background: #f8f5f0;
+  color: var(--sos-muted);
+  border-radius: 4px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+body.sos-vaticano .sos-legal-index a {
+  border: 1px solid #d4cfc4;
+  border-radius: 4px;
+  background: #ffffff;
+  color: var(--sos-muted);
+}
+body.sos-vaticano .sos-legal-index a:hover {
+  color: #b8963e;
+  border-color: #b8963e;
+}
+
+body.sos-vaticano .sos-license-box {
+  border: 1px dashed #b8963e;
+  border-radius: 6px;
+  background: #fdfaf5;
+}
+
+/* ============================================================
+   MOBILE — Ajustes
+   ============================================================ */
+@media (max-width: 1020px) {
+  body.sos-vaticano .sos-hero-grid,
+  body.sos-vaticano .sos-two-col,
+  body.sos-vaticano .sos-feature-card,
+  body.sos-vaticano .sos-bridge-inner {
+    grid-template-columns: 1fr;
+  }
+  body.sos-vaticano .sos-terminal {
+    max-width: 480px;
+  }
+}
+
+@media (max-width: 640px) {
+  body.sos-vaticano .sos-hero {
+    padding-top: 4.6rem;
+  }
+  body.sos-vaticano .sos-hero h1 {
+    font-size: clamp(2rem, 12vw, 3rem);
+  }
+  body.sos-vaticano .sos-btn {
+    width: 100%;
+  }
+}
+
+/* ============================================================
+   LARGURA MÁXIMA DE TEXTO — Leitura confortável
+   ============================================================ */
+body.sos-vaticano .sos-doc-main {
+  max-width: 680px;
+}
