@@ -710,3 +710,60 @@ body.sos-vaticano .sos-license-box {
 body.sos-vaticano .sos-doc-main {
   max-width: 680px;
 }
+
+/* ============================================================
+   QA MOBILE — refinamentos pós-deploy
+   Garante alvos de toque confortáveis e destaca a camada de segurança
+   ============================================================ */
+body.sos-vaticano .sos-topbar a,
+body.sos-vaticano .sos-nav a,
+body.sos-vaticano .sos-footer a,
+body.sos-vaticano .sos-trustline a,
+body.sos-vaticano .sos-trustline li,
+body.sos-vaticano .sos-badges span,
+body.sos-vaticano .sos-safety a {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+body.sos-vaticano .sos-trustline li,
+body.sos-vaticano .sos-badges span {
+  padding: 0.55rem 0.72rem;
+}
+
+body.sos-vaticano .sos-safety {
+  border-top: 1px solid rgba(184, 150, 62, 0.45);
+  border-bottom: 1px solid rgba(184, 150, 62, 0.45);
+  background: #fff8e8;
+}
+body.sos-vaticano .sos-safety strong {
+  color: #7a5c00;
+  font-size: 0.84rem;
+  font-weight: 700;
+}
+body.sos-vaticano .sos-safety a {
+  border: 1px solid rgba(184, 150, 62, 0.55);
+  border-radius: 4px;
+  color: #1a1a18;
+  padding: 0.42rem 0.72rem;
+  text-decoration: none;
+}
+body.sos-vaticano .sos-safety a:hover {
+  background: #b8963e;
+  color: #fefefa;
+}
+
+@media (max-width: 640px) {
+  body.sos-vaticano .sos-nav-cta {
+    min-height: 44px;
+    padding-inline: 0.88rem;
+  }
+  body.sos-vaticano .sos-footer a {
+    width: fit-content;
+    padding-block: 0.35rem;
+  }
+  body.sos-vaticano .sos-terminal dl div {
+    gap: 0.35rem;
+  }
+}
